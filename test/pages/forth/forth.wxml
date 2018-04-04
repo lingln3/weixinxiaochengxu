@@ -1,0 +1,42 @@
+<!--pages/forth/forth.wxml-->
+<!--myTemplate-->
+<template name="myTemplate">
+<view>--内容--</view>
+<view>{{content}}</view>
+<view>{{name}}</view>
+<view>{{myObj.key1}}</view>
+<view>{{key2}}</view>
+<view>{{key3}}</view>
+</template>
+<!--msgItem-->
+<template name="msgItem">
+<view>
+  <text>{{index}}:{{msg}}</text>
+  <text>Time:{{time}}</text>
+</view>
+</template>
+<!--odd-->
+<template name="odd">
+<view>odd</view>
+</template>
+<!--even-->
+<template name="even">
+<view>even</view>
+</template>
+<!--template嵌套-->
+<template name="bTemplate">
+<view>b template content</view>
+</template>
+<template name="aTemplate">
+<view>a template content</view>
+<template is="bTemplate"/>
+</template>
+
+<template is="myTemplate" data="{{content:'内容',name,myObj,...myObj2}}"/>
+<template is="msgItem" data="{{...item}}"/>
+<block wx:for="{{[1,2,3,4,5]}}">
+  <template is="{{item%2 == 0?'even':'odd'}}"/>
+</block>
+<template is="aTemplate"/>
+<button style='border:solid 1px;position=fixed;bottom=20px;right=20px;' 
+        bindtap='back'>上一页</button>

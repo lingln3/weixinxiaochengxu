@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/second/second",
+    "pages/third/third",
+    "pages/forth/forth",
+    "pages/fifth/fifth"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "我的小程序",
+    "navigationBarTextStyle": "black",
+    "backgroundColorTop": "#eeeeee"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志"
+      },
+      {
+        "pagePath": "pages/forth/forth",
+        "text": "第四页"
+      },
+      {
+        "pagePath": "pages/fifth/fifth",
+        "text": "第五页"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true
+}

@@ -1,0 +1,6 @@
+/* pages/third/third.wxss */
+/*选择所有class含有myClass的组件，并设置边框*/
+.myClass{border:solid 1px#000;}
+
+/*选择所有view组件且class含有myClass的组件，并设置边框*/
+view.myClass{border :solid 1px#000;}

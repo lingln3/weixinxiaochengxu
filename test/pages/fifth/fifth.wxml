@@ -1,0 +1,16 @@
+<!--pages/fifth/fifth.wxml-->
+<!--scroll-view组件学习-->
+<!--scroll-into-view值为某子元素id，滚动到该元素时，元素顶部对齐滚动区域顶部-->
+<scroll-view class="scroll-container" upper-threshold="0" lower-threshold="100" 
+              scroll-into-view="{{toView}}" bindscroll="scroll" bindscrolltolower="scrollToLower"
+              bindscrolltoupper="scrollToUpper" scroll-y="true" scroll-top="{{scrollTop}}">
+              <view id="item-1" class="scroll-item bg-red">1</view>
+              <view id="item-2" class="scroll-item bg-blue">2</view>
+              <view id="item-3" class="scroll-item bg-red">3</view>
+              <view id="item-4" class="scroll-item bg-blue">4</view>
+              <view id="item-5" class="scroll-item bg-red">5</view>
+              <view id="item-6" class="scroll-item bg-green">6</view>
+</scroll-view>
+<view class="act">
+<button bindtap="scrollToTop">点击滚动到顶部</button>
+</view>

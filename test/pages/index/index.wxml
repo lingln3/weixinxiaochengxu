@@ -1,0 +1,27 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+    <block wx:else>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </block>
+  </view>
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+  <view>{{msg}}</view>
+  <button bindtap="clickMe">点击我</button>
+  <button bindtap="Next">下一页</button>
+  <button bindtap="Log">日志</button>
+</view>
+<!--列表渲染-->
+<view class="myNew" wx:for="{{list}}">{{item.title}}<view bindtap="readDetail" data-id="{{item.id}}
+      data-title="{{item.title}}" data-content="{{item.content}}">{{item.content}}</view>
+</view>
+<!--添加页面选择模块-->
+<view>页面跳转</view>
+<scroll-view class='pages-container' scroll-y="true"> 
+  <!--<view wx:for="{{myPages}}">第<view bindtap="pages"  data-id="{{item.id}}" data-url="{{item.url}}">{{item.id}}页</view></view>-->
+  <view wx:for="{{myPages}}" bindtap="pages"  data-id="{{item.id}}" data-url="{{item.url}}">第{{item.id}}页</view>
+</scroll-view>

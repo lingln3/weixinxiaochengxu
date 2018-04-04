@@ -1,0 +1,15 @@
+/* pages/fifth/fifth.wxss */
+/*给与固定高度*/
+.scroll-container{
+  border:solid 1px;
+  height:800rpx;
+}
+/*注意，scroll-container后面一定要加空格*/
+.scroll-container .scroll-item{
+  height:300rpx;
+  width:120%;
+}
+.bg-blue{background-color:#87CEFA;}
+.bg-red{background-color:#FF6347;}
+.bg-green{background-color:#ffccaa;}
+.act{padding:10px;}

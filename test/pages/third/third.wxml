@@ -1,0 +1,51 @@
+<!--pages/third/third.wxml-->
+<view class="container">
+<text>第{{count}}次按下按钮</text>
+<button bindtap="change_msg">改变数字</button>
+<view style='border:solid 1px;' >文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文<view style='border:solid 1px;display:block;float:right;'>浮动框</view>文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文</view></view>
+<!---->
+
+
+<!--父元素会包含清除浮动元素-->
+<view style="border:solid 1px;">
+<view>hhhhhh</view>
+<view style="border:solid 1px;float:left;">浮动框1</view>
+<!--清除，设置当前元素左边不能出现浮动元素-->
+<view style='clear:left'>清除浮动元素</view>
+</view>
+
+
+
+<!--data-name="MINA"通过dataset向JS传递一个名为name的变量。dataset的书写方式是以data-开头，多个单词由连字符-连接，不能有大写，最终在event.target.dataset中将连字符转成驼峰-->
+<view data-name="MINA" bindtap="changeText">{{text}}</view>
+<view style='position:fixed;right:10px;bottom:30px;border:solid 1px;'>{{txt}}fixed</view>
+
+<view style='display:flex;'>
+  <view style="background-color:red;flex-grow:1;height:80rpx;">
+  </view>
+  <view style="background-color:blue;flex-grow:1;height:80rpx;">
+  </view>
+  <view style="background-color:green;flex-grow:1;height:80rpx;">
+  </view>
+</view>
+<button bindtap="changeTxt" style='border:solid 1px;display:inline-block;position:relative;top:10px;left:10px;'
+>修改普通数据</button>
+
+<view>{{object.subObject.objectTxt}}</view>
+<button bindtap="changeObjectTxt" style='border:solid 2px;display:inline-block'>修改对象数据</button>
+
+<view style="display:flex;height:200rpx;">
+  <view style="background-color:red;flex-grow:1;">1</view>
+  <view style="display:flex;flex-grow:2;flex-direction:column;">
+    <view style="background-color:blue;flex-grow:1;">2</view>
+    <view style="background-color:green;flex-grow:1;">3</view>
+  </view>
+</view>
+
+<view>{{array[0].arrayTxt}}</view>
+<button bindtap="changeArrayTxt">修改数组数据</button>
+
+<view>{{newField.newFieldTxt}}</view>
+<button bindtap="addNewData">添加新字段</button>
+
+<button style='border:solid 1px;position:fixed;bottom:30px;right:20px;display=inline-block;' bindtap="nextForth">下一页</button>
