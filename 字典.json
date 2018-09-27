@@ -1,0 +1,213 @@
+{
+	"chinese": "中硬、半硬",
+	"english": "Half-Hard ",
+	"key": "1/2h "
+}, {
+	"chinese": "半圆",
+	"english": "Half-Round ",
+	"key": "1/2rd "
+}, {
+	"chinese": "四分之一硬",
+	"english": "Quarter-Hard ",
+	"key": "1/4h "
+}, {
+	"chinese": "四分之一圆",
+	"english": "Quarter Round ",
+	"key": "1/4rd "
+}, {
+	"chinese": "1E 级系统",
+	"english": "Class 1E System ",
+	"key": "1E "
+}, {
+	"chinese": "第一还原",
+	"english": "First Reduction ",
+	"key": "1red "
+}, {
+	"chinese": "3 极",
+	"english": "Three-Pole ",
+	"key": "3P "
+}, {
+	"chinese": "3 极开关",
+	"english": "Three-Pole Switch ",
+	"key": "3PSW "
+}, {
+	"chinese": "3 极双投",
+	"english": "Three-Pole Double-Throw ",
+	"key": "3PDT "
+}, {
+	"chinese": "3 极双投开关",
+	"english": "Three-Pole Double-Throw Switch ",
+	"key": "3PDTSW "
+}, {
+	"chinese": "3 极单投",
+	"english": "Three-Pole Single-Throw ",
+	"key": "3PST "
+}, {
+	"chinese": "3 极单投开关",
+	"english": "Three-Pole Single-Throw Switch ",
+	"key": "3PSTSW "
+}, {
+	"chinese": "三通",
+	"english": "Three Way ",
+	"key": "3W "
+}, {
+	"chinese": "辅助厂房",
+	"english": "Auxiliary Building ",
+	"key": "A/B "
+}, {
+	"chinese": "模拟/数字",
+	"english": "Analog to Digital ",
+	"key": "A/D "
+}, {
+	"chinese": "架构工程师",
+	"english": "Architect Engineer ",
+	"key": "A/E "
+}, {
+	"chinese": "气液",
+	"english": "Air Over Hydraulic ",
+	"key": "a/h "
+}, {
+	"chinese": "按照",
+	"english": "Accordance With ",
+	"key": "a/w "
+}, {
+	"chinese": "算术平均值",
+	"english": "Arithmetic Average ",
+	"key": "aa "
+}, {
+	"chinese": "美国科学进步协会",
+	"english": "American Association for the Advancement of Science ",
+	"key": "AAAS "
+}, {
+	"chinese": "事故分析基础文档",
+	"english": "Accident Analysis Basis Document ",
+	"key": "AABD "
+}, {
+	"chinese": "备用交流电",
+	"english": "Alternate AC ",
+	"key": "AAC "
+}, {
+	"chinese": "事故分析轮廓",
+	"english": "Accident Analysis Profile ",
+	"key": "AAP "
+}, {
+	"chinese": "事故分析记录",
+	"english": "Accident Analysis of Record ",
+	"key": "AAR "
+}, {
+	"chinese": "SRTF 压空系统",
+	"english": "SRTF Compressed Air System ",
+	"key": "AAS "
+}, {
+	"chinese": "（1）空气导流板",
+	"english": "(1) Air Baffle ",
+	"key": "AB"
+}, {
+	"english": "（2）辅助锅炉",
+	"key": "(2) Auxiliary Boiler "
+}, {
+	"chinese": "ABB 公司",
+	"english": "Asea Brown Boveri, Inc. ",
+	"key": "ABB "
+}, {
+	"chinese": "异常、反常",
+	"english": "Abnormal ",
+	"key": "ABNL "
+}, {
+	"chinese": "分析硼反应性瞬态",
+	"english": "Analytical Boron Reactivity Transient ",
+	"key": "ABORT "
+}, {
+	"chinese": "绝对",
+	"english": "Absolute ",
+	"key": "abs "
+}, {
+	"chinese": "备自投",
+	"english": "Automatic Bus Transfer ",
+	"key": "ABT "
+}, {
+	"chinese": "在……之上、大于、高于",
+	"english": "Above ",
+	"key": "ABV "
+}, {
+	"chinese": "先进沸水反应堆",
+	"english": "Advanced Boiling-Water Reactor ",
+	"key": "ABWR "
+}, {
+	"chinese": "交流、交流电源",
+	"english": "Alternating Current (typical on drawings and equipment name\nplates)",
+	"key": "AC"
+}, {
+	"chinese": "先进控制器 160，ABB 公司先进开式控制器产品线中的一部分",
+	"english": "Advant? Controller 160, part of the ABB Advant? open\ncontrol system family product line",
+	"key": "AC160"
+}, {
+	"chinese": "明显的原因分析",
+	"english": "Apparent Cause Analysis (or Analyses) (per WEC 16.5) ",
+	"key": "ACA "
+}, {
+	"chinese": "气动回路断路器",
+	"english": "Air-Operated Circuit Breaker ",
+	"key": "ACB "
+}, {
+	"chinese": "（1）安注箱",
+	"english": "(1) Accumulator ",
+	"key": "ACC"
+}, {
+	"english": "（2）AMPL 控制配置",
+	"key": "(2) AMPL Control Configuration "
+}, {
+	"chinese": "事故",
+	"english": "Accident ",
+	"key": "ACDT "
+}, {
+	"chinese": "异常条件或事件",
+	"english": "Abnormal Conditions and Events ",
+	"key": "ACE "
+}, {
+	"chinese": "异常控制设施",
+	"english": "Automatic Control Feature ",
+	"key": "ACF "
+}, {
+	"chinese": "美国混凝土协会",
+	"english": "American Concrete Institute ",
+	"key": "ACI "
+}, {
+	"chinese": "确认信息",
+	"english": "Acknowledge Message ",
+	"key": "ACK "
+}, {
+	"chinese": "美国计算机协会",
+	"english": "Association for Computing Machinery ",
+	"key": "ACM "
+}, {
+	"chinese": "辅助控制面板",
+	"english": "Auxiliary Control Panel ",
+	"key": "ACP "
+}, {
+	"chinese": "先进控制室",
+	"english": "Advanced Control Room ",
+	"key": "ACR "
+}, {
+	"chinese": "音响计数率放大器",
+	"english": "Audio Count Rate Amplifier ",
+	"key": "ACRA "
+}, {
+	"chinese": "反应堆安全咨询委员会",
+	"english": "Advisory Committee on Reactor Safeguards ",
+	"key": "ACRS "
+}, {
+	"chinese": "（1）辅助冷却系统",
+	"english": "(1) Auxiliary Cooling System ",
+	"key": "ACS"
+}, {
+	"english": "（2）SRTF 冷冻水系统",
+	"key": "(2) SRTF Chilled Water System "
+}, {
+	"chinese": "（1）放射性、活度",
+	"english": "(1) Activity ",
+	"key": "ACT"
+}, {
+	"english": "（2）应用捕获工具",
+	"key": "(2) Application Capture Tool "
+}

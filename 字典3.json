@@ -1,0 +1,6961 @@
+{
+	"chinese":"中硬、半硬",
+	"english":"Half-Hard",
+	"key":"1/2h"
+}{
+	"chinese":"半圆",
+	"english":"Half-Round",
+	"key":"1/2rd"
+}{
+	"chinese":"四分之一硬",
+	"english":"Quarter-Hard",
+	"key":"1/4h"
+}{
+	"chinese":"四分之一圆",
+	"english":"Quarter Round",
+	"key":"1/4rd"
+}{
+	"chinese":"1E 级系统",
+	"english":"Class 1E System",
+	"key":"1E"
+}{
+	"chinese":"第一还原",
+	"english":"First Reduction",
+	"key":"1red"
+}{
+	"chinese":"3 极",
+	"english":"Three-Pole",
+	"key":"3P"
+}{
+	"chinese":"3 极开关",
+	"english":"Three-Pole Switch",
+	"key":"3PSW"
+}{
+	"chinese":"3 极双投",
+	"english":"Three-Pole Double-Throw",
+	"key":"3PDT"
+}{
+	"chinese":"3 极双投开关",
+	"english":"Three-Pole Double-Throw Switch",
+	"key":"3PDTSW"
+}{
+	"chinese":"3 极单投",
+	"english":"Three-Pole Single-Throw",
+	"key":"3PST"
+}{
+	"chinese":"3 极单投开关",
+	"english":"Three-Pole Single-Throw Switch",
+	"key":"3PSTSW"
+}{
+	"chinese":"三通",
+	"english":"Three Way",
+	"key":"3W"
+}{
+	"chinese":"辅助厂房",
+	"english":"Auxiliary Building",
+	"key":"A/B"
+}{
+	"chinese":"模拟/数字",
+	"english":"Analog to Digital",
+	"key":"A/D"
+}{
+	"chinese":"架构工程师",
+	"english":"Architect Engineer",
+	"key":"A/E"
+}{
+	"chinese":"气液",
+	"english":"Air Over Hydraulic",
+	"key":"a/h"
+}{
+	"chinese":"按照",
+	"english":"Accordance With",
+	"key":"a/w"
+}{
+	"chinese":"算术平均值",
+	"english":"Arithmetic Average",
+	"key":"aa"
+}{
+	"chinese":"美国科学进步协会",
+	"english":"American Association for the Advancement of Science",
+	"key":"AAAS"
+}{
+	"chinese":"事故分析基础文档",
+	"english":"Accident Analysis Basis Document",
+	"key":"AABD"
+}{
+	"chinese":"备用交流电",
+	"english":"Alternate AC",
+	"key":"AAC"
+}{
+	"chinese":"事故分析轮廓",
+	"english":"Accident Analysis Profile",
+	"key":"AAP"
+}{
+	"chinese":"事故分析记录",
+	"english":"Accident Analysis of Record",
+	"key":"AAR"
+}{
+	"chinese":"SRTF 压空系统",
+	"english":"SRTF Compressed Air System",
+	"key":"AAS"
+}{
+	"chinese":"（1）空气导流板（2）辅助锅炉\n",
+	"english":"(1) Air Baffle (2) Auxiliary Boiler \n",
+	"key":"AB"
+}{
+	"chinese":"ABB 公司",
+	"english":"Asea Brown Boveri, Inc.",
+	"key":"ABB"
+}{
+	"chinese":"异常、反常",
+	"english":"Abnormal",
+	"key":"ABNL"
+}{
+	"chinese":"分析硼反应性瞬态",
+	"english":"Analytical Boron Reactivity Transient",
+	"key":"ABORT"
+}{
+	"chinese":"绝对",
+	"english":"Absolute",
+	"key":"abs"
+}{
+	"chinese":"备自投",
+	"english":"Automatic Bus Transfer",
+	"key":"ABT"
+}{
+	"chinese":"在……之上、大于、高于",
+	"english":"Above",
+	"key":"ABV"
+}{
+	"chinese":"先进沸水反应堆",
+	"english":"Advanced Boiling-Water Reactor",
+	"key":"ABWR"
+}{
+	"chinese":"交流、交流电源",
+	"english":"Alternating Current (typical on drawings and equipment name\nplates)",
+	"key":"AC"
+}{
+	"chinese":"先进控制器 160，ABB 公司先进开式控制器产品线中的一部分",
+	"english":"Advant? Controller 160, part of the ABB Advant? open\ncontrol system family product line",
+	"key":"AC160"
+}{
+	"chinese":"明显的原因分析",
+	"english":"Apparent Cause Analysis (or Analyses) (per WEC 16.5)",
+	"key":"ACA"
+}{
+	"chinese":"气动回路断路器",
+	"english":"Air-Operated Circuit Breaker",
+	"key":"ACB"
+}{
+	"chinese":"（1）安注箱\n（2）AMPL 控制配置\n",
+	"english":"(1) Accumulator \n(2) AMPL Control Configuration \n",
+	"key":"ACC"
+}{
+	"chinese":"事故",
+	"english":"Accident",
+	"key":"ACDT"
+}{
+	"chinese":"异常条件或事件",
+	"english":"Abnormal Conditions and Events",
+	"key":"ACE"
+}{
+	"chinese":"异常控制设施",
+	"english":"Automatic Control Feature",
+	"key":"ACF"
+}{
+	"chinese":"美国混凝土协会",
+	"english":"American Concrete Institute",
+	"key":"ACI"
+}{
+	"chinese":"确认信息",
+	"english":"Acknowledge Message",
+	"key":"ACK"
+}{
+	"chinese":"美国计算机协会",
+	"english":"Association for Computing Machinery",
+	"key":"ACM"
+}{
+	"chinese":"辅助控制面板",
+	"english":"Auxiliary Control Panel",
+	"key":"ACP"
+}{
+	"chinese":"先进控制室",
+	"english":"Advanced Control Room",
+	"key":"ACR"
+}{
+	"chinese":"音响计数率放大器",
+	"english":"Audio Count Rate Amplifier",
+	"key":"ACRA"
+}{
+	"chinese":"反应堆安全咨询委员会",
+	"english":"Advisory Committee on Reactor Safeguards",
+	"key":"ACRS"
+}{
+	"chinese":"（1）辅助冷却系统\n（2）SRTF 冷冻水系统",
+	"english":"(1) Auxiliary Cooling System \n(2) SRTF Chilled Water System",
+	"key":"ACS"
+}{
+	"chinese":"（1）放射性、活度\n（2）应用捕获工具",
+	"english":"(1) Activity \n(2) Application Capture Tool",
+	"key":"ACT"
+}{
+	"chinese":"工作执行的实际成本",
+	"english":"Actual Cost of Work Performed",
+	"key":"ACWP"
+}{
+	"chinese":"动态目录",
+	"english":"Active Directory",
+	"key":"AD"
+}{
+	"chinese":"模拟/数字转换器",
+	"english":"Analog to Digital Converter/Conversion",
+	"key":"ADC"
+}{
+	"chinese":"应用数字数据系统",
+	"english":"Applied Digital Data System",
+	"key":"ADDS"
+}{
+	"chinese":"先进数字给水控制系统",
+	"english":"Advanced Digital Feedwater Control System",
+	"key":"ADFCS"
+}{
+	"chinese":"先进数字式反应性计算机",
+	"english":"Advanced Digital Reactivity Computer",
+	"key":"ADRC"
+}{
+	"chinese":"自动卸压系统",
+	"english":"Automatic Depressurization System",
+	"key":"ADS"
+}{
+	"chinese":"大气排放阀",
+	"english":"Atmospheric Dump Valve",
+	"key":"ADV"
+}{
+	"chinese":"原子能机构（英国）",
+	"english":"Atomic Energy Authority (United Kingdom)",
+	"key":"AEA"
+}{
+	"chinese":"原子能委员会（现为 NRC）",
+	"english":"Atomic Energy Commission (now NRC)",
+	"key":"AEC"
+}{
+	"chinese":"加拿大原子能有限公司",
+	"english":"Atomic Energy of Canada Limited",
+	"key":"AECL"
+}{
+	"chinese":"调节因数",
+	"english":"Adjustment Factor",
+	"key":"AF"
+}{
+	"chinese":"音频",
+	"english":"Audio Frequency",
+	"key":"af"
+}{
+	"chinese":"AF100 现场局域网总线",
+	"english":"Advant? FieldBus 100",
+	"key":"AF100"
+}{
+	"chinese":"轴向通量偏差监视",
+	"english":"Axial Flux Difference",
+	"key":"AFD"
+}{
+	"chinese":"在找平层以上",
+	"english":"Above Finished Floor",
+	"key":"AFF"
+}{
+	"chinese":"作为字段修改",
+	"english":"As Field Modified",
+	"key":"AFM"
+}{
+	"chinese":"先进给水泵控制系统",
+	"english":"Advanced Feedpump Control System",
+	"key":"AFPCS"
+}{
+	"chinese":"辅助给水",
+	"english":"Auxiliary Feedwater",
+	"key":"AFW"
+}{
+	"chinese":"美国卡规设计标准",
+	"english":"American Gage Design Standard",
+	"key":"AGDS"
+}{
+	"chinese":"先进气冷反应堆",
+	"english":"Advanced Gas-Cooled Reactor",
+	"key":"AGR"
+}{
+	"chinese":"空气处理机组",
+	"english":"Air Handling Unit",
+	"key":"AHU"
+}{
+	"chinese":"（1）模拟量输入\n（2）原子国际",
+	"english":"(1) Analog Input \n(2) Atomic International",
+	"key":"AI"
+}{
+	"chinese":"模拟量输入卡件",
+	"english":"Analog Input Module",
+	"key":"AIM"
+}{
+	"chinese":"模拟量输入处理",
+	"english":"Analog Input Processing",
+	"key":"AIP"
+}{
+	"chinese":"SRTF 仪控系统",
+	"english":"SRTF Instrumentation and Control System",
+	"key":"AIS"
+}{
+	"chinese":"美国钢结构协会",
+	"english":"American Institute of Steel Construction",
+	"key":"AISC"
+}{
+	"chinese":"美国钢铁协会",
+	"english":"American Iron and Steel Institute",
+	"key":"AISI"
+}{
+	"chinese":"合理可行尽量低（辐射目标）",
+	"english":"As Low As Reasonably Achievable (Radiation Goal)",
+	"key":"ALARA"
+}{
+	"chinese":"定位、对中、对准",
+	"english":"Alignment",
+	"key":"Align"
+}{
+	"chinese":"报警",
+	"english":"Alarm",
+	"key":"ALM"
+}{
+	"chinese":"先进逻辑系统",
+	"english":"Advanced Logic Systems",
+	"key":"ALS"
+}{
+	"chinese":"高度",
+	"english":"Altitude",
+	"key":"alt"
+}{
+	"chinese":"先进轻水堆",
+	"english":"Advanced Light Water Reactor",
+	"key":"ALWR"
+}{
+	"chinese":"调幅",
+	"english":"Amplitude Modulation",
+	"key":"AM"
+}{
+	"chinese":"AMAG 公司",
+	"english":"Advanced Measurement and Analysis Group, Inc.",
+	"key":"AMAG"
+}{
+	"chinese":"美国通风和空调协会",
+	"english":"Air Movement and Control Association",
+	"key":"AMCA"
+}{
+	"chinese":"B 相电流",
+	"english":"Current Phase B",
+	"key":"AMPB"
+}{
+	"chinese":"ABB 公司的先进主编程语言",
+	"english":"ABB Advant? Master Programming Language",
+	"key":"AMPL"
+}{
+	"chinese":"（1）报警管理系统\n（2）资产管理套件\n",
+	"english":"(1) Alarm Management System \n(2) Asset Management Suite \n",
+	"key":"AMS"
+}{
+	"chinese":"预期未能停堆瞬态的缓解系统触发回路",
+	"english":"ATWS Mitigation System Actuation Circuitry",
+	"key":"AMSAC"
+}{
+	"chinese":"美国阿贡国家实验室",
+	"english":"Argonne National Laboratory",
+	"key":"ANL"
+}{
+	"chinese":"美国核学会",
+	"english":"American Nuclear Society",
+	"key":"ANS"
+}{
+	"chinese":"美国国家标准学会",
+	"english":"American National Standards Institute",
+	"key":"ANSI"
+}{
+	"chinese":"（1）模拟量输出\n（2）辅助操作人员\n（3）轴向偏移\n",
+	"english":"(1) Analog Output \n(2) Auxiliary Operator \n(3) Axial Offset \n",
+	"key":"AO"
+}{
+	"chinese":"模拟量输出处理程序",
+	"english":"Analog Output Handler",
+	"key":"AOH"
+}{
+	"chinese":"先进 Ovation 接口",
+	"english":"Advant Ovation? Interface",
+	"key":"AOI"
+}{
+	"chinese":"预期运行事件",
+	"english":"Anticipated Operational Occurrence",
+	"key":"AOO"
+}{
+	"chinese":"异常运行规程",
+	"english":"Abnormal Operating Procedures",
+	"key":"AOP"
+}{
+	"chinese":"气动阀",
+	"english":"Air-Operated Valve",
+	"key":"AOV"
+}{
+	"chinese":"应用程序",
+	"english":"Application Program",
+	"key":"AP"
+}{
+	"chinese":"先进非能动轻水反应堆",
+	"english":"Advanced Passive Light Water Reactor",
+	"key":"AP1000"
+}{
+	"chinese":"先进应用建立程序",
+	"english":"(Advant?) Application Builder",
+	"key":"APB"
+}{
+	"chinese":"辅助防护机柜",
+	"english":"Auxiliary Protective Cabinet",
+	"key":"APC"
+}{
+	"chinese":"轴向功率分布",
+	"english":"Axial Power Distribution",
+	"key":"APD"
+}{
+	"chinese":"美国石油学会",
+	"english":"American Petroleum Institute",
+	"key":"API"
+}{
+	"chinese":"批准",
+	"english":"Approved",
+	"key":"APP"
+}{
+	"chinese":"大约、近似于",
+	"english":"Approximately (~)",
+	"key":"approx"
+}{
+	"chinese":"报警显示系统",
+	"english":"Alarm Presentation System",
+	"key":"APS"
+}{
+	"chinese":"先进压水反应堆",
+	"english":"(Westinghouse) Advanced Pressurized Water Reactor",
+	"key":"APWR"
+}{
+	"chinese":"水的",
+	"english":"Aqueous",
+	"key":"aq"
+}{
+	"chinese":"辅助继电器机柜",
+	"english":"Auxiliary Relay Cabinet",
+	"key":"ARC"
+}{
+	"chinese":"先进的棒控系统",
+	"english":"Advanced Rod Control System",
+	"key":"ARCS"
+}{
+	"chinese":"报警响应导则和使用系统",
+	"english":"Alarm Response Guidance And Usage System",
+	"key":"ARGUS"
+}{
+	"chinese":"（1）美国空调和制冷学会\n（2）全棒插入\n",
+	"english":"(1) Air Conditioning and Refrigeration Institute \n(2) All Rods In \n\n",
+	"key":"ARI"
+}{
+	"chinese":"可用性、可靠性和可维护性",
+	"english":"Availability, Reliability and Maintainability",
+	"key":"ARM"
+}{
+	"chinese":"航空反射性监测系统",
+	"english":"Airborne Radioactivity Monitoring System",
+	"key":"ARMS"
+}{
+	"chinese":"全棒抽出",
+	"english":"All Rods Out",
+	"key":"ARO"
+}{
+	"chinese":"（1）报警响应规程\n（2）信号器响应规程\n（3）地址解析协议\n",
+	"english":"(1) Alarm Response Procedure \n(2) Annunciator Response Procedure \n(3) Address Resolution Protocol \n",
+	"key":"ARP"
+}{
+	"chinese": null,
+	"english": null,
+	"key": null
+}{
+	"chinese":"（伊格纳利纳）额外的反应堆保护电路",
+	"english":"(Ignalina) Additional Reactor Protection Circuits",
+	"key":"ARPC"
+}{
+	"chinese":"模拟棒位指示",
+	"english":"Analog Rod Position Indication",
+	"key":"ARPI"
+}{
+	"chinese":"SRTF 放射性疏水排放系统",
+	"english":"SRTF Radioactive Drainage System",
+	"key":"ARS"
+}{
+	"chinese":"大气泄放阀",
+	"english":"Atmospheric Relief Valve",
+	"key":"ARV"
+}{
+	"chinese":"美国标准协会（前身 ANSI）",
+	"english":"American Standards Association (predecessor of ANSI)",
+	"key":"ASA"
+}{
+	"chinese":"辅助屏蔽厂房",
+	"english":"Auxiliary&Shield Building",
+	"key":"ASB"
+}{
+	"chinese":"美国土木工程师学会",
+	"english":"American Society of Civil Engineers",
+	"key":"ASCE"
+}{
+	"chinese":"美国国家信息交换标准代码",
+	"english":"American National Standard Code for Information Interchange",
+	"key":"ASCII"
+}{
+	"chinese":"大气蒸汽阀",
+	"english":"Atmospheric Steam Dump Valve",
+	"key":"ASDV"
+}{
+	"chinese":"应用程序支持功能",
+	"english":"Application Support Functions",
+	"key":"ASF"
+}{
+	"chinese":"美国采暖、制冷和空调工程师协会",
+	"english":"American Society of Heating, Refrigeration and Air\nConditioning Engineers",
+	"key":"ASHRAE"
+}{
+	"chinese":"轴状指数",
+	"english":"Axial Shape Index",
+	"key":"ASI"
+}{
+	"chinese":"专用电子集成电路",
+	"english":"Application-Specific Integrated Circuit(s)",
+	"key":"ASIC"
+}{
+	"chinese":"原子安全和权限委员会",
+	"english":"Atomic Safety and Licensing Board",
+	"key":"ASLB"
+}{
+	"chinese":"（1）应用服务器管理器\n（2）生产的\n",
+	"english":"(1) Application Server Manager \n(2) As Manufactured \n",
+	"key":"ASM"
+}{
+	"chinese":"美国机械工程师协会",
+	"english":"American Society of Mechanical Engineers",
+	"key":"ASME"
+}{
+	"chinese":"美国无损检测协会",
+	"english":"American Society of Nondestructive Testing",
+	"key":"ASNDT"
+}{
+	"chinese":"辅助蒸汽供应系统",
+	"english":"Auxiliary Steam Supply System",
+	"key":"ASS"
+}{
+	"chinese":"美国材料实验协会",
+	"english":"American Society for Testing and Materials",
+	"key":"ASTM"
+}{
+	"chinese":"美国钢丝规",
+	"english":"American Steel Wire Gage",
+	"key":"ASWG"
+}{
+	"chinese":"缓冲罐",
+	"english":"Accumulator Tank",
+	"key":"AT"
+}{
+	"chinese":"汽机自动控制",
+	"english":"Automatic Turbine Control",
+	"key":"ATC"
+}{
+	"chinese":"大气",
+	"english":"Atmosphere",
+	"key":"ATM"
+}{
+	"chinese":"验收测试大纲/程序",
+	"english":"Acceptance Test Plan/Procedure",
+	"key":"ATP"
+}{
+	"chinese":"授权开工日",
+	"english":"Authorization to Proceed",
+	"key":"ATP"
+}{
+	"chinese":"动作追踪系统",
+	"english":"Action Tracking System",
+	"key":"ATS"
+}{
+	"chinese":"未能紧急停堆的预期瞬态",
+	"english":"Anticipated Transient Without Scram",
+	"key":"ATWS"
+}{
+	"chinese":"未能停堆的预期瞬态",
+	"english":"Anticipated Transient Without Trip",
+	"key":"ATWT"
+}{
+	"chinese":"自动",
+	"english":"Automatic",
+	"key":"auto"
+}{
+	"chinese":"自动化数字网络",
+	"english":"Automatic Digital Network",
+	"key":"AUTODIN"
+}{
+	"chinese":"辅助",
+	"english":"Auxiliary",
+	"key":"aux"
+}{
+	"chinese":"可用",
+	"english":"Available",
+	"key":"AVAIL"
+}{
+	"chinese":"平均",
+	"english":"Average",
+	"key":"avg"
+}{
+	"chinese":"全挥发化学添加系统",
+	"english":"All-Volatile Chemical Feed System",
+	"key":"AVT"
+}{
+	"chinese":"美国线规",
+	"english":"American Wire Gauge",
+	"key":"AWG"
+}{
+	"chinese":"（1）美国焊接协会\n（2）SRTF 放射性废液收集系统\n",
+	"english":"(1) American Welding Society \n(2) SRTF Liquid Rad-waste Collection System \n",
+	"key":"AWS"
+}{
+	"chinese":"美国水工协会",
+	"english":"American Water Works Association",
+	"key":"AWWA"
+}{
+	"chinese":"分支和边界（整数编码类型）",
+	"english":"Branch and Bound (Type of Integer Coding)",
+	"key":"B&B"
+}{
+	"chinese":"投标和建议",
+	"english":"Bid and Proposal",
+	"key":"B&P"
+}{
+	"chinese":"锅炉和压力容器",
+	"english":"Boiler and Pressure Vessel",
+	"key":"B&PV"
+}{
+	"chinese":"B&W 公司",
+	"english":"Babcock & Wilcox Co.",
+	"key":"B&W"
+}{
+	"chinese":"硼酸腐蚀控制程序",
+	"english":"Boric Acid Corrosion Control Program",
+	"key":"BACCP"
+}{
+	"chinese":"平衡、协调",
+	"english":"Balance",
+	"key":"BAL"
+}{
+	"chinese":"获取最佳参数",
+	"english":"Best-Available Parameters",
+	"key":"BAP"
+}{
+	"chinese":"硼酸储存箱",
+	"english":"Boric Acid Storage Tank",
+	"key":"BAST"
+}{
+	"chinese":"硼酸箱",
+	"english":"Boric Acid Tank",
+	"key":"BAT"
+}{
+	"chinese":"电池",
+	"english":"Battery",
+	"key":"batt"
+}{
+	"chinese":"建筑构件",
+	"english":"Building Block",
+	"key":"BB"
+}{
+	"chinese":"二进制编码的十进制数",
+	"english":"Binary Coded Decimal",
+	"key":"BCD"
+}{
+	"chinese":"硼浓度测量系统",
+	"english":"Boron Concentration Measurement System",
+	"key":"BCMS"
+}{
+	"chinese":"基线更改建议",
+	"english":"Baseline Change Proposal",
+	"key":"BCP"
+}{
+	"chinese":"完成工作的预算成本",
+	"english":"Budgeted Cost of Work Performed",
+	"key":"BCWP"
+}{
+	"chinese":"计划工作的预算成本",
+	"english":"Budgeted Cost of Work Scheduled",
+	"key":"BCWS"
+}{
+	"chinese":"母线管道",
+	"english":"Bus Duct",
+	"key":"BD"
+}{
+	"chinese":"基线设计文档",
+	"english":"Baseline Design Document",
+	"key":"BDD"
+}{
+	"chinese":"硼稀释缓解系统",
+	"english":"Boron Dilution Mitigation System",
+	"key":"BDMS"
+}{
+	"chinese":"BEACON 数据处理",
+	"english":"BEACON@Data Processing",
+	"key":"BDP"
+}{
+	"chinese":"蒸汽发生器排污系统",
+	"english":"Steam Generator Blowdown System",
+	"key":"BDS"
+}{
+	"chinese":"基础工程",
+	"english":"Basic Engineering",
+	"key":"BE"
+}{
+	"chinese":"堆芯运行最佳评估分析程序",
+	"english":"Best-Estimate Analyzer for Core Operations - Nuclear",
+	"key":"BEACON"
+}{
+	"chinese":"最佳估算流量",
+	"english":"Best Estimate Flow",
+	"key":"BEF"
+}{
+	"chinese":"三氟化硼",
+	"english":"Boron Trifluoride",
+	"key":"BF3"
+}{
+	"chinese":"旁路给水调节阀",
+	"english":"Bypass Feedwater Regulator Valve",
+	"key":"BFRV"
+}{
+	"chinese":"背面板输入、输出母线",
+	"english":"Backplane Input/Output Bus",
+	"key":"BIOB"
+}{
+	"chinese":"基本输入/输出系统",
+	"english":"Basic Input Output System",
+	"key":"BIOS"
+}{
+	"chinese":"商业基础设施系统",
+	"english":"Business Infrastructure System",
+	"key":"BIS"
+}{
+	"chinese":"旁路和不可运行状态指示",
+	"english":"Bypass & Inoperable Status Indication",
+	"key":"BISI"
+}{
+	"chinese":"硼注入箱",
+	"english":"Boron Injection Tank",
+	"key":"BIT"
+}{
+	"chinese":"基线控制系统",
+	"english":"Base Line Control System",
+	"key":"BLCS"
+}{
+	"chinese":"厂房",
+	"english":"Building",
+	"key":"bldg"
+}{
+	"chinese":"闭锁",
+	"english":"Block",
+	"key":"BLK"
+}{
+	"chinese":"排污",
+	"english":"Blowdown",
+	"key":"BLWDN"
+}{
+	"chinese":"底部安装的仪表",
+	"english":"Bottom-Mounted Instrumentation",
+	"key":"BMI"
+}{
+	"chinese":"核法规和标准委员会",
+	"english":"Board on Nuclear Codes and Standards",
+	"key":"BNCS"
+}{
+	"chinese":"英国核燃料 PLC",
+	"english":"British Nuclear Fuels plc",
+	"key":"BNFL"
+}{
+	"chinese":"（EDB）基础目标",
+	"english":"(EDB) Basic Object",
+	"key":"BO"
+}{
+	"chinese":"周期初",
+	"english":"Beginning-of Cycle",
+	"key":"BOC"
+}{
+	"chinese":"寿期初",
+	"english":"Bcginning of Life",
+	"key":"BOL"
+}{
+	"chinese":"材料清单",
+	"english":"Bill of Materials",
+	"key":"BOM"
+}{
+	"chinese":"电厂配套设施",
+	"english":"Balance of Plant",
+	"key":"BOP"
+}{
+	"chinese":"底部",
+	"english":"Botton",
+	"key":"BOT"
+}{
+	"chinese":"沸点",
+	"english":"Boiling Point",
+	"key":"bp"
+}{
+	"chinese":"基础项目实施流程",
+	"english":"Base Project Implementation Process",
+	"key":"BPIP"
+}{
+	"chinese":"双稳处理器和逻辑",
+	"english":"Bistable Processor Logic",
+	"key":"BPL"
+}{
+	"chinese":"ASME 锅炉和压力容器码",
+	"english":"ASME Boiler & Pressure Vessel Code",
+	"key":"BPVC"
+}{
+	"chinese":"英标",
+	"english":"British Standard",
+	"key":"BrStd"
+}{
+	"chinese":"硼回收蒸发系统",
+	"english":"Boron Recycle Evaporation System",
+	"key":"BRES"
+}{
+	"chinese":"轴承",
+	"english":"Bearing",
+	"key":"brg"
+}{
+	"chinese":"断路器",
+	"english":"Break,Breaker",
+	"key":"BRKR"
+}{
+	"chinese":"硼回收系统",
+	"english":"Boron Recycle System",
+	"key":"BRS"
+}{
+	"chinese":"英国标准学会",
+	"english":"British Standards Institute",
+	"key":"BSI"
+}{
+	"chinese":"汽轮发电机",
+	"english":"Boiler Turbine Generator",
+	"key":"BTG"
+}{
+	"chinese":"旁排测试仪表",
+	"english":"Bypass Testing Instrumentation",
+	"key":"BTI"
+}{
+	"chinese":"部门技术见解",
+	"english":"Branch Technical Position",
+	"key":"BTP"
+}{
+	"chinese":"蓄电池",
+	"english":"Battery",
+	"key":"BTRY"
+}{
+	"chinese":"含硼废水贮存箱",
+	"english":"Borated Waste Holdup Tank",
+	"key":"BWHT"
+}{
+	"chinese":"沸水反应堆",
+	"english":"Boiling Water Reactor",
+	"key":"BWR"
+}{
+	"chinese":"沸水反应堆业主组",
+	"english":"Boiling Water Reactor Owners Group",
+	"key":"BWROG"
+}{
+	"chinese":"旁路、旁通",
+	"english":"Bypass",
+	"key":"BYP"
+}{
+	"chinese":"控制和说明",
+	"english":"Control and Indication",
+	"key":"C&I"
+}{
+	"chinese":"（1）安全壳大气\n（2）持续操作\n（3）控制账户\n",
+	"english":"(1) Containment Atmospheric \n(2) Continuous Action \n(3) Control Account \n",
+	"key":"CA"
+}{
+	"chinese":"机柜",
+	"english":"Cabinet",
+	"key":"CAB"
+}{
+	"chinese":"合闸后合闸",
+	"english":"Closed After Closed",
+	"key":"CAC"
+}{
+	"chinese":"（1）计算机辅助设计\n（2）计算机辅助制图\n",
+	"english":"(1) Computer-Aided Design \n(2) Computer Aided Drafting \n",
+	"key":"CAD"
+}{
+	"chinese":"（1）竣工文件",
+	"english":"(1) Certified as Exectuted",
+	"key":"CAE"
+}{
+	"chinese":"（2）计算机辅助工程",
+	"english":"(2) Computer-Aided Engineering",
+	"key": null
+}{
+	"chinese":"计算机辅助教学",
+	"english":"Computer-Aided Instruction",
+	"key":"CAI"
+}{
+	"chinese":"校准",
+	"english":"Calibration",
+	"key":"CAL"
+}{
+	"chinese":"计算得出的",
+	"english":"Calculated",
+	"key":"calc"
+}{
+	"chinese":"（1）计算机辅助制造\n（2）控制账户管理\n（3）纠正行动管理\n",
+	"english":"(1) Computer-Aided Manufacturing \n(2) Control Account Manager \n(3) Corrective Action Manager (WEC 16.2) \n",
+	"key":"CAM"
+}{
+	"chinese":"纠正行动进程",
+	"english":"Corrective Action Process",
+	"key":"CAP"
+}{
+	"chinese":"纠正行动的申请",
+	"english":"Corrective Action Request",
+	"key":"CAR"
+}{
+	"chinese":"压缩空气和仪表空气系统",
+	"english":"Compressed and Instrument Air Systems",
+	"key":"CAS"
+}{
+	"chinese":"计算机辅助软件工程",
+	"english":"Computer-Assisted Software Engineering",
+	"key":"CASE"
+}{
+	"chinese":"（1）化学添加箱\n（2）脱扣后合闸\n",
+	"english":"(1) Chemical Addition Tank \n(2) Close After Trip \n",
+	"key":"CAT"
+}{
+	"chinese":"1 级",
+	"english":"Category 1",
+	"key":"Cat1"
+}{
+	"chinese":"累积绝对速度",
+	"english":"Cumulative Absolute Velocity",
+	"key":"CAV"
+}{
+	"chinese":"（1）控制功能编译器\n（2）控制面板\n",
+	"english":"(1) Control Builder \n(2) Control Board \n",
+	"key":"CB"
+}{
+	"chinese":"控制功能编译器用户要素",
+	"english":"Control Builder Custom Element",
+	"key":"CBCE"
+}{
+	"chinese":"组合模块图",
+	"english":"Composite Block Diagram",
+	"key":"CBD"
+}{
+	"chinese":"凝结水升压泵",
+	"english":"Condensate Booster Pump",
+	"key":"CBP"
+}{
+	"chinese":"堆芯吊篮振动监测系统",
+	"english":"Core Barrel Vibration Monitoring System",
+	"key":"CBVMS"
+}{
+	"chinese":"副本",
+	"english":"Carbon Copy",
+	"key":"cc"
+}{
+	"chinese":"安全壳冷却驱动系统",
+	"english":"Containment Cooling Actuation System",
+	"key":"CCAS"
+}{
+	"chinese":"配置控制部",
+	"english":"Configuration Control Board",
+	"key":"CCB"
+}{
+	"chinese":"（1）确认带有批注的布置\n（2）强制性产品认证制度（3C 认证）\n",
+	"english":"(1) Certified for Layout with Comment \n(2) China Compulsory Certification \n",
+	"key":"CCC"
+}{
+	"chinese":"共因故障",
+	"english":"Common Cause Failure",
+	"key":"CCF"
+}{
+	"chinese":"国际电报电话咨询委员会",
+	"english":"International Telegraph and Telephone Consultative Committee",
+	"key":"CCITT"
+}{
+	"chinese":"客户委托日志",
+	"english":"Customer Commitment Log",
+	"key":"CCL"
+}{
+	"chinese":"离心充电泵",
+	"english":"Centrifugal Charging Pump",
+	"key":"CCP"
+}{
+	"chinese":"（1）部件控制系统\n（2）设备冷却水系统\n",
+	"english":"(1) Component Control System \n(2) Component Cooling Water System \n",
+	"key":"CCS"
+}{
+	"chinese":"设备冷却水",
+	"english":"Component Cooling Water",
+	"key":"CCW"
+}{
+	"chinese":"设备冷却水系统",
+	"english":"Component Cooling Water System",
+	"key":"CCWS"
+}{
+	"chinese":"重要数字资产",
+	"english":"Critical Digital Asset",
+	"key":"CDA"
+}{
+	"chinese":"铜分离数据接口",
+	"english":"Copper Distributed Data Interface",
+	"key":"CDDI"
+}{
+	"chinese":"正常桌面环境",
+	"english":"Common Desktop Environment",
+	"key":"CDE"
+}{
+	"chinese":"堆芯损伤频率",
+	"english":"Core Damage Frequency",
+	"key":"CDF"
+}{
+	"chinese":"商业专用指令",
+	"english":"Commercial Dedication Instruction",
+	"key":"CDI"
+}{
+	"chinese":"经确认的设计模型",
+	"english":"Certified Design Model",
+	"key":"CDM"
+}{
+	"chinese":"只读 CD",
+	"english":"Compact disc read only memory",
+	"key":"CDROM"
+}{
+	"chinese":"凝结水系统",
+	"english":"Condensate System",
+	"key":"CDS"
+}{
+	"chinese":"凝汽器排气阀",
+	"english":"Condenser Dump Valve",
+	"key":"CDV"
+}{
+	"chinese":"（1）符合欧洲（通过 CE 认证）\n（2）燃烧工程（通过 NSNP3.4.5)\n",
+	"english":"(1) Conformite Europeene (as per CE Marking) \n(2) Combustion Engineering (as per NSNP 3.4.5) \n",
+	"key":"CE"
+}{
+	"chinese":"控制元素集合",
+	"english":"Control Element Assembly",
+	"key":"CEA"
+}{
+	"chinese":"控制元素集合计算器",
+	"english":"Control Element Assembly Calculator",
+	"key":"CEAC"
+}{
+	"chinese":"控制元素集合位置显示系统",
+	"english":"Control Element Assembly Position Display System",
+	"key":"CEAPDS"
+}{
+	"chinese":"控制元素驱动机械控制系统",
+	"english":"Control Element Drive Mechanism Control System",
+	"key":"CEDMCS"
+}{
+	"chinese":"国际照明委员会",
+	"english":"Commission Internationale de L’Eclairage (International\nCommission on Illumination)",
+	"key":"CEI"
+}{
+	"chinese":"腐蚀磨蚀监测系统",
+	"english":"Corrosion Erosion Monitoring System",
+	"key":"CEMS"
+}{
+	"chinese":"燃烧工程核动力文件",
+	"english":"Combustion Engineering Nuclear Power Document",
+	"key":"CENPD"
+}{
+	"chinese":"燃烧工程业主组",
+	"english":"Combustion Engineering Owners Group",
+	"key":"CEOG"
+}{
+	"chinese":"计算机增强棒位指示",
+	"english":"Computer Enhanced Rod Position Indication",
+	"key":"CERPI"
+}{
+	"chinese":"凝汽器胶球清洗系统",
+	"english":"Condenser Tube Cleaning System",
+	"key":"CES"
+}{
+	"chinese":"正常元素软件测试",
+	"english":"Common Element Software Test",
+	"key":"CEST"
+}{
+	"chinese":"（1）堆芯出口温度\n（2）堆芯出口热电偶\n（3）安全壳事件树\n",
+	"english":"(1) Core Exit Temperature \n(2) Core Exit Thermocouple \n(3) Critical Event Tree \n",
+	"key":"CET"
+}{
+	"chinese":"容量因子",
+	"english":"Capacity Factor",
+	"key":"CF"
+}{
+	"chinese":"通用功能块",
+	"english":"Common function block",
+	"key":"CFB"
+}{
+	"chinese":"施工文件",
+	"english":"Certified for Construction",
+	"key":"CFC"
+}{
+	"chinese":"承包人装修设备",
+	"english":"Contractor-Furnished Equipment",
+	"key":"CFE"
+}{
+	"chinese":"承包人装修财产",
+	"english":"Contractor-Furnished Property",
+	"key":"CFP"
+}{
+	"chinese":"美国联邦法规",
+	"english":"Code of Federal Regulations",
+	"key":"CFR"
+}{
+	"chinese":"常规岛化学药剂供给系统",
+	"english":"Turbine Island Chemical Feed System",
+	"key":"CFS"
+}{
+	"chinese":"机柜功能测试",
+	"english":"Cabinet Functional Test",
+	"key":"CFT"
+}{
+	"chinese":"风机振动监测系统",
+	"english":"Cooling Fan Vibration Monitoring System",
+	"key":"CFVMS"
+}{
+	"chinese":"冷凝和给水",
+	"english":"Condensate and Feedwater",
+	"key":"CFW"
+}{
+	"chinese":"正常网关接口",
+	"english":"Common Gateway Interface",
+	"key":"CGI"
+}{
+	"chinese":"发电机定子冷却水系统",
+	"english":"Generator Stator Cooling Water System",
+	"key":"CGS"
+}{
+	"chinese":"安全壳氢气控制系统",
+	"english":"Containment Hydrogen Control System",
+	"key":"CHCS"
+}{
+	"chinese":"化学（有关）的",
+	"english":"Chemical",
+	"key":"CHE"
+}{
+	"chinese":"变化、改变",
+	"english":"Change",
+	"key":"CHG"
+}{
+	"chinese":"充电器",
+	"english":"Charger",
+	"key":"CHGR"
+}{
+	"chinese":"冷冻的",
+	"english":"Chilled",
+	"key":"CHL"
+}{
+	"chinese":"冷冻机",
+	"english":"Chiller",
+	"key":"CHLR"
+}{
+	"chinese":"通道、频道",
+	"english":"Channel",
+	"key":"CHNL"
+}{
+	"chinese":"机柜硬件测试",
+	"english":"Cabinet Hardware Test",
+	"key":"CHT"
+}{
+	"chinese":"（1）配置项\n（2）触点输入\n（3）通讯接口\n（4）调试指令\n（5）常规岛\n",
+	"english":"(1) Configuration Item \n(2) Contact Input \n(3) Communications Interface \n(4) Commissioning Instruction \n(5) Conventional Island \n",
+	"key":"CI"
+}{
+	"chinese":"安全壳隔离驱动信号",
+	"english":"Containment Isolation Actuation Signal",
+	"key":"CIAS"
+}{
+	"chinese":"设备接口模块",
+	"english":"Component Interface Module",
+	"key":"CIM"
+}{
+	"chinese":"循环的、流通的",
+	"english":"Circulating",
+	"key":"CIRC"
+}{
+	"chinese":"（1）机柜集成测试\n（2）通道集成测试\n",
+	"english":"(1) Cabinet Integration Test \n(2) Channel Integration Test \n",
+	"key":"CIT"
+}{
+	"chinese":"安全壳隔离阀",
+	"english":"Containment Isolation Valve",
+	"key":"CIV"
+}{
+	"chinese":"电路、线路",
+	"english":"Circuit",
+	"key":"CKT"
+}{
+	"chinese":"（1）冷段（一回路）\n（2）限流\n",
+	"english":"(1) Cold Leg \n(2) Current Limiting \n",
+	"key":"CL"
+}{
+	"chinese":"电流执照基础",
+	"english":"Current Licensing Basis",
+	"key":"CLB"
+}{
+	"chinese":"冷却",
+	"english":"Cooling",
+	"key":"CLG"
+}{
+	"chinese":"清洁、打扫",
+	"english":"Cleaning",
+	"key":"CLN"
+}{
+	"chinese":"冷却剂、散热剂",
+	"english":"Coolant",
+	"key":"CLNT"
+}{
+	"chinese":"(乏燃料运输)容器装料池",
+	"english":"Cask Loading Pit",
+	"key":"CLP"
+}{
+	"chinese":"（1）安全壳泄漏率监视\n（2）冷却剂、冷却装置\n",
+	"english":"(1) Containment Leak Rate Monitor \n(2) Cooler \n",
+	"key":"CLR"
+}{
+	"chinese":"（1）关闭的\n（2）凝汽器泄漏监测系统\n",
+	"english":"(1) Closed \n(2) Condenser Tube Leak Detection System \n",
+	"key":"CLS"
+}{
+	"chinese":"(阀门)关状态、(断路器)合闸状态",
+	"english":"Closed Position",
+	"key":"CLSD POS"
+}{
+	"chinese":"控制器",
+	"english":"Controller",
+	"key":"CLT"
+}{
+	"chinese":"（1）共因模式\n（2）配置管理\n（3）故障检修\n",
+	"english":"(1) Common Mode \n(2) Configuration Management \n(3) Corrective Maintenance \n",
+	"key":"CM"
+}{
+	"chinese":"美国起重机制造商协会",
+	"english":"Crane Manufacturers Association of America",
+	"key":"CMAA"
+}{
+	"chinese":"控制命令",
+	"english":"Command",
+	"key":"CMD"
+}{
+	"chinese":"（加热器）断开命令",
+	"english":"Command Off",
+	"key":"CMD OFF"
+}{
+	"chinese":"（加热器）接通命令、（氢点火器）点火命令",
+	"english":"Command On",
+	"key":"CMD ON"
+}{
+	"chinese":"（泵、电机）启动命令",
+	"english":"Command Start",
+	"key":"CMD START"
+}{
+	"chinese":"（泵、电机）停止命令",
+	"english":"Command Stop",
+	"key":"CMD STOP"
+}{
+	"chinese":"（1）共因故障\n（2）堆芯熔化频率\n",
+	"english":"(1) Common Mode Failure \n(2) Core Melt Frequency \n",
+	"key":"CMF"
+}{
+	"chinese":"共用、共有、普遍的",
+	"english":"Common",
+	"key":"CMN"
+}{
+	"chinese":"（1）配置管理计划",
+	"english":"(1) Configuration Management Plan",
+	"key":"CMP"
+}{
+	"chinese":"（2）持续监测参数",
+	"english":"(2) Continuously Monitored Parameter",
+	"key": null
+}{
+	"chinese":"配置管理释放报告",
+	"english":"Configuration Management Release Record",
+	"key":"CMRR"
+}{
+	"chinese":"凝汽器抽真空系统",
+	"english":"Condenser Air Removal System",
+	"key":"CMS"
+}{
+	"chinese":"（1）堆芯补水箱\n（2）堆芯熔化频率\n",
+	"english":"(1) Core Makeup Tank \n(2) Core Melt Frequency \n",
+	"key":"CMT"
+}{
+	"chinese":"经确认的材料试验报告",
+	"english":"Certified Material Test Report",
+	"key":"CMTRs"
+}{
+	"chinese":"导管",
+	"english":"Conduit",
+	"key":"CND"
+}{
+	"chinese":"电流",
+	"english":"Current",
+	"key":"CNRC"
+}{
+	"chinese":"安全壳系统",
+	"english":"Containment System",
+	"key":"CNS"
+}{
+	"chinese":"连锁运作",
+	"english":"Chain Operated",
+	"key":"CO"
+}{
+	"chinese":"二氧化碳",
+	"english":"Carbon Dioxide",
+	"key":"CO2"
+}{
+	"chinese":"系数",
+	"english":"Coefficient",
+	"key":"coeff"
+}{
+	"chinese":"联合运行许可证",
+	"english":"Combined Operating License",
+	"key":"COL"
+}{
+	"chinese":"西屋计算机化规程系统",
+	"english":"Westinghouse Computerized Procedure System",
+	"key":"COMPRO"
+}{
+	"chinese":"通讯卫星",
+	"english":"Communications Satellite",
+	"key":"COMSAT"
+}{
+	"chinese":"冷凝器、凝结水",
+	"english":"Condenser/Condensate",
+	"key":"COND"
+}{
+	"chinese":"电导率",
+	"english":"Conductivity",
+	"key":"CONDUC"
+}{
+	"chinese":"概念操作",
+	"english":"Concept-of-Operations",
+	"key":"ConOps"
+}{
+	"chinese":"继续",
+	"english":"Continued",
+	"key":"cont."
+}{
+	"chinese":"电厂常量",
+	"english":"Plant Constants",
+	"key":"CON"
+}{
+	"chinese":"浓度、含量",
+	"english":"Concentration",
+	"key":"CONC"
+}{
+	"chinese":"连接",
+	"english":"Connection",
+	"key":"CONN"
+}{
+	"chinese":"催化除氧系统",
+	"english":"Catalytic Oxidation Reduction System",
+	"key":"CORS"
+}{
+	"chinese":"计算机化操作支持",
+	"english":"Computerized Operation Support",
+	"key":"COS"
+}{
+	"chinese":"商业现用的",
+	"english":"Commercial Off the Shelf",
+	"key":"COTS"
+}{
+	"chinese":"变异系数",
+	"english":"Coefficient of Variation",
+	"key":"COV"
+}{
+	"chinese":"（1）凝结水泵\n（2）控制盘\n",
+	"english":"(1) Condensate Pump \n(2) Control Panel \n",
+	"key":"CP"
+}{
+	"chinese":"堆芯保护计算",
+	"english":"Core Protection Calculator",
+	"key":"CPC"
+}{
+	"chinese":"紧凑型 PCI",
+	"english":"Compact PCI",
+	"key":"CPCI"
+}{
+	"chinese":"堆芯保护计算系统",
+	"english":"Core Protection Calculator System",
+	"key":"CPCS"
+}{
+	"chinese":"凝结水精除盐器",
+	"english":"Condensate Polishing Demineralizer",
+	"key":"CPD"
+}{
+	"chinese":"消耗性能指标",
+	"english":"Cost Performance Index",
+	"key":"CPI"
+}{
+	"chinese":"（1）关键路径方法\n（2）客户项目经理\n",
+	"english":"(1) Critical Path Method \n(2) Customer Project Manager (as per WEC 4.1) \n",
+	"key":"CPM"
+}{
+	"chinese":"（1）计算机化规程系统\n（2）凝结水精处理系统\n",
+	"english":"(1) Computerized Procedure System \n(2) Condensate Polishing System \n",
+	"key":"CPS"
+}{
+	"chinese":"互功率谱",
+	"english":"Cross Power Spectral Density",
+	"key":"CPSD"
+}{
+	"chinese":"中央处理单元",
+	"english":"Central Processing Unit",
+	"key":"CPU"
+}{
+	"chinese":"商业级质量",
+	"english":"Commercial Quality",
+	"key":"CQ"
+}{
+	"chinese":"周期冗余性检测",
+	"english":"Cyclic Redundancy Check",
+	"key":"CRC"
+}{
+	"chinese":"控制棒驱动",
+	"english":"Control Rod Drive",
+	"key":"CRD"
+}{
+	"chinese":"控制棒驱动机构",
+	"english":"Control Rod Drive Mechanism",
+	"key":"CRDM"
+}{
+	"chinese":"控制棒驱动轴",
+	"english":"Control Rod Drive Shaft",
+	"key":"CRDS"
+}{
+	"chinese":"控制棒交换逻辑",
+	"english":"Control Rod Exchange Logic (for AP1000)",
+	"key":"CREL"
+}{
+	"chinese":"配置风险管理项目",
+	"english":"Configuration Risk Management Program",
+	"key":"CRMP"
+}{
+	"chinese":"中央辐射处理器",
+	"english":"Central Radiation Processor",
+	"key":"CRPs"
+}{
+	"chinese":"阴极射线管",
+	"english":"Cathode Ray Tube",
+	"key":"CRT"
+}{
+	"chinese":"（1）商业标准\n（2）计算服务器\n（3）控制开关\n（4）正常安全壳地坑\n",
+	"english":"(1) Commercial Standard \n(2) Computation Server \n(3) Control Switch \n(4) Normal Containment Sump \n",
+	"key":"CS"
+}{
+	"chinese":"（1）加拿大标准协会\n（2）计算机模拟&分析，股份有限公司\n（3）控制支持区\n",
+	"english":"(1) Canadian Standards Association \n(2) Computer Simulation & Analysis, Inc. \n(3) Control support area \n",
+	"key":"CSA"
+}{
+	"chinese":"安全壳喷淋驱动系统",
+	"english":"Containment Spray Actuation System",
+	"key":"CSAS"
+}{
+	"chinese":"计算机软件开发",
+	"english":"Computer Software Development",
+	"key":"CSD"
+}{
+	"chinese":"抗震设计反应谱",
+	"english":"Certified Seismic Design Response Spectra",
+	"key":"CSDRS"
+}{
+	"chinese":"关键安全功能",
+	"english":"Critical Safety Function",
+	"key":"CSF"
+}{
+	"chinese":"载波监听多路访问/冲突监测",
+	"english":"Carrier Sense Multiple Access/Collision Detection",
+	"key":"CSMA/CD"
+}{
+	"chinese":"凝结水箱，冷凝液储存箱",
+	"english":"Condensate Storage Tank",
+	"key":"CST"
+}{
+	"chinese":"（1）冷却塔\n（2）电流互感器\n",
+	"english":"(1) Cooling Tower \n(2) Current Transformer \n",
+	"key":"CT"
+}{
+	"chinese":"受控测试环境",
+	"english":"Controlled Test Environment",
+	"key":"CTE"
+}{
+	"chinese":"安全壳",
+	"english":"Containment",
+	"key":"ctmt"
+}{
+	"chinese":"中央、中心",
+	"english":"Center",
+	"key":"CTR"
+}{
+	"chinese":"控制",
+	"english":"Control",
+	"key":"CTRL"
+}{
+	"chinese":"化学废液处理系统",
+	"english":"Chemical Waste Treatment System",
+	"key":"CTS"
+}{
+	"chinese":"箱、柜",
+	"english":"Cubicle",
+	"key":"CUB"
+}{
+	"chinese":"（1）止回阀\n（2）控制阀\n（3）阀门流量系数\n",
+	"english":"(1) Check Valve \n(2) Control Valve \n(3) Valve Flow Coefficient \n",
+	"key":"CV"
+}{
+	"chinese":"化学和容积控制系统",
+	"english":"Chemical and Volume Control System",
+	"key":"CVS"
+}{
+	"chinese":"腔、室",
+	"english":"Cavity",
+	"key":"CVT"
+}{
+	"chinese":"循环水",
+	"english":"Circulating Water",
+	"key":"CW"
+}{
+	"chinese":"中央工作区域",
+	"english":"Central Work Area",
+	"key":"CWA"
+}{
+	"chinese":"Cutwire 网关",
+	"english":"Cutwire Gateway",
+	"key":"CWG"
+}{
+	"chinese":"循环水输入架构",
+	"english":"Circulating Water Intake Structure",
+	"key":"CWIS"
+}{
+	"chinese":"循环水入口温度",
+	"english":"Circulating Water Inlet Temperature",
+	"key":"CWIT"
+}{
+	"chinese":"循环水泵",
+	"english":"Circulating Water Pump",
+	"key":"CWP"
+}{
+	"chinese":"CPC CEA 取消阻止",
+	"english":"CPC CEA Withdrawal Prohibit",
+	"key":"CWP"
+}{
+	"chinese":"循环水系统",
+	"english":"Circulating Water System",
+	"key":"CWS"
+}{
+	"chinese":"化学废水箱",
+	"english":"Chemical Waste Tank",
+	"key":"CWT"
+}{
+	"chinese":"数字量到模拟量",
+	"english":"Digital to Analog",
+	"key":"D/A"
+}{
+	"chinese":"设计和实施",
+	"english":"Design and Implementation",
+	"key":"D&I"
+}{
+	"chinese":"多样性纵深防御",
+	"english":"Diversity and Defense-in-Depth (Analysis)",
+	"key":"D3"
+}{
+	"chinese":"除氧器水箱",
+	"english":"Deaerator Storage Tank",
+	"key":"DA"
+}{
+	"chinese":"（1）导出空气浓度\n（2）数字量到模拟量转换器\n（3）双底座连接器\n",
+	"english":"(1) Derived Air Concentration \n(2) Digital to Analog Converter \n(3) Dual Attachment Concentrator \n",
+	"key":"DAC"
+}{
+	"chinese":"数据采集设备",
+	"english":"Data Acquisition equipment",
+	"key":"DAQ"
+}{
+	"chinese":"高级防御研究项目机构（美国国防部）",
+	"english":"Defense Advanced Research Projects Agency (of the U.\nS.Department of Defense)",
+	"key":"DARPA"
+}{
+	"chinese":"（1）数据采集系统\n（2）多样化驱动系统\n",
+	"english":"(1) Data Acquisition System \n(2) Diverse Actuation System \n",
+	"key":"DAS"
+}{
+	"chinese":"分贝",
+	"english":"Decibel",
+	"key":"dB"
+}{
+	"chinese":"（1）数据库\n（2）直埋电缆\n",
+	"english":"(1) Database \n(2) Direct Burial Cable \n",
+	"key":"DB"
+}{
+	"chinese":"设计基准事故",
+	"english":"Design Basis Accident",
+	"key":"DBA"
+}{
+	"chinese":"设计基准文件",
+	"english":"Design Basis Document",
+	"key":"DBD"
+}{
+	"chinese":"（1）设计基准地震",
+	"english":"(1) Design Basis Earthquake",
+	"key":"DBE"
+}{
+	"chinese":"（2）设计基准事件",
+	"english":"(2) Design Basis Event",
+	"key": null
+}{
+	"chinese":"数据库接口",
+	"english":"Database Interface",
+	"key":"DBI"
+}{
+	"chinese":"数据库初始化定义的插件",
+	"english":"Database Initial Definition Tool",
+	"key":"DBID"
+}{
+	"chinese":"直流电",
+	"english":"Direct Current",
+	"key":"dc"
+}{
+	"chinese":"直流、直流电源",
+	"english":"Direct Current",
+	"key":"DC"
+}{
+	"chinese":"设计控制文件",
+	"english":"Design Control Document (for AP1000 Standard Plant)",
+	"key":"DCD"
+}{
+	"chinese":"设计改变启动",
+	"english":"Design Change Initiation",
+	"key":"DCI"
+}{
+	"chinese":"分布式控制和信息系统",
+	"english":"Distributed Control and Information Systems",
+	"key":"DCIS"
+}{
+	"chinese":"文件改变注释",
+	"english":"Document Change Notice",
+	"key":"DCN"
+}{
+	"chinese":"（1）设计变更包\n（2）设计变更建议\n",
+	"english":"(1) Design Change Package \n(2) Design Change Proposal (as per NSNP 3.4.1) \n",
+	"key":"DCP"
+}{
+	"chinese":"设计变更申请",
+	"english":"Design Change Request (as per NA 4.27)",
+	"key":"DCR"
+}{
+	"chinese":"（1）集散控制系统\n（2）文件控制系统\n（3）数字化控制系统\n",
+	"english":"(1) Distributed Control System \n(2) Document Control System \n(3) Digital Control System \n",
+	"key":"DCS"
+}{
+	"chinese":"数据定义语言",
+	"english":"Data Definition Language",
+	"key":"DDL"
+}{
+	"chinese":"数据显示和处理系统",
+	"english":"Data Display and Processing System",
+	"key":"DDS"
+}{
+	"chinese":"数字式电-液装置",
+	"english":"Digital Electro-Hydraulic",
+	"key":"DEH"
+}{
+	"chinese":"柴油机制造商协会",
+	"english":"Diesel Engine Manufacturers Association",
+	"key":"DEMA"
+}{
+	"chinese":"除盐器",
+	"english":"Demineralizer",
+	"key":"demin"
+}{
+	"chinese":"密度",
+	"english":"Density",
+	"key":"DENS"
+}{
+	"chinese":"（1）说明文件\n（2）SRTF 数据显示和处理系统\n",
+	"english":"(1) Descriptive \n(2) SRTF Data Display and Processing System \n",
+	"key":"DES"
+}{
+	"chinese":"数字式专设安全设施驱动系统",
+	"english":"Digital ESFAS",
+	"key":"DESFAS"
+}{
+	"chinese":"偏离、背离",
+	"english":"Deviation",
+	"key":"DEVN"
+}{
+	"chinese":"设计冻结",
+	"english":"Design Freeze",
+	"key":"DF"
+}{
+	"chinese":"柴油机燃料卸料系统",
+	"english":"Diesel Fuel Offloading System",
+	"key":"DFS"
+}{
+	"chinese":"草稿",
+	"english":"Draft",
+	"key":"DFT"
+}{
+	"chinese":"柴油发电机",
+	"english":"Diesel Generator",
+	"key":"DG"
+}{
+	"chinese":"分类研究",
+	"english":"Division Generic Research",
+	"key":"DGR"
+}{
+	"chinese":"疏水/放气管",
+	"english":"Drain / Vent Header",
+	"key":"DH/VH"
+}{
+	"chinese":"（1）衰变热计算\n（2）数据总线控制器\n",
+	"english":"(1) Decay Heat Calculation \n(2) Data Highway Controller \n",
+	"key":"DHC"
+}{
+	"chinese":"动态主机配置协议",
+	"english":"Dynamic Host Configuration Protocol",
+	"key":"DHCP"
+}{
+	"chinese":"数据总线网关",
+	"english":"Data Highway Gateway",
+	"key":"DHG"
+}{
+	"chinese":"数字量输入",
+	"english":"Digital Input",
+	"key":"DI"
+}{
+	"chinese":"分布式指示和报警系统",
+	"english":"Discrete Indication and Alarm System",
+	"key":"DIAS"
+}{
+	"chinese":"不同的、差动/差异",
+	"english":"Differential/Difference",
+	"key":"DIFF"
+}{
+	"chinese":"德国工业标准",
+	"english":"Deutches Institut für Normung e.V. (German Institute for\nStandardization)",
+	"key":"DIN"
+}{
+	"chinese":"纵深防御和离散",
+	"english":"Defense-in-Depth and Diversity",
+	"key":"D-in-D&D"
+}{
+	"chinese":"数字量输入 /输出操作器",
+	"english":"Digital Input/Output Handler",
+	"key":"DIOH"
+}{
+	"chinese":"（1）双在线包\n（2）数字量输入程序\n",
+	"english":"(1) Dual-Inline Package \n(2) Digital Input Processing \n",
+	"key":"DIP"
+}{
+	"chinese":"排除、排放、出口",
+	"english":"Discharge",
+	"key":"DISCH"
+}{
+	"chinese":"离散",
+	"english":"Distribution",
+	"key":"dist"
+}{
+	"chinese":"配电盘",
+	"english":"Distribution Panels",
+	"key":"DITRP"
+}{
+	"chinese":"序列",
+	"english":"Division",
+	"key":"div"
+}{
+	"chinese":"转移、转向",
+	"english":"Diversion",
+	"key":"DIVS"
+}{
+	"chinese":"数据链路控制器",
+	"english":"Data Link Controller",
+	"key":"DLC"
+}{
+	"chinese":"数据链路服务器",
+	"english":"Data Link Server",
+	"key":"DLS"
+}{
+	"chinese":"直接内存访问",
+	"english":"Direct Memory Access",
+	"key":"DMA"
+}{
+	"chinese":"(阀门)控制命令",
+	"english":"DEMAND",
+	"key":"DMD"
+}{
+	"chinese":"数字化金属撞击监测系统",
+	"english":"Digital Metal Impact Monitoring System",
+	"key":"DMIMS"
+}{
+	"chinese":"除盐床、脱矿质剂",
+	"english":"Demineralizer",
+	"key":"DMNRLZR"
+}{
+	"chinese":"个人剂量和控制区出入口管理辐射监测系统",
+	"english":"Individual Dosimetry and Controlled Area Access Personal\nDose Monitoring and Management System",
+	"key":"DMS"
+}{
+	"chinese":"偏离泡核沸腾",
+	"english":"Departure from Nucleate Boiling",
+	"key":"DNB"
+}{
+	"chinese":"偏离泡核沸腾比",
+	"english":"Departure from Nucleate Boiling Ratio",
+	"key":"DNBR"
+}{
+	"chinese":"分布式网络协议",
+	"english":"Distributed Network Protocol, Version 3.0",
+	"key":"DNP/DNP3"
+}{
+	"chinese":"数字量输出",
+	"english":"Digital Output",
+	"key":"DO"
+}{
+	"chinese":"美国国防部",
+	"english":"U. S. Department of Defense",
+	"key":"DoD"
+}{
+	"chinese":"美国能源部",
+	"english":"U. S. Department of Energy",
+	"key":"DOE"
+}{
+	"chinese":"域控制器",
+	"english":"Domain Controller",
+	"key":"DOM"
+}{
+	"chinese":"面向对象的动态需求系统",
+	"english":"Dynamic Object-Oriented Requirements System(A\nrequirements management software application that is produced\nby IBM Corporation.)",
+	"key":"DOORS"
+}{
+	"chinese":"责任划分，分工表",
+	"english":"Divìsion of Responsibi1ities",
+	"key":"DOR"
+}{
+	"chinese":"备用柴油机燃油系统",
+	"english":"Standby Diesel Fuel Oil System",
+	"key":"DOS"
+}{
+	"chinese":"差压",
+	"english":"Differential Pressure",
+	"key":"dP"
+}{
+	"chinese":"分散式外围设备",
+	"english":"Decentralized Periphery",
+	"key":"DP"
+}{
+	"chinese":"双极双投",
+	"english":"Double Pole Double Throw",
+	"key":"DPDT"
+}{
+	"chinese":"数字电厂保护系统",
+	"english":"Digital Plant Protection System",
+	"key":"DPPS"
+}{
+	"chinese":"（1）多样化保护系统\n（2）厂区生活水分配系统\n",
+	"english":"(1) Diverse Protection System \n(2) Domestic Water Yard Piping System \n",
+	"key":"DPS"
+}{
+	"chinese":"双极单投",
+	"english":"Double Pole Single Throw",
+	"key":"DPST"
+}{
+	"chinese":"分布式处理单元",
+	"english":"Distributed Processing Unit",
+	"key":"DPU"
+}{
+	"chinese":"疏、排",
+	"english":"Drain",
+	"key":"DR"
+}{
+	"chinese":"设计可靠性保证大纲",
+	"english":"Design Reliability Assurance Program",
+	"key":"D-RAP"
+}{
+	"chinese":"数字化控制棒控制系统",
+	"english":"Digital Rod Control System",
+	"key":"DRCS"
+}{
+	"chinese":"节点",
+	"english":"Drop",
+	"key":"DRP"
+}{
+	"chinese":"数字化棒位指示系统",
+	"english":"Digital Rod Position Indication System",
+	"key":"DRPI"
+}{
+	"chinese":"Drop 冗余记录",
+	"english":"Drop Redundancy Record",
+	"key":"DRR"
+}{
+	"chinese":"厂区雨水排放系统",
+	"english":"Yard Storm Drain System",
+	"key":"DRS"
+}{
+	"chinese":"被驱动",
+	"english":"Driven",
+	"key":"DRVN"
+}{
+	"chinese":"排放",
+	"english":"Discharge",
+	"key":"Dsch"
+}{
+	"chinese":"文件提交单",
+	"english":"Document Submittal Form (as per NSNP 5.5)",
+	"key":"DSF"
+}{
+	"chinese":"柴油机",
+	"english":"Diesel",
+	"key":"DSL"
+}{
+	"chinese":"（1）专用安全盘\n（2）数据服务协议\n",
+	"english":"(1) Dedicated Safety Panels \n(2) Data Service Protocol \n",
+	"key":"DSP"
+}{
+	"chinese":"Drop 状态记录",
+	"english":"Drop Status Record",
+	"key":"DSR"
+}{
+	"chinese":"废物暂存库",
+	"english":"Drum Storage System",
+	"key":"DSS"
+}{
+	"chinese":"夏令时",
+	"english":"Daylight Saving Time",
+	"key":"DST"
+}{
+	"chinese":"分配",
+	"english":"Distribution",
+	"key":"DSTRB"
+}{
+	"chinese":"磁盘存储单元",
+	"english":"Disk Storage Unit",
+	"key":"DSU"
+}{
+	"chinese":"温差",
+	"english":"Differential Temperature",
+	"key":"dT"
+}{
+	"chinese":"密封",
+	"english":"Dust Tight",
+	"key":"DT"
+}{
+	"chinese":"动态跳闸母线",
+	"english":"Dynamic Trip Bus",
+	"key":"DTB"
+}{
+	"chinese":"除盐水处理系统",
+	"english":"Demineralized Water Treatment System",
+	"key":"DTS"
+}{
+	"chinese":"站点状态点记录",
+	"english":"Drop Status Point Record",
+	"key":"DU"
+}{
+	"chinese":"差分电压",
+	"english":"Differential Voltage",
+	"key":"DV"
+}{
+	"chinese":"（1）数字视频接口\n（2）压力容器直接注射\n",
+	"english":"(1) Digital Visual Interface \n(2) Direct Vessel Injection \n",
+	"key":"DVI"
+}{
+	"chinese":"除盐水",
+	"english":"Demineralized Water",
+	"key":"DW"
+}{
+	"chinese":"图纸",
+	"english":"Drawing",
+	"key":"dwg"
+}{
+	"chinese":"除盐水储存和分配系统",
+	"english":"Demineralized Water Transfer and Storage System",
+	"key":"DWS"
+}{
+	"chinese":"除盐水贮存箱",
+	"english":"Demineralized Water Storage Tank",
+	"key":"DWST"
+}{
+	"chinese":"例如",
+	"english":"For Example (Exempli Gratia)",
+	"key":"e.g."
+}{
+	"chinese":"模拟输入",
+	"english":"Eagle Analog Input",
+	"key":"EAO"
+}{
+	"chinese":"接地",
+	"english":"Earthing",
+	"key":"EARTH"
+}{
+	"chinese":"能源中心",
+	"english":"Energy Center (4350 Northern Pike, Monroeville, PA)",
+	"key":"EC"
+}{
+	"chinese":"应急控制面板",
+	"english":"Emergency Control Board",
+	"key":"ECB"
+}{
+	"chinese":"应急堆芯冷却系统",
+	"english":"Emergency Core Cooling System",
+	"key":"ECCS"
+}{
+	"chinese":"工程变更通知书",
+	"english":"Engineering Change Notice",
+	"key":"ECN"
+}{
+	"chinese":"工程变更单",
+	"english":"Engineering Change Order (per NA 4.44)",
+	"key":"ECO"
+}{
+	"chinese":"应急控制室",
+	"english":"Emergency Control Room",
+	"key":"ECR"
+}{
+	"chinese":"主交流电源系统",
+	"english":"Main AC Power System",
+	"key":"ECS"
+}{
+	"chinese":"设备验证配置表",
+	"english":"Equipment Configuration Verification Form",
+	"key":"ECVF"
+}{
+	"chinese":"工程数据库",
+	"english":"(Advant?) Engineering Database",
+	"key":"EDB"
+}{
+	"chinese":"电子设备描述语言",
+	"english":"Electronic Device Description Language",
+	"key":"EDDL"
+}{
+	"chinese":"应急柴油发电机",
+	"english":"Emergency Diesel Generator",
+	"key":"EDG"
+}{
+	"chinese":"电去离子",
+	"english":"Electro-Deionization",
+	"key":"EDI"
+}{
+	"chinese":"电子文件管理系统",
+	"english":"Electronic Document Management System (as per NS 17.4)",
+	"key":"EDMS"
+}{
+	"chinese":"(1) 配电系统\n(2) 电厂数据服务器\n(3) 非 lE 级直流和 UPS 系统\n",
+	"english":"(1) Electrical Distribution System \n(2) Enterprise Data Server \n\"(3) Non-Class 1E DC and Uninterruptible Power Supply\nSystem\"\n",
+	"key":"EDS"
+}{
+	"chinese":"欧洲经济共同体",
+	"english":"European Economic Community",
+	"key":"EEC"
+}{
+	"chinese":"工程设备和材料用户协会",
+	"english":"Engineering Equipment and Materials Users Association",
+	"key":"EEMUA"
+}{
+	"chinese":"电可擦除可编程只读存储器",
+	"english":"Electrically Erasable Programmable Read Only Memory",
+	"key":"EEPROM"
+}{
+	"chinese":"紧急给水驱动系统",
+	"english":"Emergency-Feedwater Actuation System",
+	"key":"EFAS"
+}{
+	"chinese":"排出、排出流",
+	"english":"Effluent",
+	"key":"EFF"
+}{
+	"chinese":"有效的满功率天",
+	"english":"Effective Full Power Days",
+	"key":"EFPD"
+}{
+	"chinese":"等效满功率年",
+	"english":"Effective Full Power Year",
+	"key":"EFPY"
+}{
+	"chinese":"通信系统",
+	"english":"Communication System",
+	"key":"EFS"
+}{
+	"chinese":"电子快速瞬变",
+	"english":"Electronically Fast Transient",
+	"key":"EFT"
+}{
+	"chinese":"电子快速瞬变/爆发",
+	"english":"Electronically Fast Transient/ Burst",
+	"key":"EFT/B"
+}{
+	"chinese":"接地和防雷系统",
+	"english":"Grounding and Lightning Protection System",
+	"key":"EGS"
+}{
+	"chinese":"电-液控制",
+	"english":"Electro-Hydraulic Control",
+	"key":"EHC"
+}{
+	"chinese":"特殊工艺热跟踪系统",
+	"english":"Special Process Heat Tracing System",
+	"key":"EHS"
+}{
+	"chinese":"排出流暂存箱（收集箱）",
+	"english":"Effluent Holdup Tank",
+	"key":"EHT"
+}{
+	"chinese":"电子工业联盟",
+	"english":"Electronic Industries Alliance",
+	"key":"EIA"
+}{
+	"chinese":"扩展输入/输出",
+	"english":"Extended Input/output",
+	"key":"EIO"
+}{
+	"chinese":"环境影响研究",
+	"english":"Environmental Impact Study",
+	"key":"EIS"
+}{
+	"chinese":"高度",
+	"english":"Elevation",
+	"key":"EL"
+}{
+	"chinese":"以太网链路控制器",
+	"english":"Ethernet Link Module",
+	"key":"ELC"
+}{
+	"chinese":"电气的",
+	"english":"Electrical",
+	"key":"elec"
+}{
+	"chinese":"电厂照明系统",
+	"english":"Plant Lighting System",
+	"key":"ELS"
+}{
+	"chinese":"电磁兼容性",
+	"english":"Electromagnetic Compatibility",
+	"key":"EMC"
+}{
+	"chinese":"紧急情况",
+	"english":"Emergency",
+	"key":"emer"
+}{
+	"chinese":"电磁干扰",
+	"english":"Electromagnetic Interference",
+	"key":"EMI"
+}{
+	"chinese":"控制允许、激活",
+	"english":"Enable",
+	"key":"ENBL"
+}{
+	"chinese":"堆外中子注量率监测系统",
+	"english":"Ex-core Neutron Flux Monitoring System",
+	"key":"ENFMS"
+}{
+	"chinese":"循环末",
+	"english":"End-of-Cycle",
+	"key":"EOC"
+}{
+	"chinese":"应急指挥中心",
+	"english":"Emergency Operations Facility",
+	"key":"EOF"
+}{
+	"chinese":"寿期末",
+	"english":"End-of-Life",
+	"key":"EOL"
+}{
+	"chinese":"应急运行规程",
+	"english":"Emergency Operating Procedure",
+	"key":"EOP"
+}{
+	"chinese":"防爆",
+	"english":"Explosion Proof",
+	"key":"EP"
+}{
+	"chinese":"电气贯穿件组件",
+	"english":"Electrical Penetration Assemblies",
+	"key":"EPA"
+}{
+	"chinese":"美国环境保护机构",
+	"english":"U. S. Environmental Protection Agency",
+	"key":"EPA"
+}{
+	"chinese":"工程设计、采购和建造、监理",
+	"english":"Engineering, Procurement & Construction superintendence",
+	"key":"EPCs"
+}{
+	"chinese":"（美）电力研究所",
+	"english":"Electric Power Research Institute",
+	"key":"EPRI"
+}{
+	"chinese":"可擦除可编程只读存储器",
+	"english":"Erasable Programmable Read Only Memory",
+	"key":"EPROM"
+}{
+	"chinese":"扩展功率提升",
+	"english":"Extended Power Uprate",
+	"key":"EPU"
+}{
+	"chinese":"（1）设备鉴定\n（2）环境鉴定\n",
+	"english":"(1) Equipment Qualification \n(2) Environmental Qualification \n",
+	"key":"EQ"
+}{
+	"chinese":"阴极保护系统",
+	"english":"Cathodic Protection System",
+	"key":"EQS"
+}{
+	"chinese":"设备",
+	"english":"Equipment",
+	"key":"equip"
+}{
+	"chinese":"应急响应数据库",
+	"english":"Engineering Resource Database",
+	"key":"ERD"
+}{
+	"chinese":"应急响应数据系统",
+	"english":"Emergency Response Data System",
+	"key":"ERDS"
+}{
+	"chinese":"应急响应设施",
+	"english":"Emergency Response Facility",
+	"key":"ERF"
+}{
+	"chinese":"应急响应导则",
+	"english":"Emergency Response Guidelines",
+	"key":"ERG"
+}{
+	"chinese":"共享项目信息的上网实施",
+	"english":"Internet facility for sharing project information",
+	"key":"ERoom"
+}{
+	"chinese":"静电释放",
+	"english":"Electrostatic Discharge",
+	"key":"ESD"
+}{
+	"chinese":"（1）应急安全设施\n（2）专设保障实施\n（3）专设安全设施\n",
+	"english":"(1) Emergency Safety Features \n(2) Engineered Safeguards Features \n(3) Engineered Safety Features \n",
+	"key":"ESF"
+}{
+	"chinese":"专设安全设施驱动系统",
+	"english":"Engineered Safety Feature Actuation System",
+	"key":"ESFAS"
+}{
+	"chinese":"早期选址许可",
+	"english":"Early Site Permit",
+	"key":"ESP"
+}{
+	"chinese":"等效串联电阻",
+	"english":"Equivalent Series Resistance",
+	"key":"esr"
+}{
+	"chinese":"电子开关系统",
+	"english":"Electronic Switching System",
+	"key":"ess"
+}{
+	"chinese":"抽汽系统",
+	"english":"Extraction Steam System",
+	"key":"ESS"
+}{
+	"chinese":"评估",
+	"english":"Estimate(d)",
+	"key":"est"
+}{
+	"chinese":"元件软件测试",
+	"english":"Element Software Test",
+	"key":"EST"
+}{
+	"chinese":"电子瞬态分析程序",
+	"english":"Electrical Transient Analyzer Program",
+	"key":"ETAP"
+}{
+	"chinese":"预计完成时间",
+	"english":"Estimate to Complete",
+	"key":"ETC"
+}{
+	"chinese":"等等",
+	"english":"And So Forth, and The Like (et cetera)",
+	"key":"etc."
+}{
+	"chinese":"运行时间编码发生器",
+	"english":"Elapsed-Time Code Generator",
+	"key":"ETCG"
+}{
+	"chinese":"紧急跳闸系统",
+	"english":"Emergency Trip System",
+	"key":"ETS"
+}{
+	"chinese":"检查技术规格表",
+	"english":"Examination Technique Specification Sheet (EPRI)",
+	"key":"ETSS"
+}{
+	"chinese":"（1）工程单位\n（2）欧盟\n",
+	"english":"(1) Engineering Unit \n(2) European Union \n",
+	"key":"EU"
+}{
+	"chinese":"被测设备",
+	"english":"Equipment Under Test",
+	"key":"EUT"
+}{
+	"chinese":"实现价值分析",
+	"english":"Earned Value Analysis",
+	"key":"EVA"
+}{
+	"chinese":"实现价值管理",
+	"english":"Earned Value Management",
+	"key":"EVM"
+}{
+	"chinese":"电子伏特",
+	"english":"Electronic Voltmeter",
+	"key":"evm"
+}{
+	"chinese":"工程工作说明",
+	"english":"Engineering Work Instruction",
+	"key":"EWI"
+}{
+	"chinese":"工程工作单",
+	"english":"Engineering Work Order",
+	"key":"EWO"
+}{
+	"chinese":"工程师站",
+	"english":"Engineering Workstation",
+	"key":"EWS"
+}{
+	"chinese":"励磁机",
+	"english":"Exciter",
+	"key":"EXC"
+}{
+	"chinese":"排气、排风",
+	"english":"Exhaust",
+	"key":"EXH"
+}{
+	"chinese":"膨胀、扩展",
+	"english":"Expansion",
+	"key":"EXP"
+}{
+	"chinese":"扩展",
+	"english":"Extension",
+	"key":"ext"
+}{
+	"chinese":"流量",
+	"english":"Flow",
+	"key":"F"
+}{
+	"chinese":"固定探测器",
+	"english":"Fixed Detector",
+	"key":"F/D"
+}{
+	"chinese":"流量&温度",
+	"english":"Flow & Temperature",
+	"key":"F/T"
+}{
+	"chinese":"最终验收准则",
+	"english":"Final Acceptance Criteria",
+	"key":"FAC"
+}{
+	"chinese":"最终验收证书",
+	"english":"Final Acceptance Certificate",
+	"key":"FAC"
+}{
+	"chinese":"全自动编译器--翻译",
+	"english":"Fully Automatic Compiler-Translator",
+	"key":"FACT"
+}{
+	"chinese":"故障后保持原状",
+	"english":"Fails As Is",
+	"key":"FAI"
+}{
+	"chinese":"常见问题",
+	"english":"Frequently Asked Question(s)",
+	"key":"FAQ"
+}{
+	"chinese":"现场操作报告",
+	"english":"Field Action Report",
+	"key":"FAR"
+}{
+	"chinese":"工厂验收试验",
+	"english":"Factory Acceptance Test",
+	"key":"FAT"
+}{
+	"chinese":"功能块",
+	"english":"Function Block",
+	"key":"FB"
+}{
+	"chinese":"功能模块分析",
+	"english":"Functional Block Analysis",
+	"key":"FBA"
+}{
+	"chinese":"给水旁路调节阀",
+	"english":"Feedwater Bypass Control Valve",
+	"key":"FBCV"
+}{
+	"chinese":"功能块图",
+	"english":"Functional Block Diagram",
+	"key":"FBD"
+}{
+	"chinese":"基于功能的任务分析",
+	"english":"Function Based Task Analysis",
+	"key":"FBTA"
+}{
+	"chinese":"失效关(闭)",
+	"english":"Fails Closed",
+	"key":"FC"
+}{
+	"chinese":"功能图编辑器",
+	"english":"(Advant?) Function Chart Builder",
+	"key":"FCB"
+}{
+	"chinese":"浇注第一罐混凝土日期",
+	"english":"First Concrete Date",
+	"key":"FCD"
+}{
+	"chinese":"现场变更通知",
+	"english":"Field Change Notice (as per WEC 3.4.6)",
+	"key":"FCN"
+}{
+	"chinese":"过滤器滤芯处理系统",
+	"english":"Filter Cartridge Processing System",
+	"key":"FCS"
+}{
+	"chinese":"风扇冷却装置",
+	"english":"Fan-Cooling Unit",
+	"key":"FCU"
+}{
+	"chinese":"流量调节阀",
+	"english":"Flow Control Valve",
+	"key":"FCV"
+}{
+	"chinese":"流量分配挡板",
+	"english":"Flow Distribution Baffle",
+	"key":"FDB"
+}{
+	"chinese":"反馈",
+	"english":"Feedback",
+	"key":"fdbk"
+}{
+	"chinese":"光纤分布式数据接口",
+	"english":"Fiber Distributed Data Interface",
+	"key":"FDDI"
+}{
+	"chinese":"频发复用",
+	"english":"Frequency Division Multiplex",
+	"key":"FDM"
+}{
+	"chinese":"（1）给料装置\n（2）现场偏差报告\n",
+	"english":"(1) Feeder \n(2) Field Deviation Report (as per WEC 15.4) \n",
+	"key":"FDR"
+}{
+	"chinese":"设备描述和安全分析",
+	"english":"Facility Description and Safety Analysis",
+	"key":"FDSA"
+}{
+	"chinese":"地面疏水箱",
+	"english":"Floor Drain Tank",
+	"key":"FDT"
+}{
+	"chinese":"给水",
+	"english":"Feedwater",
+	"key":"fdw"
+}{
+	"chinese":"流量元件",
+	"english":"Flow Element",
+	"key":"FE"
+}{
+	"chinese":"美国联邦能源管理",
+	"english":"Federal Energy Administration (now part of U. S. Department\nof Energy)",
+	"key":"FEA"
+}{
+	"chinese":"有限元模型",
+	"english":"Finite Element Model",
+	"key":"FEM"
+}{
+	"chinese":"联邦应急管理机构",
+	"english":"Federal Emergency Management Agency (of the U. S.\nDepartment of Homeland Security)",
+	"key":"FEMA"
+}{
+	"chinese":"联邦能源监管委员会",
+	"english":"Federal Energy Regulatory Commission",
+	"key":"FERC"
+}{
+	"chinese":"强制功能",
+	"english":"Forcing Function",
+	"key":"FF"
+}{
+	"chinese":"快速傅里叶变换",
+	"english":"Fast Fourier Transformation",
+	"key":"FFT"
+}{
+	"chinese":"注水管",
+	"english":"Fill Header",
+	"key":"FH"
+}{
+	"chinese":"燃料处理房屋",
+	"english":"Fuel Handling Building",
+	"key":"FHB"
+}{
+	"chinese":"装卸料机",
+	"english":"Fuel Handling Machine",
+	"key":"FHM"
+}{
+	"chinese":"装换料系统",
+	"english":"Fuel Handling and Refueling System",
+	"key":"FHS"
+}{
+	"chinese":"给水管理旁通调节阀",
+	"english":"Feedwater Isolation Bypass Control Valve",
+	"key":"FIBCV"
+}{
+	"chinese":"固定堆内探测器",
+	"english":"Fixed In-core Detector",
+	"key":"FID"
+}{
+	"chinese":"仅供参考",
+	"english":"For Information Only",
+	"key":"FIO"
+}{
+	"chinese":"故障保持原状",
+	"english":"Fail In Position",
+	"key":"FIP"
+}{
+	"chinese":"（1）给水隔离阀\n（2）流致振动\n",
+	"english":"(1) Feedwater Isolation Valve \n(2) Flow-Induced Vibration \n",
+	"key":"FIV"
+}{
+	"chinese":"给水管道破裂",
+	"english":"Feedwater Line Break",
+	"key":"FLB"
+}{
+	"chinese":"流量校正",
+	"english":"Flow Correction",
+	"key":"FLC"
+}{
+	"chinese":"过滤器",
+	"english":"Filter",
+	"key":"FLTR"
+}{
+	"chinese":"调频",
+	"english":"Frequency Modulation",
+	"key":"FM"
+}{
+	"chinese":"（1）现场安装设备",
+	"english":"(1) Field Mounted Equipment",
+	"key":"FME"
+}{
+	"chinese":"（2）杂质排除",
+	"english":"(2) Foreign Material Exclusion (Controls; Procedure)",
+	"key": null
+}{
+	"chinese":"故障模式和影响分析",
+	"english":"Failure Modes and Effect Analysis",
+	"key":"FMEA"
+}{
+	"chinese":"故障模式、影响和危害性分析",
+	"english":"Failure Modes, Effects and Criticality Analysis",
+	"key":"FMECA"
+}{
+	"chinese":"故障开启",
+	"english":"Fail Open",
+	"key":"FO"
+}{
+	"chinese":"一项全新工程",
+	"english":"First-of-a-Kind Engineering",
+	"key":"FOAKE"
+}{
+	"chinese":"功能对象块",
+	"english":"Functional Object Block",
+	"key":"FOB"
+}{
+	"chinese":"光纤旁路开关",
+	"english":"Fiber Optic Bypass Switch",
+	"key":"FOBS"
+}{
+	"chinese":"光纤调制解调器",
+	"english":"Fiber Optic Modem",
+	"key":"FOM"
+}{
+	"chinese":"活页",
+	"english":"Fold Out Page",
+	"key":"FOP"
+}{
+	"chinese":"国外对象搜索与检索",
+	"english":"Foreign Object Search and Retrieval",
+	"key":"FOSAR"
+}{
+	"chinese":"光纤接收器",
+	"english":"Fiber-Optic Receiver",
+	"key":"FOR"
+}{
+	"chinese":"光纤发送器",
+	"english":"Fiber-Optic Transceiver",
+	"key":"FOT"
+}{
+	"chinese":"全开测试组件",
+	"english":"Full Open Test Assemblies",
+	"key":"FOTA"
+}{
+	"chinese":"消防",
+	"english":"Fire Protection",
+	"key":"FP"
+}{
+	"chinese":"平板显示器",
+	"english":"Flat Panel Display",
+	"key":"FPD"
+}{
+	"chinese":"平板显示系统",
+	"english":"Flat Panel Display System",
+	"key":"FPDS"
+}{
+	"chinese":"现场可编程门阵列",
+	"english":"Field Programmable Gate Array",
+	"key":"FPGA"
+}{
+	"chinese":"闪存可编程只读存储器",
+	"english":"Flash Programmable Read Only Memory",
+	"key":"FPROM"
+}{
+	"chinese":"消防系统",
+	"english":"Fire Protection System",
+	"key":"FPS"
+}{
+	"chinese":"峰值因子",
+	"english":"Peaking Factor",
+	"key":"FQ"
+}{
+	"chinese":"（1）功能需求\n（2）故障响应\n",
+	"english":"(1) Functional Requirements \n(2) Fail to Respond \n",
+	"key":"FR"
+}{
+	"chinese":"频率",
+	"english":"Frequency",
+	"key":"FREQ"
+}{
+	"chinese":"份额",
+	"english":"Fraction",
+	"key":"frac"
+}{
+	"chinese":"最终安全分析报告",
+	"english":"Final Safety Analysis Report",
+	"key":"FSAR"
+}{
+	"chinese":"功能、系统和设备",
+	"english":"Functions, Systems and Equipment",
+	"key":"FSE"
+}{
+	"chinese":"铁磁形状记忆合金",
+	"english":"Ferromagnetic Shape Memory Alloys",
+	"key":"FSMA"
+}{
+	"chinese":"流量变送器",
+	"english":"Flow Transmitter",
+	"key":"FT"
+}{
+	"chinese":"故障树分析",
+	"english":"Fault Tree Analysis",
+	"key":"FTA"
+}{
+	"chinese":"初次应用",
+	"english":"First Time Application",
+	"key":"FTA"
+}{
+	"chinese":"快速时间常数",
+	"english":"Fast Time Constant",
+	"key":"FTC"
+}{
+	"chinese":"首次工程",
+	"english":"First-Time Engineering",
+	"key":"FTE"
+}{
+	"chinese":"文件传输协议",
+	"english":"File Transfer Protocol",
+	"key":"FTP"
+}{
+	"chinese":"功能单元",
+	"english":"(AMPL) Functional Unit",
+	"key":"FU"
+}{
+	"chinese":"功能控制块",
+	"english":"Function Control Module",
+	"key":"FUNCM"
+}{
+	"chinese":"给水",
+	"english":"Feedwater",
+	"key":"FW"
+}{
+	"chinese":"给水增压泵",
+	"english":"Feedwater Booster Pump",
+	"key":"FWBP"
+}{
+	"chinese":"给水控制系统",
+	"english":"Feedwater Control System",
+	"key":"FWCS"
+}{
+	"chinese":"给水加热器",
+	"english":"Feedwater Heater",
+	"key":"FWH"
+}{
+	"chinese":"给水隔离阀",
+	"english":"Feedwater Isolation Valve",
+	"key":"FWIV"
+}{
+	"chinese":"给水泵",
+	"english":"Feedwater Pump",
+	"key":"FWP"
+}{
+	"chinese":"联邦水污染控制法",
+	"english":"Federal Water Pollution Control Act",
+	"key":"FWPCA"
+}{
+	"chinese":"主给水和启动给水系统",
+	"english":"Main and Startup Feed-Water System",
+	"key":"FWS"
+}{
+	"chinese":"财政年度",
+	"english":"Fiscal Year",
+	"key":"FY"
+}{
+	"chinese":"图形编辑器",
+	"english":"Graphics Builder",
+	"key":"GB"
+}{
+	"chinese":"设计总则",
+	"english":"General Design Criteria (10CFR 50 Appendix A)",
+	"key":"GDC"
+}{
+	"chinese":"气体衰变箱",
+	"english":"Gas Decay Tank",
+	"key":"GDT"
+}{
+	"chinese":"通用电气公司",
+	"english":"General Electric Company",
+	"key":"GE"
+}{
+	"chinese":"发电机",
+	"english":"Generator",
+	"key":"GEN"
+}{
+	"chinese":"通用电气标准安全分析报告",
+	"english":"General Electric Standard Safety Analysis Report",
+	"key":"GESSAR"
+}{
+	"chinese":"消防门驱动器（卡）",
+	"english":"Gate Fire Driver (card)",
+	"key":"GFD"
+}{
+	"chinese":"接地故障",
+	"english":"Gounding Fault",
+	"key":"GFLT"
+}{
+	"chinese":"总体功能需求",
+	"english":"General Functional Requirements",
+	"key":"GFR"
+}{
+	"chinese":"图形互换格式",
+	"english":"Graphic Interchange Format",
+	"key":"GIF"
+}{
+	"chinese":"通用字母",
+	"english":"Generic Letter",
+	"key":"GL"
+}{
+	"chinese":"通用许可证更新程序",
+	"english":"General License Renewal Program",
+	"key":"GLRP"
+}{
+	"chinese":"通用信息显示屏",
+	"english":"General Message Display",
+	"key":"GMD"
+}{
+	"chinese":"接地",
+	"english":"Ground",
+	"key":"GND"
+}{
+	"chinese":"普通非安全级",
+	"english":"General Non-Safety",
+	"key":"GNS"
+}{
+	"chinese":"总体运行规程",
+	"english":"General Operating Procedure",
+	"key":"GOP"
+}{
+	"chinese":"通用 I/O（双向数字输入/输出）",
+	"english":"General Purpose I/O (bi-directional digital input/output)",
+	"key":"GPIO"
+}{
+	"chinese":"组策略管理控制台",
+	"english":"Group Policy Management Console",
+	"key":"GPMC"
+}{
+	"chinese":"组策略对象",
+	"english":"Group Policy Object",
+	"key":"GPO"
+}{
+	"chinese":"接地电位提升",
+	"english":"Ground Potential Rise",
+	"key":"GPR"
+}{
+	"chinese":"全球定位系统",
+	"english":"Global Positioning Satellite",
+	"key":"GPS"
+}{
+	"chinese":"担保性能指标测试",
+	"english":"Guarantee Performance Test",
+	"key":"GPT"
+}{
+	"chinese":"一般站描述",
+	"english":"Generic Station Description",
+	"key":"GSD"
+}{
+	"chinese":"通用安全专题",
+	"english":"Generic Safety Issue",
+	"key":"GSI"
+}{
+	"chinese":"汽轮机轴封系统",
+	"english":"Gland Seal System",
+	"key":"GSS"
+}{
+	"chinese":"通用技术报告",
+	"english":"General Technical Report",
+	"key":"GTR"
+}{
+	"chinese":"图形用户界面",
+	"english":"Graphical User Interface",
+	"key":"GUI"
+}{
+	"chinese":"调节阀",
+	"english":"Governor Valve",
+	"key":"GV"
+}{
+	"chinese":"废气处理系统",
+	"english":"Gaseous Waste Disposal System",
+	"key":"GWDS"
+}{
+	"chinese":"硬件",
+	"english":"Hardware",
+	"key":"H/W"
+}{
+	"chinese":"氢气",
+	"english":"Hydrogen",
+	"key":"H2"
+}{
+	"chinese":"氢气、氮气供应",
+	"english":"Hydrogen,Nitrogen Supply",
+	"key":"H2,N2"
+}{
+	"chinese":"氢(气)",
+	"english":"Hydrogen (Gas)",
+	"key":"H2orH2"
+}{
+	"chinese":"HART",
+	"english":"Highway Addressable Remote Transducer",
+	"key":"HART"
+}{
+	"chinese":"热影响区",
+	"english":"Heat Affected Zone",
+	"key":"HAZ"
+}{
+	"chinese":"热平衡",
+	"english":"Heat Balance",
+	"key":"HB"
+}{
+	"chinese":"热平衡图",
+	"english":"Heat Balance Diagram",
+	"key":"HBD"
+}{
+	"chinese":"大容量、高负载",
+	"english":"High Capacity",
+	"key":"HC"
+}{
+	"chinese":"升/降温计算",
+	"english":"Heatup/Cooldown Calculation",
+	"key":"HCD"
+}{
+	"chinese":"高置信度低概率故障",
+	"english":"High-Confidence, Low Probability of Failure",
+	"key":"HCLPF"
+}{
+	"chinese":"高密度互补金属氧化物半导体或高速互补经书氧化物半导体",
+	"english":"High-Density Complementary Metal Oxide Semiconductor or\nHigh-Speed Complementary Metal Oxide Semiconductor",
+	"key":"HCMOS"
+}{
+	"chinese":"发电机氢气和 CO2 系统",
+	"english":"Generator Hydrogen and CO2 Systems",
+	"key":"HCS"
+}{
+	"chinese":"液压控制单元",
+	"english":"Hydraulic Control Unit",
+	"key":"HCU"
+}{
+	"chinese":"（1）头、正面\n（2）高清晰度\n",
+	"english":"(1) Head \n(2) High Definition \n",
+	"key":"HD"
+}{
+	"chinese":"历史数据分析",
+	"english":"Historical Data Analysis",
+	"key":"HDA"
+}{
+	"chinese":"加热器集水，疏水和通风系统",
+	"english":"Heater Drips, Drains and Vents System",
+	"key":"HDDVS"
+}{
+	"chinese":"高层数据链路控制",
+	"english":"High-Level Datalink Control",
+	"key":"HDLC"
+}{
+	"chinese":"处理、操作",
+	"english":"Handling",
+	"key":"HDLG"
+}{
+	"chinese":"高清晰度多媒体接口",
+	"english":"High-Definition Multimedia Interface",
+	"key":"HDMI"
+}{
+	"chinese":"联箱，集管",
+	"english":"Header",
+	"key":"hdr"
+}{
+	"chinese":"加热器疏水和排气系统",
+	"english":"Heater Drain and Vent System",
+	"key":"HDS"
+}{
+	"chinese":"人因工程偏差",
+	"english":"Human Engineering Discrepancy",
+	"key":"HED"
+}{
+	"chinese":"高能管道破裂",
+	"english":"High Energy Line Break",
+	"key":"HELB"
+}{
+	"chinese":"高效例子空气（过滤器）",
+	"english":"High Efficiency Particulate Air",
+	"key":"HEPA"
+}{
+	"chinese":"高频",
+	"english":"High Frequency",
+	"key":"HF"
+}{
+	"chinese":"人因工程",
+	"english":"Human Factors Engineering",
+	"key":"HFE"
+}{
+	"chinese":"热流密度仪表",
+	"english":"Heat Flux Meter",
+	"key":"HFM"
+}{
+	"chinese":"高频振荡器",
+	"english":"High-Frequency Oscillator",
+	"key":"HFO"
+}{
+	"chinese":"高的、高度的",
+	"english":"High",
+	"key":"HI"
+}{
+	"chinese":"高完整性控制系统",
+	"english":"High Integrity Control System",
+	"key":"HICS"
+}{
+	"chinese":"主机入侵检测系统",
+	"english":"Human Intrusion Detection System",
+	"key":"HIDS"
+}{
+	"chinese":"加热接头热电偶",
+	"english":"Heated Junction Thermocouple",
+	"key":"HJTC"
+}{
+	"chinese":"热段",
+	"english":"Hot Leg",
+	"key":"HL"
+}{
+	"chinese":"人-机接口",
+	"english":"Human-Machine Interface",
+	"key":"HMI"
+}{
+	"chinese":"高位域特定端口",
+	"english":"High-Order Domain Specific Port",
+	"key":"HODSP"
+}{
+	"chinese":"高压",
+	"english":"High Pressure",
+	"key":"HP"
+}{
+	"chinese":"高压冷却剂注射",
+	"english":"High-Pressure Coolant Injection",
+	"key":"HPCI"
+}{
+	"chinese":"高压堆芯喷雾",
+	"english":"High-Pressure Core Spray",
+	"key":"HPCS"
+}{
+	"chinese":"物理保健区域和热机修车间",
+	"english":"Health Physics And Machine Shop",
+	"key":"HPMS"
+}{
+	"chinese":"高压安全注射",
+	"english":"High-Pressure Safety Injection",
+	"key":"HPSI"
+}{
+	"chinese":"汽机高压缸",
+	"english":"High Pressure Turbine",
+	"key":"HPT"
+}{
+	"chinese":"人因可靠性分析",
+	"english":"Human Reliability Analysis",
+	"key":"HRA"
+}{
+	"chinese":"硬岩高频",
+	"english":"Hard Rock High Frequency",
+	"key":"HRHF"
+}{
+	"chinese":"硬件释放记录",
+	"english":"Hardware Release Record",
+	"key":"HRR"
+}{
+	"chinese":"健康、安全与环境",
+	"english":"Hea1th Safety Environment",
+	"key":"HSE"
+}{
+	"chinese":"人机接口",
+	"english":"Human-System Interface",
+	"key":"HSI"
+}{
+	"chinese":"高速连接",
+	"english":"(Advant?) High Speed Datalink",
+	"key":"HSL"
+}{
+	"chinese":"历史储存/恢复服务器",
+	"english":"Historical Storage/Retrieval Server",
+	"key":"HSR"
+}{
+	"chinese":"氢气密封油系统",
+	"english":"Hydrogen Seal Oil System",
+	"key":"HSS"
+}{
+	"chinese":"（1）热传递\n（2）高温\n（3）暂存罐\n",
+	"english":"(1) Heat Transfer \n(2) High Temperature \n(3) Holdup Tank \n",
+	"key":"HT"
+}{
+	"chinese":"超文本标记语言",
+	"english":"Hypertext Markup Language",
+	"key":"HTML"
+}{
+	"chinese":"高-热力性能",
+	"english":"High-Thermal Performance",
+	"key":"HTP"
+}{
+	"chinese":"暂存、保持",
+	"english":"Holdup",
+	"key":"HU"
+}{
+	"chinese":"人为表现",
+	"english":"Human Performance (as per WEC 22.5)",
+	"key":"HuP"
+}{
+	"chinese":"高电压",
+	"english":"High Voltage",
+	"key":"HV"
+}{
+	"chinese":"采暖、通风和空调",
+	"english":"Heating, Ventilation and Air Conditioning",
+	"key":"HVAC"
+}{
+	"chinese":"HVAC 过滤器滤芯/干废物/混合废物处理系统",
+	"english":"HVAC Filter Cartridge, Dry Active Waste, Mixed Waste\nProcessing System",
+	"key":"HVS"
+}{
+	"chinese":"重水堆",
+	"english":"Heavy Water Reactor",
+	"key":"HWR"
+}{
+	"chinese":"洗手废液箱",
+	"english":"Handwash Waste Tank",
+	"key":"HWT"
+}{
+	"chinese":"总线",
+	"english":"Highway",
+	"key":"hwy"
+}{
+	"chinese":"热交换器",
+	"english":"Heat Exchanger",
+	"key":"HX"
+}{
+	"chinese":"热态零功率",
+	"english":"Hot Zero Power",
+	"key":"HZP"
+}{
+	"chinese":"仪控",
+	"english":"Instrumentation and Control",
+	"key":"I&C"
+}{
+	"chinese":"输入/输出",
+	"english":"Input/Output",
+	"key":"I/O"
+}{
+	"chinese":"仪表用空气",
+	"english":"Instrument Air",
+	"key":"IA"
+}{
+	"chinese":"国际原子能机构",
+	"english":"International Atomic Energy Agency",
+	"key":"IAEA"
+}{
+	"chinese":"按照，与……一致",
+	"english":"In Accordance With",
+	"key":"IAW"
+}{
+	"chinese":"集成电路",
+	"english":"Integrated Circuit",
+	"key":"IC"
+}{
+	"chinese":"集成控制机柜",
+	"english":"Integrated Control Cabinet",
+	"key":"ICC"
+}{
+	"chinese":"不恰当的堆芯冷却监测（系统）",
+	"english":"Inadequate Core Cooling Monitor (System)",
+	"key":"ICCM(S)"
+}{
+	"chinese":"绝缘电缆工程师协会",
+	"english":"Insulated Cable Engineers Association",
+	"key":"ICEA"
+}{
+	"chinese":"集成通讯处理器",
+	"english":"Integrated Communication Processor",
+	"key":"ICP"
+}{
+	"chinese":"倒计数率",
+	"english":"Inverse Count Rate Ratio",
+	"key":"ICR"
+}{
+	"chinese":"集成控制系统",
+	"english":"Integrated Control System",
+	"key":"ICS"
+}{
+	"chinese":"低压主调门",
+	"english":"Intercept Valve",
+	"key":"ICV"
+}{
+	"chinese":"（1）标识，识别\n（2）内径\n",
+	"english":"(1) Identification \n(2) Inside Diameter \n",
+	"key":"ID"
+}{
+	"chinese":"分布式自动化接口",
+	"english":"Interface for Distributed Automation",
+	"key":"IDA"
+}{
+	"chinese":"堆芯性能降级的工业标准制定",
+	"english":"Industry Degraded Core Rulemaking",
+	"key":"IDCOR"
+}{
+	"chinese":"接口设计文件",
+	"english":"Interface Design Document",
+	"key":"IDD"
+}{
+	"chinese":"集成数据处理",
+	"english":"Integrated Data Processing",
+	"key":"IDP"
+}{
+	"chinese":"（1）入侵侦测系统\n（2）1E 级直流和 UPS 系统\n",
+	"english":"(1) Intrusion Detection System \n(2) Class 1E DC and UPS System \n",
+	"key":"IDS"
+}{
+	"chinese":"国际电工委员会",
+	"english":"International Electrotechnical Commission",
+	"key":"IEC"
+}{
+	"chinese":"（1）工程文件索引\n（2）智能电子设备\n（3）智能终端设备\n",
+	"english":"(1) Index of Engineering Document \n(2) Intelligent Electronic Device \n(3) Intelligent End Device \n",
+	"key":"IED"
+}{
+	"chinese":"（美）电器和电子工程师学会",
+	"english":"Institute of Electrical and Electronics Engineers",
+	"key":"IEEE"
+}{
+	"chinese":"（美）照明工程师协会",
+	"english":"Illumination Engineering Society",
+	"key":"IES"
+}{
+	"chinese":"集成工厂验收测试",
+	"english":"Integrated Factory Acceptance Test",
+	"key":"IFAT"
+}{
+	"chinese":"招标",
+	"english":"Invitation for Bid",
+	"key":"IFB"
+}{
+	"chinese":"实施导则",
+	"english":"Implementation Guide",
+	"key":"IG"
+}{
+	"chinese":"交互式图形模拟机",
+	"english":"Interactive Graphic Simulator",
+	"key":"IGS"
+}{
+	"chinese":"一体化堆顶结构、一体化顶盖",
+	"english":"Integrated Head Package",
+	"key":"IHP"
+}{
+	"chinese":"额定马力",
+	"english":"Indicated Horsepower",
+	"key":"ihp"
+}{
+	"chinese":"堆芯仪表系统",
+	"english":"In-core Instrumentation System",
+	"key":"IIS"
+}{
+	"chinese":"堆芯仪表支撑系统",
+	"english":"In-Core Instruments Support System",
+	"key":"IISS"
+}{
+	"chinese":"堆芯仪表套管组件",
+	"english":"In-Core Instrumentation Thimble Tube Assembly",
+	"key":"IITA"
+}{
+	"chinese":"综合逻辑柜",
+	"english":"Integrated Logic Cabinet",
+	"key":"ILC"
+}{
+	"chinese":"集成逻辑处理器",
+	"english":"Integrated Logic Processor",
+	"key":"ILP"
+}{
+	"chinese":"整体泄漏率试验",
+	"english":"Integrated Leak Rate Test",
+	"key":"ILRT"
+}{
+	"chinese":"集成逻辑系统",
+	"english":"Integrated Logic System",
+	"key":"ILS"
+}{
+	"chinese":"飞射物屏蔽内外",
+	"english":"Inside / Outside Missile Barrier",
+	"key":"IMB/OMB"
+}{
+	"chinese":"脉冲",
+	"english":"Impulse",
+	"key":"imp"
+}{
+	"chinese":"进线",
+	"english":"Incoming",
+	"key":"INCM"
+}{
+	"chinese":"爱达荷国立工程实验室",
+	"english":"Idaho National Engineering Laboratory (now Idaho National\nLaboratory)",
+	"key":"INEL"
+}{
+	"chinese":"基础设施",
+	"english":"Infrastructure",
+	"key":"inf"
+}{
+	"chinese":"（1）爱达荷州国家实验室（美国能源部）\n（2）入口\n",
+	"english":"(1) Idaho National Laboratory (U. S. Department of Energy) \n(2) Inlet \n",
+	"key":"INL"
+}{
+	"chinese":"（美）核动力运行学会",
+	"english":"Institute of Nuclear Power Operations",
+	"key":"INPO"
+}{
+	"chinese":"检查",
+	"english":"Inspection",
+	"key":"insp"
+}{
+	"chinese":"仪表",
+	"english":"Instrumentation",
+	"key":"inst"
+}{
+	"chinese":"联锁",
+	"english":"Interlock",
+	"key":"INTLK"
+}{
+	"chinese":"逆变器",
+	"english":"Inverter",
+	"key":"INV"
+}{
+	"chinese":"存量、总量",
+	"english":"Inventory",
+	"key":"invtry"
+}{
+	"chinese":"（1）网络协议\n（2）安装包\n",
+	"english":"(1) Internet Protocol \n(2) Installation Package \n",
+	"key":"IP"
+}{
+	"chinese":"离相封闭母线",
+	"english":"Isolated Phase Bus Duct",
+	"key":"IPB"
+}{
+	"chinese":"综合保护柜",
+	"english":"Integrated Protection Cabinet",
+	"key":"IPC"
+}{
+	"chinese":"一体化进程主管",
+	"english":"Integration Process Lead (as per NA 25.2)",
+	"key":"IPL"
+}{
+	"chinese":"（1）项目总体进度\n（2）综合保护系统\n",
+	"english":"(1) Integrated Project Schedule \n(2) Integrated Protection System \n",
+	"key":"IPS"
+}{
+	"chinese":"网络协议，第 6 版",
+	"english":"Internet Protocol, version 6",
+	"key":"IPv6"
+}{
+	"chinese":"（1）中间量程\n（2）触发继电器\n（3）绝缘电阻\n（4）发布报告\n",
+	"english":"(1) Intermediate Range \n(2) Initiation Relay \n(3) Insulation Resistance \n(4) Issue Reports (as per NSNP 15.2) \n",
+	"key":"IR"
+}{
+	"chinese":"反应堆安全壳内",
+	"english":"Inside Reactor Containment",
+	"key":"IRC"
+}{
+	"chinese":"中间量程监测器",
+	"english":"Intermediate Range Monitor",
+	"key":"IRM"
+}{
+	"chinese":"中间继电器盘",
+	"english":"Interposing Relay Panel",
+	"key":"IRP"
+}{
+	"chinese":"接口需求规范",
+	"english":"Interface Requirements Specification",
+	"key":"IRS"
+}{
+	"chinese":"安全壳内置换料水箱",
+	"english":"In-Containment Refueling Water Storage Tank",
+	"key":"IRWST"
+}{
+	"chinese":"信息系统",
+	"english":"Information Systems",
+	"key":"IS"
+}{
+	"chinese":"国际原子能学会（前称为美国仪表、系统和自动化协会）",
+	"english":"International Society of Automation (formerly Instrumentation,\nSystems and Automation Society)",
+	"key":"ISA"
+}{
+	"chinese":"综合安全性评估",
+	"english":"Integrated Safety Evaluation",
+	"key":"ISE"
+}{
+	"chinese":"集成系统工程主管",
+	"english":"Integration System Engineering Lead (as per NA 25.2)",
+	"key":"ISEL"
+}{
+	"chinese":"在役检查",
+	"english":"In Service Inspection",
+	"key":"ISI"
+}{
+	"chinese":"工业、科学和医学",
+	"english":"Industrial, Scientific, and Medical",
+	"key":"ISM"
+}{
+	"chinese":"（1）国际标准化机构\n（2）隔离\n",
+	"english":"(1) International Organization for Standardization \n(2) Isolation \n",
+	"key":"ISO"
+}{
+	"chinese":"内部结构反应谱",
+	"english":"in-structure response spectra",
+	"key":"ISRS"
+}{
+	"chinese":"在役试验",
+	"english":"Inservice Testing",
+	"key":"IST"
+}{
+	"chinese":"集成系统确认",
+	"english":"Integrated System Validation",
+	"key":"ISV"
+}{
+	"chinese":"集成系统确认测试",
+	"english":"Integrated System Validation Test",
+	"key":"ISVT"
+}{
+	"chinese":"信息技术",
+	"english":"Information Technology",
+	"key":"IT"
+}{
+	"chinese":"检查、试验、分析",
+	"english":"Inspections, Tests, Analyses",
+	"key":"ITA"
+}{
+	"chinese":"（1）接口和试验处理器\n（2）集成试验处理器\n",
+	"english":"(1) Interface and Test Processor \n(2) Integrated Test Processor \n",
+	"key":"ITP"
+}{
+	"chinese":"检查、试验、分析和验收准则",
+	"english":"Inspections, Tests, Analyses, and Acceptance Criteria",
+	"key":"ITAAC"
+}{
+	"chinese":"独立验证和确认",
+	"english":"Independent Verification and Validation",
+	"key":"IV&V"
+}{
+	"chinese":"生产水分配系统",
+	"english":"Industrial Water Piping System",
+	"key":"IWS"
+}{
+	"chinese":"离子交换器",
+	"english":"Ion Exchanger",
+	"key":"IX"
+}{
+	"chinese":"联合工业标准工作组",
+	"english":"Joint Industrial Standards Working Group",
+	"key":"JISWG"
+}{
+	"chinese":"有效倍增系数",
+	"english":"Effective Multiplication Factor",
+	"key":"Keff"
+}{
+	"chinese":"键盘/显示器/鼠标切换装置",
+	"english":"Keyboard/video/mouse Switch",
+	"key":"KVM"
+}{
+	"chinese":"键盘",
+	"english":"Keyboard",
+	"key":"kybd"
+}{
+	"chinese":"电感/电阻",
+	"english":"Inductance/Resistance",
+	"key":"L/R"
+}{
+	"chinese":"局域网",
+	"english":"Local Area Network",
+	"key":"LAN"
+}{
+	"chinese":"许可证修改请求",
+	"english":"Licensing Amendment Request",
+	"key":"LAR"
+}{
+	"chinese":"洗衣房系统",
+	"english":"Laundry System",
+	"key":"LAS"
+}{
+	"chinese":"负荷开断",
+	"english":"Load Break",
+	"key":"LB"
+}{
+	"chinese":"先露后破",
+	"english":"Leak Before Break",
+	"key":"LBB"
+}{
+	"chinese":"许可证基础文件",
+	"english":"Licensing Basis Document",
+	"key":"LBD"
+}{
+	"chinese":"SRTF 取样和实验室系统",
+	"english":"SRTF Sampling and Laboratory System",
+	"key":"LBS"
+}{
+	"chinese":"（1）电感-电容\n（2）动力中心\n",
+	"english":"(1) Inductance-Capacitance \n(2) Load Center \n",
+	"key":"LC"
+}{
+	"chinese":"（1）液晶显示\n（2）由柴油机供电的负荷中心\n",
+	"english":"(1) Liquid Crystal Display \n(2) Load Center Powered from Diesel \n",
+	"key":"LCD"
+}{
+	"chinese":"（1）局部符合逻辑\n（2）就地\n",
+	"english":"(1) Local Coincidence Logic \n(2) Local \n",
+	"key":"LCL"
+}{
+	"chinese": null,
+	"english": null,
+	"key": null
+}{
+	"chinese":"生命周期管理",
+	"english":"Life Cycle Management",
+	"key":"LCM"
+}{
+	"chinese":"运行限制条件",
+	"english":"Limiting Condition(s) for Operation",
+	"key":"LCO"
+}{
+	"chinese":"硅基液晶",
+	"english":"Liquid Crystal On Silicone",
+	"key":"LCOS"
+}{
+	"chinese":"电感-电容-电阻",
+	"english":"Inductance-Capacitance-Resistance",
+	"key":"LCR"
+}{
+	"chinese":"就地控制站",
+	"english":"Local Control Station",
+	"key":"LCS"
+}{
+	"chinese":"勾爪检查开关",
+	"english":"Latch Checking Switch",
+	"key":"lcsw"
+}{
+	"chinese":"液位控制阀",
+	"english":"Level Control Valve",
+	"key":"LCV"
+}{
+	"chinese":"下泄",
+	"english":"Let Down",
+	"key":"LD"
+}{
+	"chinese":"（1）大屏幕样品\n（2）照明配电盘\n",
+	"english":"(1) Large Display Pattern \n(2) Lighting Distribution Panel \n",
+	"key":"LDP"
+}{
+	"chinese":"发光二极管（指示器）",
+	"english":"Light Emitting Diode (Indicator)",
+	"key":"LED"
+}{
+	"chinese":"前缘流量计",
+	"english":"Leading Edge Flow Meter",
+	"key":"LEFM"
+}{
+	"chinese":"证书持有者的事件报告",
+	"english":"Licensing Event Report",
+	"key":"LER"
+}{
+	"chinese":"生命周期工程系统",
+	"english":"Lifecycle Engineering System",
+	"key":"LES"
+}{
+	"chinese":"低频率",
+	"english":"Low Frequency",
+	"key":"LF"
+}{
+	"chinese":"放射性气液废物控制",
+	"english":"Liquid And Gaseous Rad Waste Control",
+	"key":"LGC"
+}{
+	"chinese":"汽轮机电动液压油系统",
+	"english":"Electric Hydraulic Fluid System",
+	"key":"LHS"
+}{
+	"chinese":"低水头安注系统",
+	"english":"Low-Head Safety Injection System",
+	"key":"LHSIS"
+}{
+	"chinese":"线性集成电路",
+	"english":"Linear Integrated Circuit",
+	"key":"LIC"
+}{
+	"chinese":"低-低（报警）",
+	"english":"Low-Low (Alarm)",
+	"key":"LL"
+}{
+	"chinese":"经验教训分析",
+	"english":"Lessons Learned Analysis",
+	"key":"LLA"
+}{
+	"chinese":"股份有限公司",
+	"english":"Limited Liability Company",
+	"key":"LLC"
+}{
+	"chinese":"长研制周期",
+	"english":"Long Lead Time",
+	"key":"LLT"
+}{
+	"chinese":"低的、矮的",
+	"english":"Low",
+	"key":"LO"
+}{
+	"chinese":"权限",
+	"english":"Limits of Authority",
+	"key":"LOA"
+}{
+	"chinese":"失水事故",
+	"english":"Loss of Coolant Accident",
+	"key":"LOCA"
+}{
+	"chinese":"分布式控制系统失效",
+	"english":"Loss of Distributed Control System",
+	"key":"LODCS"
+}{
+	"chinese":"失流",
+	"english":"Loss of Flow",
+	"key":"LOF"
+}{
+	"chinese":"厂外电源丧失",
+	"english":"Loss of Offsite Power",
+	"key":"LOOP"
+}{
+	"chinese":"联锁/闭锁继电器",
+	"english":"Lockout Relay",
+	"key":"LOR"
+}{
+	"chinese":"（1）视线\n（2）主汽轮机和发电机润滑油系统\n",
+	"english":"(1) Line of Sight \n(2) Main Turbine and Generator Lube Oil System \n",
+	"key":"LOS"
+}{
+	"chinese":"伴随应急堆芯冷却运行的系统压失",
+	"english":"Loss of System Pressure with Degraded ECCS Operation",
+	"key":"LOSP"
+}{
+	"chinese":"（1）照明盘\n（2）低压\n",
+	"english":"(1) Lighting Panel \n(2) Low Pressure \n",
+	"key":"LP"
+}{
+	"chinese":"低压冷却剂注射",
+	"english":"Low-Pressure Coolant Injection",
+	"key":"LPCI"
+}{
+	"chinese":"低压堆芯喷雾",
+	"english":"Low-Pressure Core Spray",
+	"key":"LPCS"
+}{
+	"chinese":"低压加热器疏水",
+	"english":"Low-Pressure Heater Drain",
+	"key":"LPHD"
+}{
+	"chinese":"松动部件监测系统",
+	"english":"Loose Parts Monitoring System",
+	"key":"LPMS"
+}{
+	"chinese":"反应堆冷却剂泵和回路运行监视",
+	"english":"Reactor Coolant Pumps and Loops in Operation Monitor",
+	"key":"LPO"
+}{
+	"chinese":"低功率输出",
+	"english":"Low Power Output",
+	"key":"lpo"
+}{
+	"chinese":"本地-功率量程监测器",
+	"english":"Local-Power Range Monitor",
+	"key":"LPRM"
+}{
+	"chinese":"低压安注",
+	"english":"Low-Pressure Safety Injection",
+	"key":"LPSI"
+}{
+	"chinese":"低压缸",
+	"english":"Low Pressure Turbine",
+	"key":"LPT"
+}{
+	"chinese":"执照更新申请",
+	"english":"License Renewal Application",
+	"key":"LRA"
+}{
+	"chinese":"载荷比控制",
+	"english":"Load Ratio Control",
+	"key":"lrc"
+}{
+	"chinese":"大量放射性释放频率",
+	"english":"Large Release Frequency",
+	"key":"LRF"
+}{
+	"chinese":"反应堆冷却剂系统泄漏率监视",
+	"english":"Reactor Coolant System (RCS) Leak Rate Monitor",
+	"key":"LRM"
+}{
+	"chinese":"定子保护系统",
+	"english":"Locked Rotor Protection System",
+	"key":"LRPS"
+}{
+	"chinese":"就地辐射处理器",
+	"english":"Local Radiation Processor",
+	"key":"LRPs"
+}{
+	"chinese":"（1）就地取样\n（2）记录服务器\n",
+	"english":"(1) Local Sampling \n(2) Log Server \n",
+	"key":"LS"
+}{
+	"chinese":"最低有效位",
+	"english":"Least Significant Bit",
+	"key":"LSB"
+}{
+	"chinese":"大屏幕显示器",
+	"english":"Large Screen Display",
+	"key":"LSD"
+}{
+	"chinese":"大范围集成",
+	"english":"Large-Scale Integration",
+	"key":"LSI"
+}{
+	"chinese":"回路停止隔离阀",
+	"english":"Loop Stop Isolation Valve",
+	"key":"LSIV"
+}{
+	"chinese":"低安全级设备",
+	"english":"Low-Safety-Significant Component",
+	"key":"LSSC"
+}{
+	"chinese":"液位变送器",
+	"english":"Level Transmitter",
+	"key":"LT"
+}{
+	"chinese":"低温超压保护",
+	"english":"Low Temperature Overpressure Protection",
+	"key":"LTOP"
+}{
+	"chinese":"低电压（和 lp 低压区分）",
+	"english":"Low Voltage",
+	"key":"lv"
+}{
+	"chinese":"液位校正",
+	"english":"Level Correction",
+	"key":"LVC"
+}{
+	"chinese":"线性电压微分传感器",
+	"english":"Linear-Voltage Differential Transducer",
+	"key":"LVDT"
+}{
+	"chinese":"液位",
+	"english":"Level",
+	"key":"LVL"
+}{
+	"chinese":"废液处理系统",
+	"english":"Liquid Waste Processing System",
+	"key":"LWPS"
+}{
+	"chinese":"轻水反应堆",
+	"english":"Light Water Reactor",
+	"key":"LWR"
+}{
+	"chinese":"手动",
+	"english":"Manual",
+	"key":"M"
+}{
+	"chinese":"材料和服务",
+	"english":"Materials and Services",
+	"key":"M&S"
+}{
+	"chinese":"测量和试验设备",
+	"english":"Measuring and Test Equipment",
+	"key":"M&TE"
+}{
+	"chinese":"手动/自动控制站",
+	"english":"Manual Auto Control Station",
+	"key":"M/A"
+}{
+	"chinese":"可移动探测器",
+	"english":"Movable Detector",
+	"key":"M/D"
+}{
+	"chinese":"电机发电机",
+	"english":"Motor Generator",
+	"key":"M/G"
+}{
+	"chinese":"多媒体登录控制",
+	"english":"Media Access Control",
+	"key":"MAC"
+}{
+	"chinese":"机器、机械装置",
+	"english":"Machine",
+	"key":"MACH"
+}{
+	"chinese":"模块应用功能",
+	"english":"Modular Application Function(s)",
+	"key":"MAF"
+}{
+	"chinese":"维护、维修",
+	"english":"Maintenance",
+	"key":"MAINT"
+}{
+	"chinese":"生产自动化协议",
+	"english":"Manufacturing Automation Protocol",
+	"key":"MAP"
+}{
+	"chinese":"最大允许电压限制鉴别器",
+	"english":"Maximum Allowable Power Limit Evaluator",
+	"key":"MAPLE"
+}{
+	"chinese":"裕度、裕量",
+	"english":"Margin",
+	"key":"MARG"
+}{
+	"chinese":"最大值的、最大量的",
+	"english":"Maximum",
+	"key":"MAX"
+}{
+	"chinese":"信号中值选择器算法",
+	"english":"Median Signal Selector Algorithm",
+	"key":"MSSA"
+}{
+	"chinese":"主辅助变压器",
+	"english":"Main Auxiliary Transformer",
+	"key":"MAT"
+}{
+	"chinese":"介质连接单元",
+	"english":"Media Attachment Unit",
+	"key":"MAU"
+}{
+	"chinese":"Modbus 应用协议",
+	"english":"Modbus Application Protocol",
+	"key":"MBAP"
+}{
+	"chinese":"机械台",
+	"english":"Mechanical Bench Board",
+	"key":"MBB"
+}{
+	"chinese":"移动式处理系统",
+	"english":"Moblie Treatment System",
+	"key":"MBS"
+}{
+	"chinese":"光电转换器",
+	"english":"Media Converter",
+	"key":"MC"
+}{
+	"chinese":"主控制区",
+	"english":"Main Control Area",
+	"key":"MCA"
+}{
+	"chinese":"美国机械承包商协会（注：MCAA 目前执行 SAMA 标准）",
+	"english":"Mechanical Contractors Association of America (Note: MCAA\nnow administers SAMA Standards)",
+	"key":"MCAA"
+}{
+	"chinese":"（1）主控制板\n（2）微电路断路器\n",
+	"english":"(1) Main Control Board \n(2) Miniature Circuit Breaker \n",
+	"key":"MCB"
+}{
+	"chinese":"电机控制中心",
+	"english":"Motor Control Center",
+	"key":"MCC"
+}{
+	"chinese":"模块式回路断路器",
+	"english":"Molded Case Circuit Breaker",
+	"key":"MCCB"
+}{
+	"chinese":"磁芯记忆",
+	"english":"Magnetic Core Memory",
+	"key":"mcm"
+}{
+	"chinese":"主控制盘",
+	"english":"Master Control Panel",
+	"key":"MCP"
+}{
+	"chinese":"主控制室",
+	"english":"Main Control Room",
+	"key":"MCR"
+}{
+	"chinese":"主控制室可居留系统",
+	"english":"Main Control Room Habitability System",
+	"key":"MCRHS"
+}{
+	"chinese":"材料适用性测试",
+	"english":"Material Compatibility Test",
+	"key":"MCT"
+}{
+	"chinese":"光盘和主板",
+	"english":"Medium Disc and Keyplate",
+	"key":"MD/KP"
+}{
+	"chinese":"电动辅助给水泵",
+	"english":"Motor-Driven Auxiliary Feedwater Pump",
+	"key":"MDAFWP"
+}{
+	"chinese":"机械设计流量",
+	"english":"Mechanical Design Flow",
+	"key":"MDF"
+}{
+	"chinese":"（1）中部、中间的\n（2）最小检出量\n",
+	"english":"(1) Middle \n(2) Minimum Detectable Limit \n",
+	"key":"MDL"
+}{
+	"chinese":"（1）最大值的、最大量的\n（2）多线程诊断监视器\n",
+	"english":"(1) Medium \n(2) Multibus Diagnostic Monitor \n",
+	"key":"MDM"
+}{
+	"chinese":"机械的、力学的",
+	"english":"Mechanical",
+	"key":"MECH"
+}{
+	"chinese":"微电子设备",
+	"english":"Microelectronic Device",
+	"key":"MED"
+}{
+	"chinese":"最大期望误差",
+	"english":"Maximum Expected Error",
+	"key":"MEE"
+}{
+	"chinese":"（1）主设备清单\n（2）材料和设备表\n",
+	"english":"(1) Master Equipment List \n(2) Material and Equipment Log \n",
+	"key":"MEL"
+}{
+	"chinese":"三菱电力公司/三菱電力株式会社",
+	"english":"Mitsubishi Electric Company",
+	"key":"MELCO"
+}{
+	"chinese":"气象和环境监测系统",
+	"english":"Meteorological and Environmental Monitoring System",
+	"key":"MES"
+}{
+	"chinese":"主给水控制阀",
+	"english":"Main Feedwater Control Valve",
+	"key":"MFCV"
+}{
+	"chinese":"生产制造",
+	"english":"Manufacturing",
+	"key":"MFG"
+}{
+	"chinese":"主给水隔离信号",
+	"english":"Main Feedwater Isolation Signal",
+	"key":"MFIS"
+}{
+	"chinese":"主给水隔离阀",
+	"english":"Main Feedwater Isolation Valve",
+	"key":"MFIV"
+}{
+	"chinese":"主给水",
+	"english":"Main Feedwater",
+	"key":"MFW"
+}{
+	"chinese":"电机发电机（set）",
+	"english":"Motor Generator (set)",
+	"key":"MG"
+}{
+	"chinese":"物料搬运系统",
+	"english":"Mechanical Handling System",
+	"key":"MHS"
+}{
+	"chinese":"主热传输系统",
+	"english":"Main Heat Transport System",
+	"key":"MHTS"
+}{
+	"chinese":"整体集成回路",
+	"english":"Monolithic Integrated Circuit",
+	"key":"MIC"
+}{
+	"chinese":"气象信息和计量评估系统",
+	"english":"Meteorological Information and Dose Assessment System",
+	"key":"MIDAS"
+}{
+	"chinese":"小流量",
+	"english":"Mini Flow",
+	"key":"MIF"
+}{
+	"chinese":"混合整数线性代码",
+	"english":"Mixed-Integer Linear Coding",
+	"key":"MILP"
+}{
+	"chinese":"军用标准",
+	"english":"Military Standard",
+	"key":"MIL-STD"
+}{
+	"chinese":"多用途因特网邮件扩充",
+	"english":"Multipurpose Internet Mail Extensions",
+	"key":"MIME"
+}{
+	"chinese":"金属冲击监测系统",
+	"english":"Metal Impact Monitoring System",
+	"key":"MIMS"
+}{
+	"chinese":"最小值的、最小量的",
+	"english":"Minimum",
+	"key":"MIN"
+}{
+	"chinese":"管理信息系统",
+	"english":"Management Information System",
+	"key":"MIS"
+}{
+	"chinese":"杂项",
+	"english":"Miscellaneous",
+	"key":"misc"
+}{
+	"chinese":"电厂管理局域网系统",
+	"english":"Plant Management LAN System",
+	"key":"MLS"
+}{
+	"chinese":"最小测量流量",
+	"english":"Minimum Measured Flow",
+	"key":"MMF"
+}{
+	"chinese":"人机接口",
+	"english":"Man-Machine Interface",
+	"key":"MMI"
+}{
+	"chinese":"人机接口系统",
+	"english":"Man-Machine Interface System",
+	"key":"MMIS"
+}{
+	"chinese":"多重系统相关",
+	"english":"Multiple-Systems Related",
+	"key":"MMS"
+}{
+	"chinese":"主要的、重要的",
+	"english":"Main",
+	"key":"MN"
+}{
+	"chinese":"机械喷嘴密封组件",
+	"english":"Mechanical Nozzle Seal Assembly",
+	"key":"MNSA"
+}{
+	"chinese":"模式",
+	"english":"Mode",
+	"key":"MOD"
+}{
+	"chinese":"改进的操作程序",
+	"english":"Modified Operating Procedures",
+	"key":"MOPs"
+}{
+	"chinese":"月度运行报告",
+	"english":"Monthly Operations Report",
+	"key":"MOR"
+}{
+	"chinese":"金属氧化物半导体场效应晶体管",
+	"english":"Metal-Oxide Semiconductor Field-Effects Transistor",
+	"key":"MOSFET"
+}{
+	"chinese":"即时修改",
+	"english":"Modified-Off-the-Shelf",
+	"key":"MOTS"
+}{
+	"chinese":"（1）金属氧化物压敏电阻\n（2）电动阀\n",
+	"english":"(1) Metal Oxide Varistor \n(2) Motor-Operated Valve \n",
+	"key":"MOV"
+}{
+	"chinese": null,
+	"english": null,
+	"key": null
+}{
+	"chinese":"混合氧化物",
+	"english":"Mixed Oxide",
+	"key":"MOX"
+}{
+	"chinese":"维护-预防功能衰竭",
+	"english":"Maintenance-Preventable Functional Failure",
+	"key":"MPFF"
+}{
+	"chinese":"多协议标签交换",
+	"english":"Multiprotocol Label Switching",
+	"key":"MPLS"
+}{
+	"chinese":"最小功率裕量",
+	"english":"Minimum Power Margin",
+	"key":"MPM"
+}{
+	"chinese":"月度工艺报告",
+	"english":"Monthly Progress Report",
+	"key":"MPR"
+}{
+	"chinese":"监测和保护系统",
+	"english":"Monitoring and Protection System",
+	"key":"MPS"
+}{
+	"chinese":"（1）维护规则\n（2）多重比率\n",
+	"english":"(1) Maintenance Rule \n(2) Multi-Ratio \n",
+	"key":"MR"
+}{
+	"chinese": null,
+	"english": null,
+	"key": null
+}{
+	"chinese":"材料接收指令",
+	"english":"Material Receiving Instruction",
+	"key":"MRI"
+}{
+	"chinese":"主蒸汽",
+	"english":"Main Steam",
+	"key":"MS"
+}{
+	"chinese":"（1）主蒸汽管道破裂（事故方案）\n（2）最重要位\n",
+	"english":"(1) Main Steamline Break (accident scenario) \n(2) Most Significant Bit \n",
+	"key":"MSB"
+}{
+	"chinese":"材料安全数据表单",
+	"english":"Material Safety Datasheet",
+	"key":"MSDS"
+}{
+	"chinese":"气水分离器滴灌",
+	"english":"Moisture Separator Drip Tank",
+	"key":"MSDT"
+}{
+	"chinese":"主蒸汽隔离信号",
+	"english":"Main Steam Isolation Signal",
+	"key":"MSIS"
+}{
+	"chinese":"主蒸汽隔离阀",
+	"english":"Main Steam Isolation Valve",
+	"key":"MSIV"
+}{
+	"chinese":"主蒸汽管破裂",
+	"english":"Main Steam Line Break",
+	"key":"MSLB"
+}{
+	"chinese":"多处理器共享内存信息交换",
+	"english":"Multiprocessor Shared Memory Information Exchange",
+	"key":"MSMIE"
+}{
+	"chinese":"汽水分离再热器",
+	"english":"Moisture Separator Reheater",
+	"key":"MSR"
+}{
+	"chinese":"主蒸汽系统",
+	"english":"Main Steam System",
+	"key":"MSS"
+}{
+	"chinese":"主同步任务",
+	"english":"Master Synchronization Task",
+	"key":"MST"
+}{
+	"chinese":"主汽门",
+	"english":"Main Steam Valve",
+	"key":"MSV"
+}{
+	"chinese":"主变压器",
+	"english":"Main Transformer",
+	"key":"MT"
+}{
+	"chinese":"平均无故障时间",
+	"english":"Mean Time Between Failures",
+	"key":"MTBF"
+}{
+	"chinese":"平均维修时间",
+	"english":"Mean Time Between Repairs",
+	"key":"MTBR"
+}{
+	"chinese":"主汽机控制",
+	"english":"Main Turbine Control",
+	"key":"MTC"
+}{
+	"chinese":"（1）主汽机保护\n（2）维护和试验盘\n",
+	"english":"(1) Main Turbine Protection \n(2) Maintenance and Test Panel \n",
+	"key":"MTP"
+}{
+	"chinese": null,
+	"english": null,
+	"key": null
+}{
+	"chinese":"材料试验报告",
+	"english":"Material Test Report",
+	"key":"MTR"
+}{
+	"chinese":"（1）主汽轮机系统\n（2）手动切换开关\n（3）改进测试系统\n",
+	"english":"(1) Main Turbine System \n(2) Manual-Transfer Switch \n(3) Modification Test System \n",
+	"key":"MTS"
+}{
+	"chinese":"平均失效时间",
+	"english":"Mean Time To Failure",
+	"key":"MTTF"
+}{
+	"chinese":"首次故障平均时间",
+	"english":"Mean Time to First Failure",
+	"key":"MTTFF"
+}{
+	"chinese":"平均修复间隔时间",
+	"english":"Mean Time To Repair",
+	"key":"MTTR"
+}{
+	"chinese":"补水",
+	"english":"Makeup",
+	"key":"MU"
+}{
+	"chinese":"补水泵",
+	"english":"Makeup Pump",
+	"key":"MUP"
+}{
+	"chinese":"多路调制器，多路通道",
+	"english":"Multiplexer",
+	"key":"MUX"
+}{
+	"chinese":"模型-视图-控制器",
+	"english":"Model View Controller",
+	"key":"MVC"
+}{
+	"chinese":"混合",
+	"english":"Mixing",
+	"key":"MXG"
+}{
+	"chinese":"氮气",
+	"english":"Nitrogen",
+	"key":"N2"
+}{
+	"chinese":"不适用",
+	"english":"Not Applicable or Not Available",
+	"key":"N/A"
+}{
+	"chinese":"注意/警告",
+	"english":"Notes/Cautions",
+	"key":"N/C"
+}{
+	"chinese":"核自动化",
+	"english":"Nuclear Automation",
+	"key":"NA"
+}{
+	"chinese":"核自动化商业单元",
+	"english":"Nuclear Automation Business Unit",
+	"key":"NABU"
+}{
+	"chinese":"国家工程院",
+	"english":"National Academy of Engineering",
+	"key":"NAE"
+}{
+	"chinese":"非数值表现（对错误实数值的错误提示）",
+	"english":"Not a number (error indicating an erroneous real number value)",
+	"key":"NaN"
+}{
+	"chinese":"核应用程序",
+	"english":"Nuclear Application Program",
+	"key":"NAPs"
+}{
+	"chinese":"国家科学院",
+	"english":"National Academy of Sciences",
+	"key":"NAS"
+}{
+	"chinese":"国家标准局（NIST 的前身）",
+	"english":"National Bureau of Standards (predecessor of NIST)",
+	"key":"NBS"
+}{
+	"chinese":"常闭",
+	"english":"Normally Closed",
+	"key":"NC"
+}{
+	"chinese":"归一化互功率谱",
+	"english":"Normalized Cross Power Spectral Density",
+	"key":"NCPSD"
+}{
+	"chinese":"不符合项报告",
+	"english":"Nonconformance Report",
+	"key":"NCR"
+}{
+	"chinese":"网络连接系统",
+	"english":"Network Connection System",
+	"key":"NCS"
+}{
+	"chinese":"正常不通电",
+	"english":"Normally De-energized",
+	"key":"ND"
+}{
+	"chinese":"无损检验",
+	"english":"Nondestructive Examination",
+	"key":"NDE"
+}{
+	"chinese":"数字数据处理器",
+	"english":"Numeric Data Processor",
+	"key":"NDP"
+}{
+	"chinese":"数字读数",
+	"english":"Numerical Digital Readout",
+	"key":"NDR"
+}{
+	"chinese":"正常通电",
+	"english":"Normally Energized",
+	"key":"NE"
+}{
+	"chinese":"核能机构",
+	"english":"Nuclear Energy Agency",
+	"key":"NEA"
+}{
+	"chinese":"国家电气规范（NFPA 发?恚?",
+	"english":"National Electric Code (publication of the NFPA)",
+	"key":"NEC"
+}{
+	"chinese":"负极",
+	"english":"Negative",
+	"key":"NEG"
+}{
+	"chinese":"核能学会",
+	"english":"Nuclear Energy Institute",
+	"key":"NEI"
+}{
+	"chinese":"国家电器制造商协会",
+	"english":"National Electrical Manufacturers Association",
+	"key":"NEMA"
+}{
+	"chinese":"核工程和操作",
+	"english":"Nuclear Engineering and Operations",
+	"key":"NEO"
+}{
+	"chinese":"北美电力可靠性公司",
+	"english":"North American Electric Reliability Corporation",
+	"key":"NERC"
+}{
+	"chinese":"国家电气安全规范",
+	"english":"National Electric Safety Code",
+	"key":"NESC"
+}{
+	"chinese":"正常工程安全特征",
+	"english":"Normal Engineered Safety Feature",
+	"key":"NESF"
+}{
+	"chinese":"网络动态数据交换",
+	"english":"Network Dynamic Data Exchange",
+	"key":"NetDDE"
+}{
+	"chinese":"主给水调节阀",
+	"english":"Main Feedwater Control Valve",
+	"key":"MFCV"
+}{
+	"chinese":"国家防火协会",
+	"english":"National Fire Protection Association",
+	"key":"NFPA"
+}{
+	"chinese":"（1）核设备\n（2）核岛\n",
+	"english":"(1) Nuclear Instrumentation \n(2) Nuclear Island \n",
+	"key":"NI"
+}{
+	"chinese":"（1）网络接口连接器或卡件\n（2）核设备机柜\n",
+	"english":"(1) Network Interface Connection or Card \n(2) Nuclear Instrumentation Cabinet \n",
+	"key":"NIC"
+}{
+	"chinese":"网络入侵检测系统",
+	"english":"Network Intrusion Detection System",
+	"key":"NIDS"
+}{
+	"chinese":"核仪表模块",
+	"english":"Excore Nuclear Instrumentation Electronics Module",
+	"key":"NIMOD"
+}{
+	"chinese":"核测仪表系统",
+	"english":"Nuclear Instrumentation System",
+	"key":"NIS"
+}{
+	"chinese":"国家标准和技术协会",
+	"english":"National Institute of Standards and Technology (agency of the\nU. S. Commerce Department)",
+	"key":"NIST"
+}{
+	"chinese":"无执照操纵员",
+	"english":"NON-LICENSED OPERATOR",
+	"key":"NLO"
+}{
+	"chinese":"国家语言支持",
+	"english":"National Language Support",
+	"key":"NLS"
+}{
+	"chinese":"非核安全级",
+	"english":"Non-Nuclear Safety (as per WEC 3.2.1)",
+	"key":"NNS"
+}{
+	"chinese":"常开",
+	"english":"Normally Open",
+	"key":"NO"
+}{
+	"chinese":"数量",
+	"english":"Number",
+	"key":"NO."
+}{
+	"chinese":"正常运行规程",
+	"english":"Normal Operating Procedure",
+	"key":"NOP"
+}{
+	"chinese":"正常的、平常的",
+	"english":"Normal",
+	"key":"NORM"
+}{
+	"chinese":"正常运行温度",
+	"english":"Normal Operating Temperature",
+	"key":"NOT"
+}{
+	"chinese":"核能项目（核自动化的前称）",
+	"english":"Nuclear Projects (former name of Nuclear Automation)",
+	"key":"NP"
+}{
+	"chinese":"核电项目商业单元",
+	"english":"(Westinghouse) Nuclear Projects Business Unit",
+	"key":"NPBU"
+}{
+	"chinese":"核电项目部",
+	"english":"(Westinghouse) Nuclear Projects Division",
+	"key":"NPD"
+}{
+	"chinese":"核电项目实施导则",
+	"english":"Nuclear Projects Implementation Guideline",
+	"key":"NPIG"
+}{
+	"chinese":"核部分组织",
+	"english":"(NA) Nuclear Parts Organization",
+	"key":"NPO"
+}{
+	"chinese":"（1）核电厂\n（2）核电厂（西屋商业单元）\n",
+	"english":"(1) Nuclear Power Plant \n(2) Nuclear Power Plants (business unit of Westinghouse) \n",
+	"key":"NPP"
+}{
+	"chinese": null,
+	"english": null,
+	"key": null
+}{
+	"chinese":"新电站项目部门",
+	"english":"New Plants Project Division (obsolete)",
+	"key":"NPPD"
+}{
+	"chinese":"核部分专家",
+	"english":"Nuclear Parts Specialist",
+	"key":"NPS"
+}{
+	"chinese":"归一化功率谱",
+	"english":"Normalized Power Spectral Density",
+	"key":"NPSD"
+}{
+	"chinese":"净正吸入压头",
+	"english":"Net Positive Suction Head",
+	"key":"NPSH"
+}{
+	"chinese":"美国 60°锥管螺纹标准",
+	"english":"Nation Pipe Thread",
+	"key":"NPT"
+}{
+	"chinese":"核质量保证",
+	"english":"Nuclear Quality Assurance",
+	"key":"NQA"
+}{
+	"chinese":"窄量程",
+	"english":"Narrow Range (as radiation detector)",
+	"key":"NR"
+}{
+	"chinese":"美国核管会",
+	"english":"The U. S. Nuclear Regulatory Commission",
+	"key":"NRC"
+}{
+	"chinese":"归一化均方误差",
+	"english":"Normalized Root Mean Square",
+	"key":"NRMS"
+}{
+	"chinese":"不归零倒置",
+	"english":"Non-Return to Zero Inverted",
+	"key":"NRZI"
+}{
+	"chinese":"（1）非安全的\n（2）非抗震类\n（3）核设备\n",
+	"english":"(1) Non-Safety \n(2) Non-Seismic \n(3) Nuclear Services \n",
+	"key":"NS"
+}{
+	"chinese":"和设备部门",
+	"english":"Nuclear Services Division",
+	"key":"NSD"
+}{
+	"chinese":"非安全相关",
+	"english":"Non-Safety Related",
+	"key":"NSR"
+}{
+	"chinese":"核蒸汽供应系统",
+	"english":"Nuclear Steam Supply System",
+	"key":"NSSS"
+}{
+	"chinese":"中子",
+	"english":"Neutron",
+	"key":"NTN"
+}{
+	"chinese":"（1）常温常压\n（2）网络时间协议\n",
+	"english":"(1) Normal Temperature and Pressure \n(2) Network Time Protocol \n",
+	"key":"NTP"
+}{
+	"chinese":"核管理和资源委员会（NEI 的前称）",
+	"english":"Nuclear Management and Resources Council (predecessor of\nNEI)",
+	"key":"NUMARC"
+}{
+	"chinese":"美国核管会技术报告的名称",
+	"english":"Nuclear Regulatory Commission technical report designation",
+	"key":"NUREG"
+}{
+	"chinese":"运行和维修",
+	"english":"Operation and Maintenance",
+	"key":"O&M"
+}{
+	"chinese":"自动运行",
+	"english":"Operator Auto",
+	"key":"OA"
+}{
+	"chinese":"操纵员验收测试",
+	"english":"Operator Acceptance Test",
+	"key":"OAT"
+}{
+	"chinese":"运行基准地震",
+	"english":"Operating Basis Earthquake",
+	"key":"OBE"
+}{
+	"chinese":"运行和控制中心系统",
+	"english":"Operation and Control Centers System",
+	"key":"OCS"
+}{
+	"chinese":"Ovation 控制系统设计",
+	"english":"Ovation Control System Design",
+	"key":"OCSD"
+}{
+	"chinese":"外径",
+	"english":"Outside Diameter",
+	"key":"OD"
+}{
+	"chinese":"开放数据库互联",
+	"english":"Open Database Connectivity",
+	"key":"ODBC"
+}{
+	"chinese":"光盘驱动器",
+	"english":"Optical Disc Driver",
+	"key":"ODD"
+}{
+	"chinese":"操纵员显示盘",
+	"english":"Operator Display Panel",
+	"key":"ODP"
+}{
+	"chinese":"原始设备制造商",
+	"english":"Original Equipment Manufacturer",
+	"key":"OEM"
+}{
+	"chinese":"运行经验审查",
+	"english":"Operating Experience Review",
+	"key":"OER"
+}{
+	"chinese":"(加热器)断开状态",
+	"english":"Off Position",
+	"key":"OFF POS"
+}{
+	"chinese":"岗位培训",
+	"english":"On-The-Job Training",
+	"key":"OJT"
+}{
+	"chinese":"运行许可证",
+	"english":"Operating License",
+	"key":"OL"
+}{
+	"chinese":"过载、超载、超负荷",
+	"english":"Overload",
+	"key":"OLD"
+}{
+	"chinese":"在线维护",
+	"english":"Online Maintenance",
+	"key":"OLM"
+}{
+	"chinese":"（1）操作管理\n（2）操纵员模块\n",
+	"english":"(1) Operations Manager \n(2) Operator's Module \n",
+	"key":"OM"
+}{
+	"chinese":"飞射物屏蔽外",
+	"english":"Outside Missile Barrier",
+	"key":"OMB"
+}{
+	"chinese":"(加热器)接通状态",
+	"english":"On Position",
+	"key":"ON POS"
+}{
+	"chinese":"超压",
+	"english":"Over Pressure",
+	"key":"OP"
+}{
+	"chinese":"（1）用于过程控制的 OLE\n（2）超速保护控制\n",
+	"english":"(1) Object Linking and Embedding (OLE) for Process Control \n(2) Overspeed Protection Control \n",
+	"key":"OPC"
+}{
+	"chinese":"在线功率分布监测系统",
+	"english":"On-Line Power Distribution Monitoring System",
+	"key":"OPDMS"
+}{
+	"chinese":"运行经验",
+	"english":"Operating Experience",
+	"key":"OPEX"
+}{
+	"chinese":"Ovation? 历史数据库",
+	"english":"Ovation? Process Historian",
+	"key":"OPH"
+}{
+	"chinese":"（阀门）开命令、（断路器）分闸命令",
+	"english":"Open",
+	"key":"OPN"
+}{
+	"chinese":"（阀门）开状态、（断路器）分闸状态",
+	"english":"Open Position",
+	"key":"OPN POS"
+}{
+	"chinese":"源点处理器",
+	"english":"Originated point processor",
+	"key":"OPP"
+}{
+	"chinese":"运行功率范围监控",
+	"english":"Operating Power Range Monitor (for BWRs)",
+	"key":"OPRM"
+}{
+	"chinese":"操作人员",
+	"english":"Operation Personnel",
+	"key":"OPS"
+}{
+	"chinese":"运行备件",
+	"english":"Operational Spare Parts",
+	"key":"OPST"
+}{
+	"chinese":"反应堆安全壳外侧",
+	"english":"Outside Reactor Containment",
+	"key":"ORC"
+}{
+	"chinese":"超驰/超越(控制)，优先于",
+	"english":"Override",
+	"key":"ORD"
+}{
+	"chinese":"职业放射性照射",
+	"english":"Occupational Radiation Exposure",
+	"key":"ORE"
+}{
+	"chinese":"运行序列分析",
+	"english":"Operational Sequence Analysis (Analyses)",
+	"key":"OSA"
+}{
+	"chinese":"运行支持中心",
+	"english":"Operations Support Center",
+	"key":"OSC"
+}{
+	"chinese":"职业安全和健康管理机构",
+	"english":"Occupational Safety and Health Administration (of the U. S.\nDepartment of Labor)",
+	"key":"OSHA"
+}{
+	"chinese":"开放系统互联",
+	"english":"Open System Interconnection",
+	"key":"OSI"
+}{
+	"chinese":"Ovation? 安全管理",
+	"english":"Ovation? Security Manager",
+	"key":"OSM"
+}{
+	"chinese":"超速保护",
+	"english":"Overspeed Protection",
+	"key":"OSP"
+}{
+	"chinese":"超温",
+	"english":"Over Temperature",
+	"key":"OT"
+}{
+	"chinese":"出口",
+	"english":"Outlet",
+	"key":"OUTL"
+}{
+	"chinese":"输出值",
+	"english":"Over Value",
+	"key":"OV"
+}{
+	"chinese":"运行工作区",
+	"english":"Operation Work Area",
+	"key":"OWA"
+}{
+	"chinese":"（1）厂外水处理系统\n（2）操纵员操作站\n（3）汽轮机厂房开始循环冷却水系统\n",
+	"english":"(1) Offsite Water Treatment System \n(2) Operator Workstation \n(3) Turbine Building Opened Cycle Cooling Water System \n",
+	"key":"OWS"
+}{
+	"chinese":"管道和仪表流程图",
+	"english":"Piping & Instrumentation Diagram",
+	"key":"P&ID"
+}{
+	"chinese":"气动信号至电流信号",
+	"english":"Pneumatic to Current",
+	"key":"P/I"
+}{
+	"chinese":"压力/温度",
+	"english":"Pressure/Temperature",
+	"key":"P/T"
+}{
+	"chinese":"过程资源",
+	"english":"Process Asset",
+	"key":"PA"
+}{
+	"chinese":"私人自动交换分机",
+	"english":"Private Automatic Branch Exchange System",
+	"key":"PABX"
+}{
+	"chinese":"临时验收证书",
+	"english":"Provisional Acceptance Certification",
+	"key":"PAC"
+}{
+	"chinese":"事故后监测系统",
+	"english":"Post-Accident Monitoring System",
+	"key":"PAMS"
+}{
+	"chinese":"非能动自动催化复合器",
+	"english":"Passive Autocatalytic Recombiner",
+	"key":"PAR"
+}{
+	"chinese":"过程资源责任矩阵",
+	"english":"Process Asset Responsibility Matrix (as per draft NA 25.3)",
+	"key":"PARM"
+}{
+	"chinese":"（1）电站信号系统\n（2）主报警系统\n",
+	"english":"(1) Plant Annunciator System \n(2) Primary Alarm System \n",
+	"key":"PAS"
+}{
+	"chinese":"（1）规程开发软件\n（2）按钮\n",
+	"english":"(1) Procedure Builder \n(2) Push Button \n",
+	"key":"PB"
+}{
+	"chinese":"球形模块化反应堆",
+	"english":"Pebble Bed Modular Reactor",
+	"key":"PBMR"
+}{
+	"chinese":"（1）个人计算机\n（2）（AMPL）过程控制\n（3）印刷电路（卡）\n",
+	"english":"(1) Personal Computer \n(2) (AMPL) Process Control [Element/Part] \n(3) Printed Circuit (card) \n",
+	"key":"PC"
+}{
+	"chinese":"（1）多氯化联（二）苯\n（2）印刷电路板\n",
+	"english":"(1) Polychorinated Biphenyls \n(2) Printed Circuit Board \n",
+	"key":"PCB"
+}{
+	"chinese":"非能动安全壳辅助冷却水箱",
+	"english":"Passive Containment Cooling Ancillary Water Storage Tank",
+	"key":"PCCAWST"
+}{
+	"chinese":"非能动安全壳冷却系统",
+	"english":"Passive Core Cooling System",
+	"key":"PCCS"
+}{
+	"chinese":"非能动安全壳冷却水箱",
+	"english":"Passive Containment Cooling Water Storage Tank",
+	"key":"PCCWST"
+}{
+	"chinese":"外设组件互联",
+	"english":"Peripheral Component Interconnect",
+	"key":"PCI"
+}{
+	"chinese":"主安全壳隔离系统",
+	"english":"Primary Containment Isolation System",
+	"key":"PCIS"
+}{
+	"chinese":"非能动安全壳冷却系统",
+	"english":"Passive Containment Cooling System",
+	"key":"PCS"
+}{
+	"chinese":"压力控制阀",
+	"english":"Pressure Control Valve",
+	"key":"PCV"
+}{
+	"chinese":"非能动安全壳冷却水储存",
+	"english":"Passive Containment Cooling Water Storage",
+	"key":"PCWS"
+}{
+	"chinese":"便携式文件格式",
+	"english":"Portable Document Format",
+	"key":"PDF"
+}{
+	"chinese":"项目文档索引",
+	"english":"Project Document Index (as per NA 4.3.1)",
+	"key":"PDI"
+}{
+	"chinese":"项目的设计和实施过程",
+	"english":"Project Design and Implementation Process",
+	"key":"PDIP"
+}{
+	"chinese":"(1)产品经理",
+	"english":"(1) Product Manager",
+	"key":"PDM"
+}{
+	"chinese":"(2)电源分配模块",
+	"english":"(2) Power Distribution Module",
+	"key": null
+}{
+	"chinese":"(1)正排量泵",
+	"english":"(1) Positive Displacement Pump",
+	"key":"PDP"
+}{
+	"chinese":"(2)配电盘",
+	"english":"(2) Power Distribution Panel",
+	"key": null
+}{
+	"chinese":"主专用安全盘",
+	"english":"Primary Dedicated Safety Panel",
+	"key":"PDSP"
+}{
+	"chinese":"项目执行和收尾阶段检查表",
+	"english":"Project Execution and Closeout Phase Checklist\n(as per NSNP 3.1.2)\n",
+	"key":"PECC"
+}{
+	"chinese":"光电子照相装置",
+	"english":"Photoelectric",
+	"key":"PELEC"
+}{
+	"chinese":"实用摘要和报告语言",
+	"english":"Practical Extraction and Reporting Language",
+	"key":"perl"
+}{
+	"chinese":"允许",
+	"english":"Permissive",
+	"key":"perm"
+}{
+	"chinese":"脉冲频率",
+	"english":"Pulse Frequency",
+	"key":"pf"
+}{
+	"chinese":"功率因素校正",
+	"english":"Power Factor Correction",
+	"key":"PFC"
+}{
+	"chinese":"电厂气体系统",
+	"english":"Plant Gas Systems",
+	"key":"PGS"
+}{
+	"chinese":"氢离子浓度的相对指标",
+	"english":"Relative measure of hydrogen ion concentration",
+	"key":"pH"
+}{
+	"chinese":"重水反应堆",
+	"english":"Pressurized Heavy Water Reactor",
+	"key":"PHWR"
+}{
+	"chinese":"（1）比例-积分\n（2）脉冲输入\n（3）潜在问题\n",
+	"english":"(1) Proportion-Integral \n(2) Pulse Inputs \n(3) Potential Issue (as per WEC 21.0) \n",
+	"key":"PI"
+}{
+	"chinese":"抗饱和比例-积分",
+	"english":"Proportional-Integral with Anti-Saturation (control or\ncontroller)",
+	"key":"PIAS"
+}{
+	"chinese":"面板接口控制器",
+	"english":"Panel Interface Controller",
+	"key":"PIC"
+}{
+	"chinese":"PCI 工业计算机制造商",
+	"english":"PCI Industrial Computers Manufacturers Group. This group\nmaintains the CompactPCI? specification. PICMG? and\nCompactPCI? and the PICMG?, CompactPCI? logos are\ntrademarks of the PCI Industrial Computers Manufacturers\nGroup.",
+	"key":"PICMG?"
+}{
+	"chinese":"电站信息控制系统",
+	"english":"Plant Information Control Systems",
+	"key":"PICS"
+}{
+	"chinese":"管道和仪表流程图",
+	"english":"Piping and Instrumentation Diagram",
+	"key":"P&ID"
+}{
+	"chinese":"（1）比例-积分-微分\n（2）点名\n",
+	"english":"(1) Proportional-Integral-Derivative (Control or Controller) \n(2) Point Identifier (also PTID) \n",
+	"key":"PID"
+}{
+	"chinese": null,
+	"english": null,
+	"key": null
+}{
+	"chinese":"假设始发事件",
+	"english":"Postulated Initiating Event",
+	"key":"PIE"
+}{
+	"chinese":"递增的比例-积分",
+	"english":"Incremental Proportional-Integral",
+	"key":"PIINC"
+}{
+	"chinese":"过程信息系统",
+	"english":"Process Information System",
+	"key":"PIS"
+}{
+	"chinese":"压力隔离阀",
+	"english":"Pressure Isolation Valve",
+	"key":"PISV"
+}{
+	"chinese":"示位阀",
+	"english":"Post Indication Valve",
+	"key":"PIV"
+}{
+	"chinese":"压力隔离阀",
+	"english":"Pressure Isolation Valve",
+	"key":"PIV"
+}{
+	"chinese":"成套（设备、系统）",
+	"english":"Package",
+	"key":"PKG"
+}{
+	"chinese":"电厂",
+	"english":"Plant",
+	"key":"PL"
+}{
+	"chinese":"可编程的逻辑控制器",
+	"english":"Programmable Logic Controller",
+	"key":"PLC"
+}{
+	"chinese":"稳压器水位控制系统",
+	"english":"Pressurizer Level Control System",
+	"key":"PLCS"
+}{
+	"chinese":"峰值线发热率",
+	"english":"Peak Linear Heat Rate",
+	"key":"PLHR"
+}{
+	"chinese":"电厂模式计算",
+	"english":"Plant Mode",
+	"key":"PLM"
+}{
+	"chinese":"（1）预防措施,限制和设定控制量\n（2）电厂控制系统\n",
+	"english":"(1) Precautions, Limitations and Setpoints \n(2) Plant Control System \n",
+	"key":"PLS"
+}{
+	"chinese":"（1）防护检修\n（2）处理器模块\n（3）项目经理\n",
+	"english":"(1) Preventative Maintenance \n(2) Processor Module \n(3) Project Manager \n",
+	"key":"PM"
+}{
+	"chinese":"PCI 夹层卡",
+	"english":"PCI Mezzanine Card. This is a standard for daughter cards that\nuses the PCI bus. It is currently draft standard IEEE P1386.1,\nDraft 2.0, April 4, 1995, “Draft Standard Physical Environment\nLayers for PCI Mezzanine Cards: PMC.”",
+	"key":"PMC"
+}{
+	"chinese":"项目管理协会",
+	"english":"Project Management Institute",
+	"key":"PMI"
+}{
+	"chinese":"项目管理专家",
+	"english":"Project Management Professional",
+	"key":"PMP"
+}{
+	"chinese":"(1)电站监测系统\n(2)保护和安全监测系统\n",
+	"english":"(1) Plant Monitoring System \n(2) Protection and Safty Monitoring System \n",
+	"key":"PMS"
+}{
+	"chinese": null,
+	"english": null,
+	"key": null
+}{
+	"chinese":"处理器模块的软件测试",
+	"english":"Processor Module Software Test",
+	"key":"PMST"
+}{
+	"chinese":"盘台",
+	"english":"Panel",
+	"key":"PNL"
+}{
+	"chinese":"采购单",
+	"english":"Purchase Order",
+	"key":"PO"
+}{
+	"chinese":"动力卸压阀",
+	"english":"Power-Operated Relief Valve",
+	"key":"PORV"
+}{
+	"chinese":"（1）阀位、状态\n（2）正极\n",
+	"english":"(1) Position \n(2) Positive \n",
+	"key":"POS"
+}{
+	"chinese":"配电盘",
+	"english":"Power Panel",
+	"key":"PP"
+}{
+	"chinese":"电厂性能评估",
+	"english":"Plant Performance Assessment",
+	"key":"PPA"
+}{
+	"chinese":"过程保护机柜",
+	"english":"Process Protective Cabinet",
+	"key":"PPC"
+}{
+	"chinese":"稳压器压力控制系统",
+	"english":"Pressurizer Pressure Control System",
+	"key":"PPCS"
+}{
+	"chinese":"政策和程序手册",
+	"english":"Polices and Procedures Manual",
+	"key":"PPM"
+}{
+	"chinese":"（1）点对点协议\n（2）一回路电厂性能计算\n",
+	"english":"(1) Point-to-Point Protocol \n(2) Primary Plant Performance \n",
+	"key":"PPP"
+}{
+	"chinese":"（1）厂区生产水分配系统\n（2）反应堆保护系统\n（3）主保护系统\n",
+	"english":"(1) Industrial Water Yard Piping System \n(2) Plant Protection System \n(3) Primary Protection System \n",
+	"key":"PPS"
+}{
+	"chinese":"项目质量计划",
+	"english":"Project Quality Plan (as per WEC 2.2)",
+	"key":"PQP"
+}{
+	"chinese":"功率量程",
+	"english":"Power Range",
+	"key":"PR"
+}{
+	"chinese":"概率风险评价",
+	"english":"Probabilistic Risk Assessment",
+	"key":"PRA"
+}{
+	"chinese":"试行文件",
+	"english":"Preliminary",
+	"key":"PRE"
+}{
+	"chinese":"压力",
+	"english":"Pressure",
+	"key":"PRESS"
+}{
+	"chinese":"净化",
+	"english":"Purification",
+	"key":"PRFCN"
+}{
+	"chinese":"程序、大纲",
+	"english":"Program",
+	"key":"PRGM"
+}{
+	"chinese":"非能动余热排出",
+	"english":"Passive Residual Heat Removal",
+	"key":"PRHR"
+}{
+	"chinese":"首要、主要、主要的，一回路",
+	"english":"Primary",
+	"key":"PRIM"
+}{
+	"chinese":"功率量程监视",
+	"english":"Power Range Monitoring",
+	"key":"PRM"
+}{
+	"chinese":"可编程只读存储器",
+	"english":"Programmable Read Only Memory",
+	"key":"PROM"
+}{
+	"chinese":"比例的、成比例的",
+	"english":"Proportional",
+	"key":"PROP"
+}{
+	"chinese":"保护器件",
+	"english":"Protection Device",
+	"key":"PROT DEV"
+}{
+	"chinese":"过程代表值",
+	"english":"Process Representation Values",
+	"key":"PRS"
+}{
+	"chinese":"稳压器",
+	"english":"Pressurizer",
+	"key":"PRZR"
+}{
+	"chinese":"概率安全评价",
+	"english":"Probabilistic Safety Assessment",
+	"key":"PSA"
+}{
+	"chinese":"初步安全分析报告",
+	"english":"Preliminary Safety Analysis Report",
+	"key":"PSAR"
+}{
+	"chinese":"一次取样控制",
+	"english":"Primary Sample Control",
+	"key":"PSC"
+}{
+	"chinese":"功率谱",
+	"english":"Power Spectral Density",
+	"key":"PSD"
+}{
+	"chinese":"目的特征和入口条件",
+	"english":"Purpose Symptoms and Entry Conditions",
+	"key":"PSEC"
+}{
+	"chinese":"点安全组",
+	"english":"Point Security Group",
+	"key":"PSG"
+}{
+	"chinese":"磅/平方英寸",
+	"english":"Pounds per Square Inch",
+	"key":"PSI"
+}{
+	"chinese":"电厂系统监视",
+	"english":"Plant System Monitor",
+	"key":"PSM"
+}{
+	"chinese":"电站安全监视系统",
+	"english":"Plant Safety Monitoring System",
+	"key":"PSMS"
+}{
+	"chinese":"一回路取样系统",
+	"english":"Primary Sampling System",
+	"key":"PSS"
+}{
+	"chinese":"电厂状态监视",
+	"english":"Plant States Monitor",
+	"key":"PST"
+}{
+	"chinese":"（1）电压互感器\n（2）(Ovation?)电动工具\n（3）压力变送器\n",
+	"english":"(1) Potential Transformer \n(2) (Ovation?) Power Tools \n(3) Pressure Transmitter \n",
+	"key":"PT"
+}{
+	"chinese":"电动工具数据库",
+	"english":"Power Tools Database",
+	"key":"PTDB"
+}{
+	"chinese":"点名",
+	"english":"Point Identifier (also PID)",
+	"key":"PTID"
+}{
+	"chinese":"（1）电厂放气\n（2）压力容器\n",
+	"english":"(1) Plant Vent \n(2) Pressure Vessel \n",
+	"key":"PV"
+}{
+	"chinese":"聚氯乙烯",
+	"english":"Polyvinyl Chloride",
+	"key":"PVC"
+}{
+	"chinese":"项目验证例行程序",
+	"english":"Project Verification Routine",
+	"key":"PVR"
+}{
+	"chinese":"项目工作授权",
+	"english":"Project Work Authorization",
+	"key":"PWA"
+}{
+	"chinese":"项目级范围数据库",
+	"english":"Program Wide Database",
+	"key":"PWD"
+}{
+	"chinese":"项目级范围数据库用户接口",
+	"english":"Program Wide Database User Interface",
+	"key":"PWDUI"
+}{
+	"chinese":"（1）功率、动力\n（2）压水反应堆\n",
+	"english":"(1) Power \n(2) Pressurized Water Reactor \n",
+	"key":"PWR"
+}{
+	"chinese":"主厂房生活水系统",
+	"english":"Potable Water System",
+	"key":"PWS"
+}{
+	"chinese":"非能动堆芯冷却系统",
+	"english":"Passive Core Cooling System",
+	"key":"PXS"
+}{
+	"chinese":"稳压器",
+	"english":"Pressurizer",
+	"key":"PZR"
+}{
+	"chinese":"象限",
+	"english":"Quadrant",
+	"key":"Q"
+}{
+	"chinese":"质量保证",
+	"english":"Quality Assurance",
+	"key":"QA"
+}{
+	"chinese":"质量控制",
+	"english":"Quality Control",
+	"key":"QC"
+}{
+	"chinese":"1E 级数据处理系统",
+	"english":"Qualified Data Processing System",
+	"key":"QDPS"
+}{
+	"chinese":"质量管理体系",
+	"english":"Quality Management System",
+	"key":"QMS"
+}{
+	"chinese":"合格供应商列表",
+	"english":"Qualified Suppliers List",
+	"key":"QSL"
+}{
+	"chinese":"合格的安全参数显示系统",
+	"english":"Qualified Safety Parameter Display System (predecessor to\nCommon Q PAMS)",
+	"key":"QSPDS"
+}{
+	"chinese":"数量",
+	"english":"Quantity",
+	"key":"qty"
+}{
+	"chinese":"研究与开发",
+	"english":"Research and Development",
+	"key":"R&D"
+}{
+	"chinese":"（1）辐射吸收剂量\n（2）快速应用软件开发\n",
+	"english":"(1) Radiation Absorbed Dose \n(2) Rapid Application Development \n",
+	"key":"RAD"
+}{
+	"chinese": null,
+	"english": null,
+	"key": null
+}{
+	"chinese":"辐射、放射性",
+	"english":"Radiation",
+	"key":"RADN"
+}{
+	"chinese":"附加资料的索取",
+	"english":"Request for Additional Information",
+	"key":"RAI"
+}{
+	"chinese":"独立冗余磁盘阵列",
+	"english":"Redundant Array of Independent Disks",
+	"key":"RAID"
+}{
+	"chinese":"（1）随机存取存储器\n（2）可靠性、可利用性和可维护性\n",
+	"english":"(1) Random Access Memory \n(2) Reliability, Availability and Maintainability \n",
+	"key":"RAM"
+}{
+	"chinese":"可靠性保证大纲",
+	"english":"Reliability Assurance Program",
+	"key":"RAP"
+}{
+	"chinese":"（1）再循环驱动信号\n（2）SRTF（环境）辐射监测系统\n",
+	"english":"(1) Recirculation Actuation Signal \n(2) SRTF Radiation Monitoring System \n",
+	"key":"RAS"
+}{
+	"chinese": null,
+	"english": null,
+	"key": null
+}{
+	"chinese":"备用辅助变压器",
+	"english":"Reserve Auxiliary Transformer",
+	"key":"RAT"
+}{
+	"chinese":"风险增加值",
+	"english":"Risk Achievement Worth",
+	"key":"RAW"
+}{
+	"chinese":"可靠性框图",
+	"english":"Reliability Block Diagram",
+	"key":"RBD"
+}{
+	"chinese":"基于风险的服务器检查",
+	"english":"Risk-Based In-Service Inspection",
+	"key":"RBISI"
+}{
+	"chinese":"（1）放射性控制区\n（2）根本原因分析\n",
+	"english":"(1) Radioactive Control Area \n(2) Root Cause Analysis (or Analyses) (as per WEC 16.4) \n",
+	"key":"RCA"
+}{
+	"chinese":"记录",
+	"english":"Record",
+	"key":"RCD"
+}{
+	"chinese":"反应堆冷却剂疏排水箱",
+	"english":"Reactor Coolant Drain Tank",
+	"key":"RCDT"
+}{
+	"chinese":"堆芯隔离冷却",
+	"english":"Reactor Core Isolation Cooling",
+	"key":"RCIC"
+}{
+	"chinese":"反应堆冷却剂环路/一回路",
+	"english":"Reactor Coolant Loop",
+	"key":"RCL"
+}{
+	"chinese":"远程控制模块",
+	"english":"Remote Control Module",
+	"key":"RCM"
+}{
+	"chinese":"复合器",
+	"english":"Recombiner",
+	"key":"RCMBNR"
+}{
+	"chinese":"反应堆冷却剂泵",
+	"english":"Reactor Coolant Pump",
+	"key":"RCP"
+}{
+	"chinese":"反应堆冷却剂压力边界",
+	"english":"Reactor Coolant Pressure Boundary",
+	"key":"RCPB"
+}{
+	"chinese":"反应堆冷却剂泵振动监测系统",
+	"english":"Reactor Coolant Pump Vibration Monitoring System",
+	"key":"RCPVMS"
+}{
+	"chinese":"反应堆冷却剂系统",
+	"english":"Reactor Coolant System",
+	"key":"RCS"
+}{
+	"chinese":"冗余控制器选择逻辑",
+	"english":"Redundant Controller Selection Logic",
+	"key":"RCSL"
+}{
+	"chinese":"电阻-电容-晶体管逻辑",
+	"english":"Resistor-Capacitor-Transistor Logic",
+	"key":"RCTL"
+}{
+	"chinese":"关系数据库管理系统",
+	"english":"Relational Database Management System",
+	"key":"RDBMS"
+}{
+	"chinese":"（1）屋面排水系统\n（2）参考文件结构\n（3）反应堆卸压系统\n",
+	"english":"(1) Gravity and Roof Drain Collection System \n(2) Reference Document Structure \n(3) Reactor Depressurization System \n",
+	"key":"RDS"
+}{
+	"chinese":"落棒试验子系统",
+	"english":"Rod Drop Test System",
+	"key":"RDTS"
+}{
+	"chinese":"就绪、准备好的",
+	"english":"Ready",
+	"key":"RDY"
+}{
+	"chinese":"工程行动请求",
+	"english":"Request for Engineering Action (as per NA 4.46)",
+	"key":"REA"
+}{
+	"chinese":"反应堆",
+	"english":"Reactor",
+	"key":"REAC"
+}{
+	"chinese":"要求工程变更",
+	"english":"Request for Engineering Change (as per NA 4.28)",
+	"key":"REC"
+}{
+	"chinese":"修订分类任务记录",
+	"english":"Revised Classification Assignment Record (as per WEC 3.2.1)",
+	"key":"RECAR"
+}{
+	"chinese":"再循环",
+	"english":"Recirculation",
+	"key":"recirc"
+}{
+	"chinese":"参考文件",
+	"english":"Reference",
+	"key":"ref"
+}{
+	"chinese":"调压器",
+	"english":"Regulator",
+	"key":"REG"
+}{
+	"chinese":"申请的、要求的",
+	"english":"Requested,Required",
+	"key":"REQD"
+}{
+	"chinese":"废树脂处理系统",
+	"english":"Spent Resin Processing System",
+	"key":"RES"
+}{
+	"chinese":"响应",
+	"english":"Respond",
+	"key":"resp"
+}{
+	"chinese":"版次",
+	"english":"Revision",
+	"key":"rev"
+}{
+	"chinese":"招标",
+	"english":"Request for Bid",
+	"key":"RFB"
+}{
+	"chinese":"（1）请求评议\n（2）通讯规则\n",
+	"english":"(1) Request for Comments \n(2) Rules for Communication \n",
+	"key":"RFC"
+}{
+	"chinese":"射频干扰",
+	"english":"Radio Frequency Interference",
+	"key":"RFI"
+}{
+	"chinese":"投标申请书",
+	"english":"Request for Proposal",
+	"key":"RFP"
+}{
+	"chinese":"询价单",
+	"english":"Request for Quotation",
+	"key":"RFQ"
+}{
+	"chinese":"（1）径向功率倾斜\n（2）培训准备就绪\n",
+	"english":"(1) Radial Flux Tilts Monitor \n(2) Ready for Training \n",
+	"key":"RFT"
+}{
+	"chinese":"管理导则",
+	"english":"Regulatory Guide",
+	"key":"RG"
+}{
+	"chinese":"调节/调节器",
+	"english":"Regulation/Regulator",
+	"key":"RGLTR"
+}{
+	"chinese":"（1）相对湿度\n（2）余热\n",
+	"english":"(1) Relative Humidity \n(2) Residual Heat \n",
+	"key":"RH"
+}{
+	"chinese":"（1）读取存储寄存器\n（2）余热排出\n",
+	"english":"(1) Read Holding Register \n(2) Residual Heat Removal \n",
+	"key":"RHR"
+}{
+	"chinese":"棒插入限制",
+	"english":"Rod Insertion Limit",
+	"key":"RIL"
+}{
+	"chinese":"远程 I/O",
+	"english":"Remote Input/output (Ovation)",
+	"key":"RIO"
+}{
+	"chinese":"读取输入寄存器",
+	"english":"Read Input Register",
+	"key":"RIR"
+}{
+	"chinese":"简化指令集计算机",
+	"english":"Reduced Instruction Set Computer",
+	"key":"RISC"
+}{
+	"chinese":"问题跟踪系统",
+	"english":"Requirements Issue Tracking System",
+	"key":"RITS"
+}{
+	"chinese":"远程位置",
+	"english":"Remote Location",
+	"key":"RL"
+}{
+	"chinese":"（1）Ovation 链接控制模块\n（2）远程连接控制器\n（3）远程逻辑柜\n（4）电阻-电感-电容\n",
+	"english":"(1) Ovation Link Controller Module \n(2) Remote Link Controller \n(3) Remote Logic Cabinet \n(4) Resistance-Inductance-Capacitance \n",
+	"key":"RLC"
+}{
+	"chinese":"Ovation?回路接口模块",
+	"english":"Ovation? Loop Interface Module",
+	"key":"RLI"
+}{
+	"chinese":"远程局域网节点",
+	"english":"Remote LAN Node",
+	"key":"RLN"
+}{
+	"chinese":"延迟、延缓，继电器",
+	"english":"Relay",
+	"key":"RLY"
+}{
+	"chinese":"（1）资源管理器\n（2）装卸料机\n（3）需求管理\n（4）房间\n",
+	"english":"(1) Resource Manager \n(2) Refueling Machine \n(3) Requirements Managements (as per NA 4.32 \n(4) Room \n",
+	"key":"RM"
+}{
+	"chinese":"需求管理和跟踪",
+	"english":"Requirements Management & Traceability",
+	"key":"RM&T"
+}{
+	"chinese":"（1）树脂混合泵\n（2）风险管理计划\n",
+	"english":"(1) Resin Mixing Pump \n(2) Risk Management Plan \n",
+	"key":"RMP"
+}{
+	"chinese":"辐射监测系统",
+	"english":"Radiation Monitoring System",
+	"key":"RMS"
+}{
+	"chinese":"（泵、点击、氢点火器、加湿器）运行状态",
+	"english":"Running",
+	"key":"RN"
+}{
+	"chinese":"远程节点控制器",
+	"english":"Remote Node Controller",
+	"key":"RNC"
+}{
+	"chinese":"非预期响应",
+	"english":"Response Not Obtained",
+	"key":"RNO"
+}{
+	"chinese":"正常余热排出系统",
+	"english":"Normal Residual Heat Removal System",
+	"key":"RNS"
+}{
+	"chinese":"（1）反应堆操纵员\n（2）预期响应\n",
+	"english":"(1) Reactor Operator \n(2) Response Obtained \n",
+	"key":"RO"
+}{
+	"chinese":"变化率",
+	"english":"Rate-of-Change",
+	"key":"ROC"
+}{
+	"chinese":"反应堆操纵员同行检查系统",
+	"english":"Reactor Operator Peer Check System",
+	"key":"ROPCS"
+}{
+	"chinese":"只读存储器",
+	"english":"Read Only Memory",
+	"key":"ROM"
+}{
+	"chinese":"继电器盘",
+	"english":"Relay Panel",
+	"key":"RP"
+}{
+	"chinese":"棒位指示",
+	"english":"Rod Position Indication",
+	"key":"RPI"
+}{
+	"chinese":"快速降功率系统",
+	"english":"Rapid Power Reduction System",
+	"key":"RPR"
+}{
+	"chinese":"反应堆保护系统",
+	"english":"Reactor Protection System",
+	"key":"RPS"
+}{
+	"chinese":"反应堆压力容器",
+	"english":"Reactor Pressure Vessel",
+	"key":"RPV"
+}{
+	"chinese":"修复、替换和自动化服务",
+	"english":"Repair, Replacement and Automation Services (now Nuclear\nAutomation)",
+	"key":"RRAS"
+}{
+	"chinese":"要求反应谱",
+	"english":"Required Response spectrum",
+	"key":"RRS"
+}{
+	"chinese":"风险降低值",
+	"english":"Risk Reduction Worth",
+	"key":"RRW"
+}{
+	"chinese":"推荐性标准",
+	"english":"Recommended Standard",
+	"key":"RS"
+}{
+	"chinese":"冗余传感器算法",
+	"english":"Redundant Sensor Algorithm",
+	"key":"RSA"
+}{
+	"chinese":"远距离停堆控制台",
+	"english":"Remote Shutdown Console",
+	"key":"RSC"
+}{
+	"chinese":"驻现场经理",
+	"english":"Resident Site Manager",
+	"key":"RSM"
+}{
+	"chinese":"远距离停堆控制盘",
+	"english":"Remote Shutdown Panel",
+	"key":"RSP"
+}{
+	"chinese":"远距离停堆室",
+	"english":"Remote Shutdown Room",
+	"key":"RSR"
+}{
+	"chinese":"复位",
+	"english":"Reset",
+	"key":"RST"
+}{
+	"chinese":"棒位监视",
+	"english":"Rod Supervision",
+	"key":"RSU"
+}{
+	"chinese":"再热主汽门",
+	"english":"Reheat Stop Valve",
+	"key":"RSV"
+}{
+	"chinese":"远距离停堆工作站",
+	"english":"Remote Shutdown Workstation",
+	"key":"RSW"
+}{
+	"chinese":"反应堆停堆",
+	"english":"Reactor Trip",
+	"key":"RT"
+}{
+	"chinese":"反应堆停堆断路器",
+	"english":"Reactor Trip Breaker",
+	"key":"RTB"
+}{
+	"chinese":"实时时钟",
+	"english":"Real Time Clock",
+	"key":"RTC"
+}{
+	"chinese":"反应堆停堆回路断路器",
+	"english":"Reactor Trip Circuit Breaker",
+	"key":"RTCB"
+}{
+	"chinese":"热电阻",
+	"english":"Resistance Temperature Detector",
+	"key":"RTD"
+}{
+	"chinese":"发展成为故障",
+	"english":"Run to Failure",
+	"key":"RTF"
+}{
+	"chinese":"（1）需求跟踪矩阵\n（2）运行监视\n",
+	"english":"(1) Requirements Traceability Matrix \n(2) Run Time Monitor \n",
+	"key":"RTM"
+}{
+	"chinese":"非安全相关系统的管理方法",
+	"english":"Regulatory Treatment of Non-Safety Systems",
+	"key":"RTNSS"
+}{
+	"chinese":"实时操作系统",
+	"english":"Real-Time Operating System",
+	"key":"RTOS"
+}{
+	"chinese":"（1）额定热功率\n（2）树脂输送泵\n",
+	"english":"(1) Rated Thermal Power \n(2) Resin Transfer Pump \n",
+	"key":"RTP"
+}{
+	"chinese":"反应堆停堆系统",
+	"english":"Reactor Trip System",
+	"key":"RTS"
+}{
+	"chinese":"反应堆停堆开关柜",
+	"english":"Reactor Trip Switch Gear",
+	"key":"RTSG"
+}{
+	"chinese":"反应堆停堆开关柜系统",
+	"english":"Reactor Trip Switchgear System",
+	"key":"RTSS"
+}{
+	"chinese":"需求跟踪表",
+	"english":"Requirements Traceability Table",
+	"key":"RTT"
+}{
+	"chinese":"远程终端控制系统",
+	"english":"Remote Terminal Unit",
+	"key":"RTU"
+}{
+	"chinese":"反应堆紧急停堆阀门超驰",
+	"english":"Reactor Trip Valve Override",
+	"key":"RTVO"
+}{
+	"chinese":"反应堆压力容器",
+	"english":"Reactor Vessel",
+	"key":"RV"
+}{
+	"chinese":"反应堆压力容器 顶盖",
+	"english":"Reactor Vessel Head",
+	"key":"RVH"
+}{
+	"chinese":"反应堆压力容器顶盖排气阀",
+	"english":"Reactor Vessel Head Vent Valve",
+	"key":"RVHVV"
+}{
+	"chinese":"反应堆压力容器液位指示系统",
+	"english":"Reactor Vessel Level Instrumentation System",
+	"key":"RVLIS"
+}{
+	"chinese":"逆向、逆转、反转",
+	"english":"Reverse",
+	"key":"RVS"
+}{
+	"chinese":"控制棒价值最小化装置",
+	"english":"Rod Worth Minimizer",
+	"key":"RWM"
+}{
+	"chinese":"原水系统",
+	"english":"Raw Water System",
+	"key":"RWS"
+}{
+	"chinese":"换料水箱",
+	"english":"Refueling Water Storage Tank",
+	"key":"RWST"
+}{
+	"chinese":"反应堆",
+	"english":"Reactor",
+	"key":"Rx"
+}{
+	"chinese":"接收端",
+	"english":"Receive",
+	"key":"RX"
+}{
+	"chinese":"反应堆本体系统",
+	"english":"Reactor System",
+	"key":"RXS"
+}{
+	"chinese":"反应性",
+	"english":"Reactivity",
+	"key":"RXTVY"
+}{
+	"chinese":"蒸汽发生器",
+	"english":"Steam Generator",
+	"key":"S/G"
+}{
+	"chinese":"启动",
+	"english":"Startup",
+	"key":"S/U"
+}{
+	"chinese":"软件",
+	"english":"Software",
+	"key":"S/W"
+}{
+	"chinese":"厂用空气",
+	"english":"Service Air",
+	"key":"SA"
+}{
+	"chinese":"科学应用国际公司",
+	"english":"Science Applications International Corporation",
+	"key":"SAIC"
+}{
+	"chinese":"美国科学仪器制造协会",
+	"english":"Scientific Apparatus Maker’s Association",
+	"key":"SAMA"
+}{
+	"chinese":"严重事故管理导则",
+	"english":"Severe Accident Management Guidelines",
+	"key":"SAMGs"
+}{
+	"chinese":"系统应用软件和程序",
+	"english":"System Application and Program",
+	"key":"SAP"
+}{
+	"chinese":"安全性分析报告",
+	"english":"Safety Analysis Report",
+	"key":"SAR"
+}{
+	"chinese":"单向连接站",
+	"english":"Single Attachment Station",
+	"key":"SAS"
+}{
+	"chinese":"（1）饱和\n（2）现场验收试验\n",
+	"english":"(1) Saturation \n(2) Site Acceptance Test/Testing \n",
+	"key":"SAT"
+}{
+	"chinese":"备用",
+	"english":"Standby",
+	"key":"SB"
+}{
+	"chinese":"蒸汽旁排控制系统",
+	"english":"Steam Bypass Control System",
+	"key":"SBCS"
+}{
+	"chinese":"蒸汽发生器排污系统",
+	"english":"Steam Generator Blowdown System",
+	"key":"SBDS"
+}{
+	"chinese":"全厂断电",
+	"english":"Station Blackout",
+	"key":"SBO"
+}{
+	"chinese":"潜在通路分析",
+	"english":"Sneak Circuit Analysis",
+	"key":"SCA"
+}{
+	"chinese":"数据采集和监控系统",
+	"english":"Supervisory Control and Data Acquisition",
+	"key":"SCADA"
+}{
+	"chinese":"串行通讯控制器",
+	"english":"Serial Communication Controller",
+	"key":"SCC"
+}{
+	"chinese":"标准体积",
+	"english":"Standard Cubic Feet per Minute",
+	"key":"SCFM"
+}{
+	"chinese":"系统配置项推荐",
+	"english":"System Configuration Item Recommendation",
+	"key":"SCIR"
+}{
+	"chinese":"(1) 供应链管理\n(2) 源代码管理\n",
+	"english":"(1) Supply Chain Management \n(2) Source Code Management \n",
+	"key":"SCM"
+}{
+	"chinese":"软件配置管理计划",
+	"english":"Software Configuration Management Plan",
+	"key":"SCMP"
+}{
+	"chinese":"停堆关键安全功能",
+	"english":"Shutdown Critical Safety Function",
+	"key":"SCSF"
+}{
+	"chinese":"小型计算机系统接口",
+	"english":"Small Computer System Interface",
+	"key":"SCSI"
+}{
+	"chinese":"信号调节器",
+	"english":"Signal- Conditioning Unit",
+	"key":"SCU"
+}{
+	"chinese":"(1) SD 卡\n(2)停堆\n",
+	"english":"(1) Secure Digital（Card) \n(1) Shutdown \n",
+	"key":"SD"
+}{
+	"chinese":"蒸汽排放控制系统",
+	"english":"Steam Dump Control System",
+	"key":"SDCS"
+}{
+	"chinese":"可见的空间专用的……",
+	"english":"Spatially Dedicated Continuously Visible",
+	"key":"SDCV"
+}{
+	"chinese":"软件设计描述",
+	"english":"Software Design Description",
+	"key":"SDD"
+}{
+	"chinese":"同步数据链路控制",
+	"english":"Synchronous Data Link Control",
+	"key":"SDLC"
+}{
+	"chinese":"简化的显示对象设计工具",
+	"english":"Simplified Display Objects Design Tool",
+	"key":"SDODT"
+}{
+	"chinese":"竖管",
+	"english":"Standpipe",
+	"key":"SDP"
+}{
+	"chinese":"(1) 系统设计需求\n(2) 系统偏差报告\n",
+	"english":"(1) System Design Requirements \n(2) System Deviation Report \n",
+	"key":"SDR"
+}{
+	"chinese":"(1) 生活污水排放系统\n(2) 软件开发站\n(3) 系统设计规范书\n",
+	"english":"(1) Sanitary Drainage System \n(2) Software Development Station \n(3) System Design Specification \n",
+	"key":"SDS"
+}{
+	"chinese":"次专用安全盘",
+	"english":"Secondary Dedicated Safety Panel",
+	"key":"SDSP"
+}{
+	"chinese":"次要的、第二的，二回路",
+	"english":"Secondary",
+	"key":"SEC"
+}{
+	"chinese":"委员会秘书函",
+	"english":"Secretary of the Commission Letter",
+	"key":"SECY"
+}{
+	"chinese":"软件工程设计机构",
+	"english":"Software Engineering Institute",
+	"key":"SEI"
+}{
+	"chinese":"分离器",
+	"english":"Separator",
+	"key":"Sep"
+}{
+	"chinese":"安全评价报告",
+	"english":"(NRC) Safety Evaluation Report",
+	"key":"SER"
+}{
+	"chinese":"电厂实物保护系统",
+	"english":"Plant Security System",
+	"key":"SES"
+}{
+	"chinese":"软件工程试验",
+	"english":"Software Engineering Test",
+	"key":"SET"
+}{
+	"chinese":"乏燃料",
+	"english":"Spent Fuel",
+	"key":"SF"
+}{
+	"chinese":"启动给水调节阀",
+	"english":"Startup Feedwater Control Valve",
+	"key":"SFCV"
+}{
+	"chinese":"安全功能显示",
+	"english":"Safety Functions Display",
+	"key":"SFD"
+}{
+	"chinese":"安全防护",
+	"english":"Safeguard",
+	"key":"sfgd"
+}{
+	"chinese":"启动给水隔离阀",
+	"english":"Startup Feedwater Isolation Valve",
+	"key":"SFIV"
+}{
+	"chinese":"(1)乏燃料池\n(2)启动给水泵\n",
+	"english":"(1) Spent Fuel Pool \n(2) Startup Feedwater Pump \n",
+	"key":"SFP"
+}{
+	"chinese":"乏燃料池冷却系统",
+	"english":"Spent Fuel Pool Cooling System",
+	"key":"SFS"
+}{
+	"chinese":"系统功能试验",
+	"english":"System Functional Test",
+	"key":"SFT"
+}{
+	"chinese":"启动给水",
+	"english":"Startup Feedwater",
+	"key":"SFW"
+}{
+	"chinese":"蒸汽发生器",
+	"english":"Steam Generator",
+	"key":"SG"
+}{
+	"chinese":"蒸汽发生器排污",
+	"english":"Steam Generator Blowdown",
+	"key":"SGBD"
+}{
+	"chinese":"蒸汽发生器给水泵",
+	"english":"Steam Generator Feed Pump",
+	"key":"SGFP"
+}{
+	"chinese":"蒸汽发生器系统",
+	"english":"Steam Generator System",
+	"key":"SGS"
+}{
+	"chinese":"蒸汽发生器传热管破裂",
+	"english":"Steam Generator Tube Rupture",
+	"key":"SGTR"
+}{
+	"chinese":"软件事故分析",
+	"english":"Software Hazards Analysis",
+	"key":"SHA"
+}{
+	"chinese":"屏蔽",
+	"english":"Shield",
+	"key":"SHLD"
+}{
+	"chinese":"组件硬件测试",
+	"english":"Subassembly Hardware Test",
+	"key":"SHT"
+}{
+	"chinese":"(1) 国际单位制\n(2) 安全注入\n",
+	"english":"\"(1) Système International d’Unités (International System of\nUnits)\"\n(2) Safety Injection \n",
+	"key":"SI"
+}{
+	"chinese":"安全注入驱动信号",
+	"english":"Safety Injection Actuation Signal",
+	"key":"SIAS"
+}{
+	"chinese":"系统识别",
+	"english":"System Identification",
+	"key":"SID"
+}{
+	"chinese":"信号",
+	"english":"Signal",
+	"key":"SIG"
+}{
+	"chinese":"安全测量系统",
+	"english":"Safety Instrumented System",
+	"key":"SIS"
+}{
+	"chinese":"系统集成测试",
+	"english":"System Integration Test",
+	"key":"SIT"
+}{
+	"chinese":"串行接口部件",
+	"english":"Serial Interface Unit",
+	"key":"SIU"
+}{
+	"chinese":"地震监测系统",
+	"english":"Seismic Monitoring System",
+	"key":"SJS"
+}{
+	"chinese":"瑞典核能检查员",
+	"english":"Statens k?rnkraftinspektion - Swedish Nuclear Power\nInspectorate (now integrated into SSM)",
+	"key":"SKI"
+}{
+	"chinese":"蒸汽管线",
+	"english":"Steam Line",
+	"key":"SL"
+}{
+	"chinese":"小型回路接口模块",
+	"english":"Small Loop Interface Module",
+	"key":"SLIM"
+}{
+	"chinese":"串行线路互联网协议",
+	"english":"Serial Line Internet Protocol",
+	"key":"SLIP"
+}{
+	"chinese":"蒸汽管隔离阀",
+	"english":"Steamline Isolation Valve",
+	"key":"SLIV"
+}{
+	"chinese":"地坑液位监视",
+	"english":"Sump Level Monitor",
+	"key":"SLM"
+}{
+	"chinese":"蒸汽管谐振补偿",
+	"english":"Steamline Resonance Compensator",
+	"key":"SLRC"
+}{
+	"chinese":"(1) 密封水系统\n(2)选择开关\n",
+	"english":"(1) Seal Water System \n(2) Selector Switch \n",
+	"key":"SLS"
+}{
+	"chinese":"美国薄钢板和空调承包商全国联合会",
+	"english":"Sheet Metal and Air Conditioning Contractors National\nAssociation",
+	"key":"SMACNA"
+}{
+	"chinese":"过饱和边缘监视",
+	"english":"Saturation (Subcooled) Margin Monitor",
+	"key":"SMM"
+}{
+	"chinese":"取样，样本、样品",
+	"english":"Sample",
+	"key":"SMP"
+}{
+	"chinese":"特殊监测系统",
+	"english":"Special Monitoring System",
+	"key":"SMS"
+}{
+	"chinese":"序列号",
+	"english":"Serial Number",
+	"key":"SN"
+}{
+	"chinese":"上海核工程设计院",
+	"english":"Shanghai Nuclear Engineering Research & Design Institute",
+	"key":"SNERDI"
+}{
+	"chinese":"简单网络管理协议",
+	"english":"Simple Network Management Protocol",
+	"key":"SNMP"
+}{
+	"chinese":"国核自仪系统工程有限公司",
+	"english":"State Nuclear Power Automation System Engineering Company",
+	"key":"SNPAS"
+}{
+	"chinese":"国核工程有限公司",
+	"english":"State Nuclear Power Engineering Company",
+	"key":"SNPEC"
+}{
+	"chinese":"传感器",
+	"english":"Sensor",
+	"key":"SNSR"
+}{
+	"chinese":"事件顺序",
+	"english":"Sequence of Events",
+	"key":"SOE"
+}{
+	"chinese":"重大运行事件报告",
+	"english":"Significant Operating Event Report",
+	"key":"SOER"
+}{
+	"chinese":"电磁阀",
+	"english":"Solenoid Operated Valve",
+	"key":"SOLV"
+}{
+	"chinese":"系统运行程序",
+	"english":"System Operating Procedures",
+	"key":"SOP"
+}{
+	"chinese":"电磁阀",
+	"english":"Solenoid-Operated Valve",
+	"key":"SOV"
+}{
+	"chinese":"工作说明书",
+	"english":"Statement of Work",
+	"key":"SOW"
+}{
+	"chinese":"整定值、设定点",
+	"english":"Set Point",
+	"key":"SP"
+}{
+	"chinese":"(1) 安全参数显示计算\n(2) 自给能探测器\n",
+	"english":"(1) Safety Parameter Display calculations \n(2) Self powered detector \n",
+	"key":"SPD"
+}{
+	"chinese":"安全参数显示系统",
+	"english":"Safety Parameter Display System",
+	"key":"SPDS"
+}{
+	"chinese":"信号处理电子设备",
+	"english":"Signal Processing Electronics",
+	"key":"SPE"
+}{
+	"chinese":"计划性能指标",
+	"english":"Schedule Performance Index",
+	"key":"SPI"
+}{
+	"chinese":"提供、补给",
+	"english":"Supply",
+	"key":"SPLY"
+}{
+	"chinese":"软件程序手册",
+	"english":"Software Program Manual",
+	"key":"SPM"
+}{
+	"chinese":"自给能中子探测器",
+	"english":"Self powered neutron detector",
+	"key":"SPND"
+}{
+	"chinese":"抑压池温度监视系统",
+	"english":"Suppression Pool Temperature Monitoring System",
+	"key":"SPOTMOS"
+}{
+	"chinese":"（1）厂区生活污水排放系统\n（2）信号处理系统\n",
+	"english":"(1) Sanitary Water Yard Piping System \n(2) Signal Processing System \n",
+	"key":"SPS"
+}{
+	"chinese":"软件质量保证",
+	"english":"Software Quality Assurance",
+	"key":"SQA"
+}{
+	"chinese":"软件质量保证计划",
+	"english":"Software Quality Assurance Plan",
+	"key":"SQAP"
+}{
+	"chinese":"结构化查询语言",
+	"english":"Structured Query Language",
+	"key":"SQL"
+}{
+	"chinese":"源量程",
+	"english":"Source Range",
+	"key":"SR"
+}{
+	"chinese":"放射性固态废物控制",
+	"english":"Solid Rad Waste Control",
+	"key":"SRC"
+}{
+	"chinese":"软件需求描述",
+	"english":"Software Requirements Description",
+	"key":"SRD"
+}{
+	"chinese":"安全相关功能",
+	"english":"Safety-Related Function",
+	"key":"SRF"
+}{
+	"chinese":"系统可靠性影响研究",
+	"english":"System Reliability Impact Study",
+	"key":"SRIS"
+}{
+	"chinese":"（1）源量程监视\n（2）监督要求监视\n",
+	"english":"(1) Source Range Monitoring \n(2) Surveillance Requirements Monitoring \n",
+	"key":"SRM"
+}{
+	"chinese":"值长",
+	"english":"Senior Reactor Operator",
+	"key":"SRO"
+}{
+	"chinese":"标准审查大纲",
+	"english":"Standard Review Plan",
+	"key":"SRP"
+}{
+	"chinese":"软件发布记录",
+	"english":"Software Release Record",
+	"key":"SRR"
+}{
+	"chinese":"（1）汽水分离再热器（MSR）系统\n（2）软件需求规范书\n（3）系统需求规范书\n",
+	"english":"(1) Moisture Separator and Reheater (MSR) System \n(2) Software Requirements Specification \n(3) System Requirements Specification \n",
+	"key":"SRS"
+}{
+	"chinese":"废树脂贮存箱",
+	"english":"Spent Resin Storage Tank",
+	"key":"SRST"
+}{
+	"chinese":"废树脂接收槽",
+	"english":"Spent Resin Tank",
+	"key":"SRT"
+}{
+	"chinese":"厂址废物处理设施",
+	"english":"Site Radwaste Treatment Facility",
+	"key":"SRTF"
+}{
+	"chinese":"安全卸压阀",
+	"english":"Safety Relief Valve",
+	"key":"SRV"
+}{
+	"chinese":"不锈钢",
+	"english":"stainless steel; typically appended after an SEA designation of\ntype, e.g., 316 SS, 304L SS 400 (series)",
+	"key":"SS"
+}{
+	"chinese":"标准安全分析报告",
+	"english":"Standard Safety Analysis Report",
+	"key":"SSAR"
+}{
+	"chinese":"构筑物、系统和部件",
+	"english":"Structures, Systems or Components",
+	"key":"SSC"
+}{
+	"chinese":"监督顺序控制接口",
+	"english":"Supervising Sequential Control Interface",
+	"key":"SSCI"
+}{
+	"chinese":"系统规范书文件",
+	"english":"System Specification Document",
+	"key":"SSD"
+}{
+	"chinese":"安全停堆地震",
+	"english":"Safe Shutdown Earthquake",
+	"key":"SSE"
+}{
+	"chinese":"停堆关键安全功能",
+	"english":"Shutdown Critical Safety Functions",
+	"key":"SSF"
+}{
+	"chinese":"瑞典辐射保护",
+	"english":"Statens straskyddsinstitut - Swedish Radiation Protection (now\nintegrated into SSM)",
+	"key":"SSI"
+}{
+	"chinese":"瑞典辐射安全局",
+	"english":"Stralsakerhetsmyndigheten - Swedish Radiation Safety\nAuthority",
+	"key":"SSM"
+}{
+	"chinese":"值长办公室",
+	"english":"Shift Supervisor Office",
+	"key":"SSO"
+}{
+	"chinese":"固态保护系统",
+	"english":"Solid State Protection System",
+	"key":"SSPS"
+}{
+	"chinese":"软件规范书审核",
+	"english":"Software Specification Review",
+	"key":"SSR"
+}{
+	"chinese":"二回路取样系统",
+	"english":"Secondary Sampling System",
+	"key":"SSS"
+}{
+	"chinese":"（1）励磁脱扣\n（2）蒸汽\n（3）直通式光纤连接器\n",
+	"english":"(1) Shunt Trip \n(2) Steam \n(3) Straight Tip \n",
+	"key":"ST"
+}{
+	"chinese":"技术顾问",
+	"english":"Shift Technical Advisor",
+	"key":"STA"
+}{
+	"chinese":"系统架构",
+	"english":"SysTem ArchiTecture",
+	"key":"START"
+}{
+	"chinese":"启动允许",
+	"english":"Start Enable",
+	"key":"START ENBL"
+}{
+	"chinese":"状态",
+	"english":"Status",
+	"key":"STAT"
+}{
+	"chinese":"停止允许",
+	"english":"Stop Enable",
+	"key":"STOP ENBL"
+}{
+	"chinese":"（1）标准温度和压力\n（2）停止\n",
+	"english":"(1) Standard Temperature and Pressure \n(2) Stop \n",
+	"key":"STP"
+}{
+	"chinese":"过滤器、滤网",
+	"english":"Strainer",
+	"key":"STR"
+}{
+	"chinese":"模拟机培训系统",
+	"english":"Simulator Training System",
+	"key":"STS"
+}{
+	"chinese":"静态开关",
+	"english":"Static Transfer Switch",
+	"key":"STW"
+}{
+	"chinese":"入口、吸入",
+	"english":"Suction",
+	"key":"sucn"
+}{
+	"chinese":"启动速率",
+	"english":"Startup Rate",
+	"key":"SUR"
+}{
+	"chinese":"厂用的",
+	"english":"Service",
+	"key":"SVCE"
+}{
+	"chinese":"软件确认试验",
+	"english":"Software Validation Test",
+	"key":"SVT"
+}{
+	"chinese":"软件验证和确认计划",
+	"english":"Software Verification and Validation Plan",
+	"key":"SVVP"
+}{
+	"chinese":"软件验证和有效性报告",
+	"english":"Software Verification and Validation Report",
+	"key":"SVVR"
+}{
+	"chinese":"开关",
+	"english":"Switch",
+	"key":"SW"
+}{
+	"chinese":"抗浪涌干扰能力",
+	"english":"Surge Withstand Capability",
+	"key":"SWC"
+}{
+	"chinese":"开关柜",
+	"english":"Switchgear",
+	"key":"SWGR"
+}{
+	"chinese":"厂用水系统",
+	"english":"Service Water System",
+	"key":"SWS"
+}{
+	"chinese":"开关站",
+	"english":"Switchyard",
+	"key":"SWYD"
+}{
+	"chinese":"系统设计说明",
+	"english":"System Design Specification",
+	"key":"SyDS"
+}{
+	"chinese":"同步",
+	"english":"Synchronize",
+	"key":"sync"
+}{
+	"chinese":"系统需求规范",
+	"english":"System Requirements Specification (as per NA 4.32)",
+	"key":"SyRS"
+}{
+	"chinese":"系统",
+	"english":"System",
+	"key":"Sys"
+}{
+	"chinese":"时间和材料",
+	"english":"Time and Materials",
+	"key":"T&M"
+}{
+	"chinese":"热电偶",
+	"english":"Thermocouple",
+	"key":"T/C"
+}{
+	"chinese":"汽机自动",
+	"english":"Turbine Automatic",
+	"key":"TA"
+}{
+	"chinese":"时间平均",
+	"english":"TAP Time Averaging",
+	"key":"TAP"
+}{
+	"chinese":"平均温度",
+	"english":"Average Temperature",
+	"key":"TAVG"
+}{
+	"chinese":"待分配",
+	"english":"To Be Assigned",
+	"key":"TBA"
+}{
+	"chinese":"汽轮机房操纵员操作站",
+	"english":"Turbine Building OWS",
+	"key":"TBC"
+}{
+	"chinese":"待定",
+	"english":"To Be Determined",
+	"key":"TBD"
+}{
+	"chinese":"基于事件的管理",
+	"english":"Time-based Management",
+	"key":"TBM"
+}{
+	"chinese":"（1）试验接头\n（2）热电偶\n",
+	"english":"(1) Test Connection \n(2) Thermocouple \n",
+	"key":"TC"
+}{
+	"chinese":"冷段温度",
+	"english":"Cold Leg Temperature",
+	"key":"TC"
+}{
+	"chinese":"冷段温度",
+	"english":"Cold Leg Temperature",
+	"key":"TCL"
+}{
+	"chinese":"传输控制协议/互联网协议",
+	"english":"Transmission Control Protocol/Internet Protocol",
+	"key":"TCP/IP"
+}{
+	"chinese":"汽轮机控制和保护系统",
+	"english":"Turbine Control and Protection System",
+	"key":"TCPS"
+}{
+	"chinese":"测试配置记录形式",
+	"english":"Test Configuration Record Form",
+	"key":"TCRF"
+}{
+	"chinese":"（1）汽机控制系统\n（2）汽轮机厂房闭式冷却水系统\n",
+	"english":"(1) Turbine Control System \n(2) Turbine Building Closed Cooling Water System \n",
+	"key":"TCS"
+}{
+	"chinese":"温度控制阀",
+	"english":"Temperature Control Valve",
+	"key":"TCV"
+}{
+	"chinese":"延时闭合",
+	"english":"Time Delay Close",
+	"key":"TDC"
+}{
+	"chinese":"汽轮机诊断监测系统",
+	"english":"Turbine Diagnose Monitoring System",
+	"key":"TDM"
+}{
+	"chinese":"延时打开",
+	"english":"Time Delay Open",
+	"key":"TDO"
+}{
+	"chinese":"（1）汽轮机负荷调节系统\n（2）汽轮机厂房排气、疏水和卸压系统\n",
+	"english":"(1) Turbine Demand System \n(2) Turbine Island Vents,Drains and Relief System \n",
+	"key":"TDS"
+}{
+	"chinese":"总预算成本",
+	"english":"Total Estimated Cost",
+	"key":"TEC"
+}{
+	"chinese":"温度",
+	"english":"Temperature",
+	"key":"temp"
+}{
+	"chinese":"测试异常报告",
+	"english":"Test Exception Report",
+	"key":"TER"
+}{
+	"chinese":"SRTF 跟踪系统",
+	"english":"SRTF Tracking System",
+	"key":"TFS"
+}{
+	"chinese":"汽轮发电机",
+	"english":"Turbine Generator",
+	"key":"TG"
+}{
+	"chinese":"汽轮发电机监视及设备控制系统",
+	"english":"Turbine Generator Supervisory & Equipment Control Cabinet",
+	"key":"TGSEC"
+}{
+	"chinese":"（1）热段温度\n（2）热的、热量的\n",
+	"english":"(1) Hot Leg Temperature \n(2) Turbine Control System \n",
+	"key":"TH"
+}{
+	"chinese":"热段温度",
+	"english":"Hot Leg Temperature",
+	"key":"THOT"
+}{
+	"chinese":"电信工业协会",
+	"english":"Telecommunications Industry Association",
+	"key":"TIA"
+}{
+	"chinese":"累积剂量",
+	"english":"Total Integrated Dose",
+	"key":"TID"
+}{
+	"chinese":"入口温度",
+	"english":"Inlet Temperature",
+	"key":"Tin"
+}{
+	"chinese":"堆内探头",
+	"english":"Traversing In-core Probe",
+	"key":"TIP"
+}{
+	"chinese":"汽轮机监督仪表系统",
+	"english":"Turbine Supervisory Instrument System",
+	"key":"TIS"
+}{
+	"chinese":"隔离移交",
+	"english":"Tum (take) Over for Blocking",
+	"key":"TOB"
+}{
+	"chinese":"主汽轮机控制和诊断系统",
+	"english":"Main Turbine Control and Diagnostics System",
+	"key":"TOS"
+}{
+	"chinese":"试验移交",
+	"english":"Tum (take) Over for Test",
+	"key":"TOT"
+}{
+	"chinese":"临时运行移交",
+	"english":"Tum (take) Over for Temporary Operation",
+	"key":"TOTO"
+}{
+	"chinese":"出口温度",
+	"english":"Outlet Temperature",
+	"key":"Tout"
+}{
+	"chinese":"预处理系统",
+	"english":"Water Treatment Plant",
+	"key":"TPS"
+}{
+	"chinese":"总质量管理",
+	"english":"Total Quality Management",
+	"key":"TQM"
+}{
+	"chinese":"故障",
+	"english":"Trouble",
+	"key":"TRBL"
+}{
+	"chinese":"参考温度",
+	"english":"Reference Temperature",
+	"key":"Tref"
+}{
+	"chinese":"跳闸、（安全装置）断开",
+	"english":"Trip",
+	"key":"TRP"
+}{
+	"chinese":"汽轮机排污系统",
+	"english":"Turbine Blowdown System",
+	"key":"TRS"
+}{
+	"chinese":"瞬时的、短暂的",
+	"english":"Transient",
+	"key":"TRSI"
+}{
+	"chinese":"切换开关",
+	"english":"transfer switch",
+	"key":"TS"
+}{
+	"chinese":"（1）转换计算和信号处理\n（2）热应力分析\n",
+	"english":"(1) Transform Calculations and Signal Processing \n(2) Thermal Stress Analysis \n",
+	"key":"TSA"
+}{
+	"chinese":"饱和温度",
+	"english":"Saturation Temperature",
+	"key":"Tsat"
+}{
+	"chinese":"技术支持中心",
+	"english":"Technical Support Center",
+	"key":"TSC"
+}{
+	"chinese":"汽轮机安全保护监测系统",
+	"english":"Turbine Supervisory Instrument System",
+	"key":"TSI"
+}{
+	"chinese":"技术规范监测",
+	"english":"Technical Specification Monitor",
+	"key":"TSM"
+}{
+	"chinese":"磷酸三钠",
+	"english":"Trisodium phosphate",
+	"key":"TSP"
+}{
+	"chinese":"汽轮机",
+	"english":"Turbine",
+	"key":"TURB"
+}{
+	"chinese":"试验放气",
+	"english":"Test Vent",
+	"key":"TV"
+}{
+	"chinese":"核运行闭路电视监视系统",
+	"english":"Closed Circuit Television System",
+	"key":"TVS"
+}{
+	"chinese":"塔、塔式容器",
+	"english":"Tower",
+	"key":"TWR"
+}{
+	"chinese":"发送端",
+	"english":"Transmit",
+	"key":"TX"
+}{
+	"chinese":"机组辅助变压器",
+	"english":"Unit Auxiliary Transformer",
+	"key":"UAT"
+}{
+	"chinese":"统一建筑法规",
+	"english":"Uniform Building Code",
+	"key":"UBC"
+}{
+	"chinese":"用户定义报警",
+	"english":"User Defined Alarm",
+	"key":"UDA"
+}{
+	"chinese":"通用事故维护",
+	"english":"Universal Deadman Maintenance",
+	"key":"UDM"
+}{
+	"chinese":"用户数据报协议/互联网协议",
+	"english":"User Datagram Protocol/Internet Protocol",
+	"key":"UDP/IP"
+}{
+	"chinese":"用户文件审查",
+	"english":"User Documentation Review",
+	"key":"UDR"
+}{
+	"chinese":"超声波流量计",
+	"english":"Ultrasonic Flow Meter",
+	"key":"UFM"
+}{
+	"chinese":"更新的最终安全性分析报告",
+	"english":"Updated Final Safety Analysis Report",
+	"key":"UFSAR"
+}{
+	"chinese":"最终热阱",
+	"english":"Ultimate Heat Sink",
+	"key":"UHS"
+}{
+	"chinese":"用户界面",
+	"english":"User interface",
+	"key":"UI"
+}{
+	"chinese":"美国保险商实验室",
+	"english":"Underwriters Laboratories",
+	"key":"UL"
+}{
+	"chinese":"统一问题追踪系统",
+	"english":"Unified Issue Tracking System",
+	"key":"UNITS"
+}{
+	"chinese":"上部的、较高的",
+	"english":"Upper",
+	"key":"UPR"
+}{
+	"chinese":"不间断电源",
+	"english":"Uninterruptible Power Supply",
+	"key":"UPS"
+}{
+	"chinese":"用户要求文件",
+	"english":"Utility Requirements Document",
+	"key":"URD"
+}{
+	"chinese":"统一资源定位符",
+	"english":"Uniform Resource Locator",
+	"key":"URL"
+}{
+	"chinese":"通用串行总线",
+	"english":"Universal Serial Bus",
+	"key":"USB"
+}{
+	"chinese":"美元",
+	"english":"United States Dollar",
+	"key":"USD"
+}{
+	"chinese":"美国公共卫生服务",
+	"english":"United States Public Health Service",
+	"key":"USPHS"
+}{
+	"chinese":"世界统一时间",
+	"english":"Coordinated Universal Time",
+	"key":"UTC"
+}{
+	"chinese":"非屏蔽双绞线",
+	"english":"Unshielded Twisted Pair",
+	"key":"UTP"
+}{
+	"chinese":"欠电压",
+	"english":"Undervoltage",
+	"key":"UV"
+}{
+	"chinese":"验证和确认",
+	"english":"Verification and Validation",
+	"key":"V&V"
+}{
+	"chinese":"交流电压",
+	"english":"Voltage Alternating Current",
+	"key":"VAC"
+}{
+	"chinese":"真空",
+	"english":"Vacuum",
+	"key":"VACM"
+}{
+	"chinese":"放射性控制区通风系统",
+	"english":"Radiologically Controlled Area Ventilation System",
+	"key":"VAS"
+}{
+	"chinese":"虚拟基础对象",
+	"english":"(EDB) Virtual Basic Object",
+	"key":"VBO"
+}{
+	"chinese":"总线供电系统",
+	"english":"Vital Bus Power Supply System",
+	"key":"VBPSS"
+}{
+	"chinese":"核岛非放射性通风系统",
+	"english":"Nuclear Island Nonradioactive Ventilation System",
+	"key":"VBS"
+}{
+	"chinese":"垂直控制面板",
+	"english":"Vertical Control Board",
+	"key":"VCB"
+}{
+	"chinese":"振动的计算机集成",
+	"english":"Vibration Computer Integration",
+	"key":"VCI"
+}{
+	"chinese":"安全壳循环冷却系统",
+	"english":"Containment Recirculation Cooling System",
+	"key":"VCS"
+}{
+	"chinese":"容量控制罐",
+	"english":"Volume Control Tank",
+	"key":"VCT"
+}{
+	"chinese":"直流电压",
+	"english":"Voltage Direct Current",
+	"key":"VDC"
+}{
+	"chinese":"除盐水处理厂房 HVAC 系统",
+	"english":"Demineralized Water Treatment Building HVAC System",
+	"key":"VDS"
+}{
+	"chinese":"视频显示单元",
+	"english":"Video Display Unit",
+	"key":"VDU"
+}{
+	"chinese":"价值工程",
+	"english":"Value Engineering",
+	"key":"VE"
+}{
+	"chinese":"通风",
+	"english":"Ventilation",
+	"key":"VENT"
+}{
+	"chinese":"垂直的",
+	"english":"Vertical",
+	"key":"VERT"
+}{
+	"chinese":"主控制室应急可居留系统",
+	"english":"Main Control Room Emergency Habitability System",
+	"key":"VES"
+}{
+	"chinese":"视频电子标准协会",
+	"english":"Video Electronics Standards Association",
+	"key":"VESA"
+}{
+	"chinese":"通风",
+	"english":"Ventilation",
+	"key":"Vent"
+}{
+	"chinese":"变额器",
+	"english":"Variable Frequency Drives",
+	"key":"VFD"
+}{
+	"chinese":"安全壳空气过滤系统",
+	"english":"Containment Air Filtration System",
+	"key":"VFS"
+}{
+	"chinese":"辅助锅炉房 HVAC 系统",
+	"english":"Auxiliary Boiler Building HVAC System",
+	"key":"VGS"
+}{
+	"chinese":"核岛保健物理和热机修车间 HVAC 系统",
+	"english":"Health Physics and Hot Machine Shop Areas HVAC System",
+	"key":"VHS"
+}{
+	"chinese":"振动",
+	"english":"Vibration",
+	"key":"VIB"
+}{
+	"chinese":"振动完整性监测系统",
+	"english":"Vibration Integrity Monitoring System",
+	"key":"VIMS"
+}{
+	"chinese":"高压开关站通风系统",
+	"english":"Transmission Switchyard Ventilation System",
+	"key":"VIS"
+}{
+	"chinese":"虚拟局域网",
+	"english":"Virtual Local Area Network",
+	"key":"VLAN"
+}{
+	"chinese":"安全壳氢气控制系统",
+	"english":"Containment Hydrogen Control System",
+	"key":"VLS"
+}{
+	"chinese":"阀门",
+	"english":"Valve",
+	"key":"VLV"
+}{
+	"chinese":"开关站控制楼 HVAC 系统",
+	"english":"Switchyard Control Building HVAC System",
+	"key":"VNS"
+}{
+	"chinese":"挥发性有机物",
+	"english":"Volatile Organic Compounds",
+	"key":"VOC"
+}{
+	"chinese":"容量",
+	"english":"Volume",
+	"key":"vol"
+}{
+	"chinese":"电压、伏特数",
+	"english":"Voltage",
+	"key":"VOLT"
+}{
+	"chinese":"常规岛 BOP 采暖通风空调系统",
+	"english":"Conventional Island BOP Ventilation System",
+	"key":"VOS"
+}{
+	"chinese":"防蒸汽",
+	"english":"Vapor Proof",
+	"key":"VP"
+}{
+	"chinese":"虚拟专用网络",
+	"english":"Virtual Private Network",
+	"key":"VPN"
+}{
+	"chinese":"循环水泵房通风系统",
+	"english":"Pump House Ventilation System",
+	"key":"VPS"
+}{
+	"chinese":"（1）加氯消毒工作站 HVAC 系统\n（2）供应商质量规范书\n",
+	"english":"(1) Chlorination Workshop HVAC System \n(2) Vendor Quality Specifications \n",
+	"key":"VQS"
+}{
+	"chinese":"稳压器、电压调节器",
+	"english":"Voltage Regulator",
+	"key":"VR"
+}{
+	"chinese":"废物厂房 HVAC 系统",
+	"english":"Radwaste Building HVAC System",
+	"key":"VRS"
+}{
+	"chinese":"SRTF HVAC 系统",
+	"english":"SRTF HVAC System",
+	"key":"VSS"
+}{
+	"chinese":"电压互感器",
+	"english":"Voltage Transformer",
+	"key":"VT"
+}{
+	"chinese":"汽轮机厂房通风系统",
+	"english":"Turbine Building Ventilation System",
+	"key":"VTS"
+}{
+	"chinese":"安全壳泄漏率试验系统",
+	"english":"Containment Leak Rate Test System",
+	"key":"VUS"
+}{
+	"chinese":"俄罗斯设计的轻水堆",
+	"english":"Voda-Vodyanoi Energetichesky Reaktor (Russian-designed\npressurized water reactor)",
+	"key":"VVER"
+}{
+	"chinese":"验证和确认大纲",
+	"english":"V&V Plan; Verification and Validation Plan",
+	"key":"VVP"
+}{
+	"chinese":"验证和确认报告",
+	"english":"V&V Report; Verification and Validation Report",
+	"key":"VVR"
+}{
+	"chinese":"废水处理电厂通风系统",
+	"english":"Waste Water Treatment Plant Ventilation System",
+	"key":"VVS"
+}{
+	"chinese":"中央冷冻水系统",
+	"english":"Central Chilled Water System",
+	"key":"VWS"
+}{
+	"chinese":"VX",
+	"english":"Velocity Crosspoint",
+	"key":"VX"
+}{
+	"chinese":"附属/辅助厂房非放射性通风系统",
+	"english":"Annex/Aux Building Nonradioactive Ventilation System",
+	"key":"VXS"
+}{
+	"chinese":"热水加热系统",
+	"english":"Hot Water Heating System",
+	"key":"VYS"
+}{
+	"chinese":"柴油发电机厂房供暖和通风系统",
+	"english":"Diesel Generator Building Heating and Ventilation System",
+	"key":"VZS"
+}{
+	"chinese":"没有",
+	"english":"Without",
+	"key":"w/o"
+}{
+	"chinese":"广域网",
+	"english":"Wide Area Network",
+	"key":"WAN"
+}{
+	"chinese":"网络访问查看器",
+	"english":"Web Access Viewer Enabler",
+	"key":"WAVE"
+}{
+	"chinese":"工作分解结构",
+	"english":"Work Breakdown Structure",
+	"key":"WBS"
+}{
+	"chinese":"水柱",
+	"english":"Water Column",
+	"key":"WC"
+}{
+	"chinese":"西屋商业原子能",
+	"english":"Westinghouse Commercial Atomic Power (topical report)",
+	"key":"WCAP"
+}{
+	"chinese":"废物处理盘",
+	"english":"Waste Disposal Panel",
+	"key":"WDP"
+}{
+	"chinese":"西屋分布式处理系统",
+	"english":"Westinghouse Distributed Processing Family",
+	"key":"WDPF"
+}{
+	"chinese":"海水淡化系统",
+	"english":"Sea Water Desalinization System",
+	"key":"WDS"
+}{
+	"chinese":"监视时钟",
+	"english":"Watchdog Timer",
+	"key":"WDT"
+}{
+	"chinese":"西屋电气公司",
+	"english":"Designator for Level II procedures as per WEC 2.1. Shall\nNOT be used to mean \"Westinghouse Electric Company.\"",
+	"key":"WEC"
+}{
+	"chinese":"西屋电气能源系统",
+	"english":"Westinghouse Energy Systems Europe",
+	"key":"WESE"
+}{
+	"chinese":"工作流程",
+	"english":"Work Flow",
+	"key":"WF"
+}{
+	"chinese":"放射性气体废物处理系统",
+	"english":"Gaseous Radwaste System",
+	"key":"WGS"
+}{
+	"chinese":"废液暂存箱",
+	"english":"Waste Holdup Tank",
+	"key":"WHT"
+}{
+	"chinese":"工作指导",
+	"english":"Work Instruction (as per NA 2.3)",
+	"key":"WI"
+}{
+	"chinese":"循环水加药系统",
+	"english":"Circulate Water Reagent Injection System",
+	"key":"WIS"
+}{
+	"chinese":"无线局域网",
+	"english":"Wireless Local Area Network",
+	"key":"WLAN"
+}{
+	"chinese":"放射性液体废物处理系统",
+	"english":"Liquid Radwaste System",
+	"key":"WLS"
+}{
+	"chinese":"复写寄存器",
+	"english":"Write Multiple Register",
+	"key":"WMR"
+}{
+	"chinese":"废液监测箱",
+	"english":"Waste Monitoring Tank",
+	"key":"WMT"
+}{
+	"chinese":"西屋用户集团",
+	"english":"Westinghouse Owners Group",
+	"key":"WOG"
+}{
+	"chinese":"（1）防风雨\n（2）工作包\n",
+	"english":"(1) Weatherproof or Weather Protected \n(2) Work Package \n",
+	"key":"WP"
+}{
+	"chinese":"西屋过程控制有限公司",
+	"english":"Westinghouse Process Control, Inc.",
+	"key":"WPCI"
+}{
+	"chinese":"大屏幕信息系统",
+	"english":"Wall Panel Information System",
+	"key":"WPIS"
+}{
+	"chinese":"大屏幕导航系统",
+	"english":"Wall Panel Navigation System",
+	"key":"WPNS"
+}{
+	"chinese":"废水处理系统",
+	"english":"Waste Processing System",
+	"key":"WPS"
+}{
+	"chinese":"宽量程",
+	"english":"Wide Range",
+	"key":"WR"
+}{
+	"chinese":"宽量程监视",
+	"english":"Wide Range Monitoring",
+	"key":"WRM"
+}{
+	"chinese":"放射性废液疏排系统",
+	"english":"Radioactive Waste Drain System",
+	"key":"WRS"
+}{
+	"chinese":"放射性固体废物处理系统",
+	"english":"Solid Radwaste System",
+	"key":"WSS"
+}{
+	"chinese":"储水罐",
+	"english":"Water Storage Tank",
+	"key":"WST"
+}{
+	"chinese":"水下照明（安装于水中）",
+	"english":"Watertight(Submersible)",
+	"key":"WT"
+}{
+	"chinese":"重量",
+	"english":"Weight",
+	"key":"wt"
+}{
+	"chinese":"水",
+	"english":"Water",
+	"key":"WTR"
+}{
+	"chinese":"非放射性生产废水系统",
+	"english":"Waste Water System",
+	"key":"WWS"
+}{
+	"chinese":"变压器",
+	"english":"Transformer",
+	"key":"XFMR"
+}{
+	"chinese":"输送、运输、转移、迁移",
+	"english":"Transfer",
+	"key":"XFR"
+}{
+	"chinese":"可扩展标记语言",
+	"english":"Extensible Markup Language",
+	"key":"XML"
+}{
+	"chinese":"变送器、发射机",
+	"english":"Transmitter",
+	"key":"XMTR"
+}{
+	"chinese":"RCS 温度压力监视",
+	"english":"XY Plot Data Processing",
+	"key":"XYP"
+}{
+	"chinese":"厂前区和 BOP 消防系统",
+	"english":"Yard Fire Water System",
+	"key":"YFS"
+}{
+	"chinese":"主发电系统",
+	"english":"Main Generation System",
+	"key":"ZAS"
+}{
+	"chinese":"开关站和厂外电力系统",
+	"english":"Transmission Switchyard and Offsite Power System",
+	"key":"ZBS"
+}{
+	"chinese":"厂外通讯系统",
+	"english":"Offsite Communications System",
+	"key":"ZFS"
+}{
+	"chinese":"厂内备用电源系统",
+	"english":"Onsite Standby Power System",
+	"key":"ZOS"
+}{
+	"chinese":"零周期加速度",
+	"english":"zero period acceleration",
+	"key":"ZPA"
+}{
+	"chinese":"厂外零星电源系统",
+	"english":"Offsite Retail Power System",
+	"key":"ZRS"
+}{
+	"chinese":"励磁和电压调节系统",
+	"english":"Excitation and Voltage Regulation System",
+	"key":"ZVS"
+}

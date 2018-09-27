@@ -1,0 +1,34 @@
+/* miniprogram/pages/page2/next.wxss */
+page {
+  background: #e2f3f5;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.text{
+background-color: #eee;
+padding: 5rpx;
+}
+/*标题 */
+.title{
+padding: 15rpx;
+}
+/*内容 */
+.content{
+padding: 25rpx 30rpx;
+background-color: #ddd
+}
+.line{
+border: 1rpx solid #eee;
+}
+.line_bottom{
+border: 8rpx solid #eee;
+}
+/*隐藏 */
+.hide{
+display: none;
+}
+/*显示 */
+.show{
+display: block;
+}

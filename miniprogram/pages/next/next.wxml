@@ -1,0 +1,18 @@
+<!--miniprogram/pages/page2/next.wxml-->
+
+ <button bindtap='add'>add</button>
+ <button bindtap='onRemove'>delete</button>
+ <button bindtap='onFind'>find</button>
+
+  <view class="" wx:for="{{list}}" wx:key="content" wx:for-index = "key">
+    <view class='title' data-index='{{key}}'    bindtap='toggleBtn'>
+      <label>  {{item.key}}</label>
+    </view>
+    <view hidden='{{item.hidden}}'>
+    <view class='line'></view>
+    <view class='content'>
+      <label>英文描述：{{item.english}}</label>
+      <label>中文描述：{{item.chinese}}</label>
+    </view>
+    </view>
+</view>
