@@ -6,6 +6,6 @@
 </form>
 <view>搜索结果</view>
 <view wx:for="{{re}}" wx:key="re">
-  <view style='color:#f00;'>{{item.result}}</view>
+  <view style='c<ddeeefffffffdd《》olor:#f00;'>{{item.result}}</view>
   <view style='color:green;'>{{item.title}}</view>
 </view>

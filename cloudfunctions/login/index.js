@@ -9,9 +9,25 @@
  * - 经过微信鉴权直接可信的用户唯一标识 openid 
  * 
  */
+const cloud = require('wx-server-sdk')
+cloud.init()
+const db = cloud.database();
 exports.main = (event, context) => {
   console.log(event)
   console.log(context)
+  db.collection('user_info').doc(event._id).update({
+    data:{
+      wx_appid:db.command.set(event.userInfo.openId)
+    },    
+    success: function(res){
+      console.log('云写成功')
+      console.log(res.data)
+    },
+    fail: err => {
+      icon: 'none',
+      console.error('云操作[数据库] [更新记录] 失败：', err)
+    }
+  })
 
   // 可执行其他自定义逻辑
   // console.log 的内容可以在云开发云函数调用日志查看

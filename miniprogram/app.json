@@ -10,7 +10,10 @@
     "pages/chooseLib/chooseLib",
     "pages/next/next",
     "pages/page3/page3",
-    "pages/page4/page4"
+    "pages/page4/page4",
+    "images/login/login",
+    "pages/login",
+    "pages/login/login"
   ],
   "window": {
     "backgroundColor": "#F6F6F6",

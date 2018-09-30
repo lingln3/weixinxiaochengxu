@@ -1,0 +1,14 @@
+<!--miniprogram/pages/login/login.wxml-->
+<!-- 用户名输入 -->
+<view>
+  <text>用户名</text>
+  <input placeholder='请输入用户名' bindinput="bindUserInput" auto-focus='true'></input>
+</view>
+<!-- 密码输入 -->
+<view>
+  <text>密码</text>
+  <input placeholder='请输入密码' bindinput="bindPswInput"></input>
+</view>
+
+<!-- 登陆按钮 -->
+<button bindtap='login_btn'>登陆</button>

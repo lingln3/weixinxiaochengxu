@@ -48,4 +48,9 @@
   <navigator url="../page3/page3" >跳转至第三页</navigator>
   <!-- 页面跳转，第四页 -->
   <navigator url="../page4/page4" >跳转至第四页</navigator>
+    <!-- 页面跳转，login页面 -->
+  <navigator url="../login/login" >跳转至登陆页面
+</navigator>
 </view>
+<button open-type='getUserInfo'>授权</button>
+<button bindtap='getUserId'>获取用户id</button>
